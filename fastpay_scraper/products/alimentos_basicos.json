@@ -1,0 +1,522 @@
+{"brand": "Finna", "name": "Farinha de Trigo FINNA 1Kg", "price": "R$ 3,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Lunar", "name": "Farinha de Trigo LUNAR Premium 1Kg", "price": "R$ 3,69", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Massimex", "name": "Atum Ralado SAINT PAUL Natural 170g", "price": "R$ 4,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Paganini", "name": "Macarr\u00e3o PAGANINI Penne Rigatoni 500g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Paganini", "name": "Macarr\u00e3o PAGANINI Linguine 500g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin Miojo", "name": "Macarr\u00e3o Instant\u00e2neo TALHARIM 99g Frango ", "price": "R$ 2,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nippon", "name": "Milho de Pipoca NIPPON 500g", "price": "R$ 2,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Paganini", "name": "Macarr\u00e3o PAGANINI Espaguete 500g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Tricolori Fusilli 500g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Barilla", "name": "Massa Lasanha BARILLA sem Ovos 250g", "price": "R$ 14,89", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Tricolori Parafuso 500g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Paganini", "name": "Macarr\u00e3o PAGANINI Tagliatelle 500g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Grano Duro Spaguetti N\u00ba8 500g", "price": "R$ 7,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Barilla", "name": "Massa BARILLA Penne Rigate 500g", "price": "R$ 14,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Barilla", "name": " Massa BARILLA Farfalle 500g", "price": "R$ 14,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Barilla", "name": "Massa BARILLA Mini Penne Rigate 500g", "price": "R$ 14,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Lasanha RENATA Grano Duro 200g", "price": "R$ 7,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o EMEG\u00ca Tricolori Parafuso 500g", "price": "R$ 4,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Caldo de Feij\u00e3o 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Barilla", "name": "Massa BARILLA Risoni 500g", "price": "R$ 12,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Galinha 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Hot Calabresa 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Turma da M\u00f4nica", "name": "Macarr\u00e3o Instant\u00e2neo TURMA DA M\u00d4NICA Caldinho de feij\u00e3o 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Picanha 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Legumes 85g", "price": null, "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Hot Mexicano 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Talharim", "name": "Macarr\u00e3o Instant\u00e2neo TALHARIM Alho e \u00d3leo 99g", "price": "R$ 2,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin", "name": "Macarr\u00e3o Instant\u00e2neo Cremoso NISSIN 4 Queijos 88g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Talharim", "name": "Macarr\u00e3o Instant\u00e2neo TALHARIM Bolonhesa 99g", "price": "R$ 2,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Turma da M\u00f4nica", "name": "Macarr\u00e3o Instant\u00e2neo TURMA DA M\u00d4NICA Carne Suave 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Talharim", "name": "Macarr\u00e3o Instant\u00e2neo TALHARIM Calabresa 99g", "price": "R$ 2,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Talharim", "name": "Macarr\u00e3o Instant\u00e2neo TALHARIM Carne com Tomate 99g", "price": "R$ 2,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Talharim", "name": "Macarr\u00e3o Instant\u00e2neo TALHARIM Br\u00f3colis ao Molho Branco 99g", "price": "R$ 2,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Urbano", "name": "Macarr\u00e3o de Arroz URBANO Padre Nosso 500g", "price": "R$ 3,46", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Urbano", "name": "Macarr\u00e3o de Arroz URBANO Pena 500g", "price": "R$ 3,46", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Urbano", "name": "Macarr\u00e3o de Arroz Integral URBANO Pena 500g", "price": "R$ 5,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Urbano", "name": "Macarr\u00e3o de Arroz Integral URBANO Parafuso 500g", "price": "R$ 5,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Fit Food", "name": "Espaguete de Feij\u00e3o FIT FOOD Azuki 200g", "price": "R$ 14,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Urbano", "name": "Macarr\u00e3o de Arroz URBANO Parafuso 500g", "price": "R$ 3,46", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Paganini", "name": "Macarr\u00e3o sem Gl\u00faten PAGANINI Fusilli 250g", "price": "R$ 16,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Fit Food", "name": "Espaguete de Feij\u0101o FIT FOOD Preto 200g", "price": "R$ 14,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o Integral EMEG\u00ca Espaguete 500g", "price": "R$ 4,69", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Visconti", "name": "Batata Palha VISCONTI Cebola e Salsa 140g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "GOI\u00c0S VERDE", "name": "Seleta de Legumes GOI\u00c1S VERDE Lata 200g", "price": "R$ 2,89", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Renata", "name": "Lasanha RENATA Ovos 500g", "price": "R$ 7,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "QUERO", "name": "Seleta de Legumes QUERO Lata 200g", "price": "R$ 2,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Paganini", "name": "Macarr\u00e3o PAGANINI Fettuccine 500g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Hemmer", "name": "Cogumelos Inteiros HEMMER Sach\u00ea 100g", "price": "R$ 10,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Campo Belo", "name": "Azeitonas Verdes CAMPO BELO 200g", "price": "R$ 5,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Meu Biju", "name": "Aveia MEU BIJU 8 Gr\u00e3os 500g ", "price": "R$ 6,19", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Adria", "name": "Macarr\u00e3o S\u00eamola ADRIA Spaguetti N\u00ba 8 500g ", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o S\u00eamola EMEG\u00ca Espiral 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o S\u00eamola EMEG\u00ca Penne 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o S\u00eamola ADRIA Pena 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Cup Noodles", "name": "Macarr\u00e3o Instant\u00e2neo CUP NOODLES Calabresa 68g", "price": "R$ 3,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o S\u00eamola EMEG\u00ca Parafuso 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Bacon 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o EMEG\u00ca com Ovos Cabelo de Anjo 500g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o EMEG\u00ca com Ovos Espaguete 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o ADRIA com Ovos Parafuso 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o EMEG\u00ca com Ovos Parafuso 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o ADRIA com Ovos Padre Nosso 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o com Ovos ADRIA Pena 500g ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Urbano", "name": "Massa de Arroz URBANO Penne 500g", "price": "R$ 4,86", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Urbano", "name": "Massa de Arroz URBANO Fusilli 500g", "price": "R$ 4,86", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Yoki", "name": "Farofa YOKI com Peda\u00e7os Cebola 200g ", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Bsb Alimentos", "name": "Fub\u00e1 de Milho BSB ALIMENTOS 1Kg ", "price": "R$ 2,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Yoki", "name": "Farinha de Milho YOKI Amarela 500g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Nippon", "name": "Farinha de Milho NIPPON 500g ", "price": "R$ 2,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Barilla", "name": "Massa Nacional BARILLA Espaguete 500g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Yoki", "name": "Fub\u00e1 Pr\u00e9 Cozido YOKI 1Kg ", "price": "R$ 7,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Bsb Alimentos", "name": "Canjica Branca BSB ALIMENTOS 500g ", "price": "R$ 2,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Nippon", "name": "Canjica Amarela NIPPON 500g ", "price": "R$ 1,89", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Yoki", "name": "Canjica Cristal YOKI 500g ", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Yoki", "name": "Ervilha Verde YOKI Partida 500g ", "price": "R$ 9,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Yoki", "name": "Polvilho Azedo YOKI 1Kg ", "price": "R$ 18,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Bsb Alimentos", "name": "Gr\u00e3o de Bico BSB ALIMENTOS 500g", "price": "R$ 8,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Nippon", "name": "Ervilha Verde NIPPON 500g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Nippon", "name": "Polvilho Doce NIPPON 1Kg ", "price": "R$ 5,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Nippon", "name": "Trigo para Kibe NIPPON 500g ", "price": "R$ 2,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Ninho N\u00ba 3 500g", "price": "R$ 5,48", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Furadinho 500g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Pena 500g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Talharim N\u00ba 3 500g", "price": "R$ 7,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Yoki", "name": "Fub\u00e1 Mimoso YOKI 500g ", "price": "R$ 2,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Ninho 500g", "price": "R$ 5,48", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o com Ovos ADRIA Gravata 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Aletria 500g", "price": "R$ 5,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Gravata 500g", "price": "R$ 5,48", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Galo", "name": "Macarr\u00e3o GALO Espaguete N\u00ba 8 1Kg", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Galo", "name": "Lasanha S\u00eamola GALO 500g", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o com Ovos ADRIA Letrinhas 500g ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Galo", "name": "Macarr\u00e3o GALO Aletria 500g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "La Molisana", "name": "Lasagne LA MOLISANA 500g", "price": "R$ 11,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Galo", "name": "Macarr\u00e3o GALO Ave Maria 500g ", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Galo", "name": "Macarr\u00e3o GALO Parafuso 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Bsb Alimentos", "name": "Floc\u00e3o de Milho BSB ALIMENTOS 500g", "price": "R$ 1,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Nippon", "name": "Floc\u00e3o de Milho NIPPON 500g ", "price": "R$ 1,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Adria", "name": "Macarr\u00e3o S\u00eamola ADRIA Parafuso 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Bsb Alimentos", "name": "Floc\u00e3o de Arroz BSB ALIMENTOS 500g ", "price": "R$ 2,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Galo", "name": "Macarr\u00e3o GALO Pena 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o S\u00eamola EMEG\u00ca Espaguete 1Kg", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Yoki", "name": "S\u00eamola de Milho YOKI 500g ", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Anglo", "name": "Feijoada ANGLO 830g ", "price": "R$ 13,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Superbom", "name": "Salsicha Defumada SUPERBOM 150g ", "price": "R$ 15,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Vapza", "name": "Feijoada VAPZA Pronta 500g ", "price": "R$ 26,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Fil\u00e9 de Sardinha GOMES DA COSTA Lim\u00e3o 125g ", "price": "R$ 10,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "SUPERBOM", "name": "Salsicha Vegetal SUPERBOM 300g ", "price": "R$ 19,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "BORDON", "name": "Feijoada BORDON 830g ", "price": "R$ 11,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Vapza", "name": "Mandioca Aipim VAPZA 500g", "price": "R$ 9,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Fil\u00e9 de Sardinha GOMES DA COSTA Tomate 125g", "price": "R$ 10,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "COQUEIRO", "name": "Sardinha COQUEIRO Lim\u00e3o 125g ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Gomes da Costa", "name": "Atum Ralado GOMES DA COSTA em \u00d3leo 170g", "price": "R$ 6,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Atum Ralado GOMES DA COSTA Picante 170g ", "price": "R$ 6,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Atum Ralado GOMES DA COSTA Defumado 170g ", "price": "R$ 6,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Atum Peda\u00e7os GOMES DA COSTA Natural 170g ", "price": "R$ 10,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Coqueiro", "name": "Atum Ralado COQUEIRO Tomate 170g", "price": "R$ 6,39", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Atum S\u00f3lido GOMES DA COSTA Baixo Teor de S\u00f3dio \u00d3leo 170g ", "price": "R$ 11,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Atum Ralado GOMES DA COSTA Natural 170g", "price": "R$ 6,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "COQUEIRO", "name": "Atum Ralado COQUEIRO Molho de Tomate 170g", "price": "R$ 9,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Atum S\u00f3lido GOMES DA COSTA Defumado 170g ", "price": "R$ 11,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Atum S\u00f3lido GOMES DA COSTA Natural 170g ", "price": "R$ 11,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Anglo", "name": "Alm\u00f4ndega ao Molho ANGLO 420g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Salada de Atum GOMES DA COSTA Ervilha e Cenoura 150g ", "price": "R$ 11,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Salada de Atum GOMES DA COSTA Batata 150g ", "price": "R$ 11,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Bordon", "name": "Alm\u00f4ndega ao Molho BORDON 420g ", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "SUPERBOM", "name": "Carne Vegetal SUPERBOM 400g ", "price": "R$ 21,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "SUPERBOM", "name": "Bife Vegetal SUPERBOM 300g", "price": "R$ 19,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Superbom", "name": "Cubinhos ao Molho Caseiro SUPERBOM 380g ", "price": "R$ 21,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Anglo", "name": "Feijoada ANGLO 310g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "BORDON", "name": "Fiambre de Carne Bovina BORDON 320g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Superbom", "name": "Hamb\u00farguer SUPERBOM 280g", "price": "R$ 23,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "VAPZA", "name": "Carne Seca Desfiada VAPZA 400g ", "price": "R$ 36,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Superbom", "name": "Jardineira ao Molho Caseiro SUPERBOM 380g", "price": "R$ 21,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Superbom", "name": "Escalope ao Molho Caseiro SUPERBOM 380g ", "price": "R$ 21,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Anglo", "name": "Feijoada ANGLO 430g", "price": "R$ 7,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "BORDON", "name": "Feijoada BORDON 430g", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Kitano", "name": "Noz Moscada KITANO Gr\u00e3o 8g ", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "GOMES", "name": "Sardinha GOMES DA COSTA Picante 125g ", "price": "R$ 4,39", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Sardinha GOMES DA COSTA \u00d3leo 250g", "price": "R$ 8,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Gomes da Costa", "name": "Sardinha GOMES DA COSTA Molho Tomate 250g ", "price": "R$ 9,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Imperador", "name": "Pimenta Bode IMPERADOR 90g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Nippon", "name": "Canjiquinha NIPPON 500g ", "price": "R$ 1,89", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Gomes da Costa", "name": "Sardinha GOMES DA COSTA Lim\u00e3o 125g ", "price": "R$ 4,39", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Bsb Alimentos", "name": "Farinha de Puba BSB ALIMENTOS 1Kg ", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Bsb Alimentos", "name": "Farinha de Milho BSB ALIMENTOS Biju 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "YOKI", "name": "Canjica de Milho YOKI 500g ", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Urbano", "name": "Farinha de Arroz URBANO 1Kg", "price": "R$ 5,11", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Coqueiro", "name": "Atum COQUEIRO Ervas e Azeitona 170g", "price": "R$ 9,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "La Pastina", "name": "Tomate Seco LA PASTINA 280g", "price": "R$ 22,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Tio Jo\u00e3o", "name": "Farinha de Arroz TIO JO\u00c3O 1Kg", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "HEMMER", "name": "Tomate Seco HEMMER 110g", "price": "R$ 12,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Galo ", "name": "Macarr\u00e3o GALO Ninho N\u00ba3 500g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o S\u00eamola EMEG\u00ca Espaguete 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Barilla ", "name": "Massa Nacional BARILLA Penne 500g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Germana ", "name": "Massa Folhada GERMANA Laminada 300g", "price": "R$ 10,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Galo ", "name": "Macarr\u00e3o GALO Spaguetti N\u00ba8 500g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Germana ", "name": "Massa GERMANA Lasanha 500g", "price": "R$ 7,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Anglo", "name": "Salsicha Viena ANGLO 180g", "price": "R$ 3,19", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Hemmer ", "name": "Cogumelos Inteiros HEMMER Sach\u00ea 100g", "price": "R$ 7,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Vale F\u00e9rtil", "name": "Azeitonas Verdes VALE F\u00c9RTIL 500g", "price": "R$ 13,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Fleischman ", "name": "Mistura para Bolo FLEISCHMANN Choco Mousse 450g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Fusilli", "name": "Massa BARILLA Fusilli 500g", "price": "R$ 13,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Fleischman ", "name": "Mistura para Bolo FLEISCHMANN Petit Gateau 450g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Fugini ", "name": "Milho Verde FUGINI Sach\u00ea 200g", "price": "R$ 1,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Fugini ", "name": "Ervilha FUGINI Sach\u00ea 200g ", "price": "R$ 1,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o NISSIN L\u00c1MEN Yakissoba 500g", "price": "R$ 5,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Dicel", "name": "Polpa de Pequi DICEL 240g", "price": "R$ 31,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Yoki", "name": "Trigo para Kibe YOKI 500g ", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Paganini ", "name": "Tomate Pelado PAGANINI 400g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Paganini", "name": "Tomate Pelado PAGANINI em Cubos 400g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Mastroiani", "name": "Tomate sem Pele MASTROIANI 400g", "price": "R$ 5,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Atum Claro GOMES DA COSTA Natural 170g ", "price": "R$ 15,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Gomes da Costa", "name": "Atum Claro GOMES DA COSTA Azeite 170g ", "price": "R$ 15,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "La Violetera", "name": "Azeitonas Verdes LA VIOLETERA com Pasta de Piment\u00e3o 200g", "price": "R$ 9,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Gomes da Costa", "name": "Atum Ralado GOMES DA COSTA Molho de Tomate 170g", "price": "R$ 6,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Renata ", "name": "Macarr\u00e3o RENATA Talharim N\u00ba2 500g", "price": "R$ 7,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Maizena", "name": "Amido de Milho MAIZENA 1Kg", "price": "R$ 11,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Ol\u00e9 ", "name": "Ameixa Seca OL\u00c9 180g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Nippon", "name": "Farinha de Rosca NIPPON 500g", "price": "R$ 4,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Frutos da Terra", "name": "Farinha de Linha\u00e7a FRUTOS DA TERRA Dourada 200g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Amafil ", "name": "Polvilho Doce AMAFIL Matuto 1Kg ", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "La Violetera", "name": "Cogumelos Champignons LA VIOLETERA 100g", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "La Violetera ", "name": "Azeitonas Pretas LA VIOLETERA Fatiada 160g", "price": "R$ 9,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Copra", "name": "Farinha de Coco COPRA 400g", "price": "R$ 11,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Vale F\u00e9rtil ", "name": "Azeitonas Verdes VALE F\u00c9RTIL Sach\u00ea 100g", "price": "R$ 2,69", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Galinha Caipira 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Kenko", "name": "Palmito Inteiro KENKO 300g", "price": "R$ 23,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Paganini ", "name": "Macarr\u00e3o Integrale PAGANINI Penne Rigate 500g", "price": "R$ 9,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Bordon", "name": "Salsicha Viena BORDON 180g ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Renata ", "name": "Macarr\u00e3o RENATA Spaguetti N\u00ba 8 500g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Am\u00e9lia", "name": "Farinha de Mandioca Torrada AM\u00c9LIA 1Kg", "price": "R$ 13,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Kenko", "name": "Cogumelo KENKO 100g", "price": "R$ 8,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Adria ", "name": "Macarr\u00e3o S\u00eamola ADRIA Spaguetti N\u00ba8 500g ", "price": null, "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nippon", "name": "Gr\u00e3o de Bico NIPPON 500g ", "price": "R$ 8,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Pullman ", "name": "Tortilha PULLMAN Rap 10 Light 330g", "price": "R$ 7,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Ol\u00e9", "name": "Milho Verde OL\u00c9 Vidro 200g", "price": "R$ 2,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Coqueiro ", "name": "Atum Peda\u00e7os COQUEIRO Natural Light 170g", "price": "R$ 9,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Adria ", "name": "Macarr\u00e3o S\u00eamola ADRIA Espaguete 1Kg", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata ", "name": "Macarr\u00e3o RENATA Integrale Spaguetti 500g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Cup Noodles", "name": "Macarr\u00e3o Instant\u00e2neo CUP NOODLES Costela 68g", "price": "R$ 3,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Copacol ", "name": "Ervilha COPACOL 300g", "price": "R$ 5,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Hemmer", "name": "Pepino HEMMER Suave 300g", "price": "R$ 12,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Coqueiro", "name": "Atum Ralado COQUEIRO em \u00c1gua 170g", "price": "R$ 6,39", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "La Violetera", "name": "Azeitonas Pretas LA VIOLETERA com Caro\u00e7o 500g", "price": "R$ 22,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Barilla ", "name": "Massa BARILLA Capellini 500g", "price": "R$ 11,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria ", "name": "Macarr\u00e3o com Ovos ADRIA Espaguete N\u00ba 8 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Bonare", "name": "Milho Verde BONARE 200g ", "price": "R$ 1,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Fleischmann ", "name": "Fermento Biol\u00f3gico FLEISCHMANN Sach\u00ea 10g ", "price": "R$ 1,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Paganini ", "name": "Macarr\u00e3o sem Gl\u00faten PAGANINI Espaguete 400g", "price": "R$ 16,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Imperador ", "name": "Azeitonas Verdes IMPERADOR Recheada 190g", "price": "R$ 9,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Gomes da Costa", "name": "Sardinha GOMES DA COSTA \u00d3leo 125g ", "price": "R$ 4,39", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Gomes da Costa", "name": "Sardinha GOMES DA COSTA Tomate 125g", "price": "R$ 4,39", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Barilla ", "name": "Massa Nacional BARILLA Parafuso 500g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Yoki", "name": "Farinha de Rosca YOKI 500g", "price": "R$ 6,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Imperador ", "name": "Azeitonas Verdes IMPERADOR Fatiada 160g", "price": "R$ 6,19", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Hemmer ", "name": "Pepino HEMMER Zero 300g", "price": "R$ 12,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Pullman ", "name": "Tortilha PULLMAN Rap 10 Tradicional 330g", "price": "R$ 7,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": " Vale F\u00e9rtil", "name": "Azeitonas Verdes VALE F\u00c9RTIL Recheada Sach\u00ea 150g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "La Violetera", "name": "Cogumelos Champignons LA VIOLETERA Fatiado 200g", "price": "R$ 18,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Gomes da Costa", "name": "Atum Peda\u00e7os GOMES DA COSTA \u00d3leo 170g", "price": "R$ 10,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Yoki", "name": "Farinha de Mandioca YOKI 500g ", "price": "R$ 5,19", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Adria", "name": "Lasanha ADRIA 500g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Barilla ", "name": "Massa BARILLA Spaghettini 500g", "price": "R$ 11,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Maizena", "name": "Amido de Milho MAIZENA 500g", "price": "R$ 6,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Coqueiro ", "name": "Atum Ralado COQUEIRO \u00d3leo 170g ", "price": "R$ 6,39", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Barilla", "name": "Massa BARILLA Spaghettoni 500g", "price": "R$ 11,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Vale F\u00e9rtil", "name": "Azeitonas Verdes VALE F\u00c9RTIL Fatiada Sach\u00ea 120g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": " La Violetera", "name": "Azeitonas Pretas LA VIOLETERA sem Caro\u00e7o 175g", "price": "R$ 11,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Coqueiro ", "name": "Atum S\u00f3lido COQUEIRO \u00d3leo 170g", "price": "R$ 9,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Frutos da Terra", "name": "Semente de Chia FRUTOS DA TERRA 100g", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Barilla ", "name": "Massa BARILLA Espaguete 500g", "price": "R$ 11,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Maizena ", "name": "Amido de Milho MAIZENA 200g", "price": "R$ 3,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Pullman ", "name": "Tortilha PULLMAN Rap 10 Integral 330g", "price": "R$ 7,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nippon", "name": "Lentilha NIPPON 500g", "price": "R$ 10,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "La Violetera", "name": "Cogumelos Champignons LA VIOLETERA 200g", "price": "R$ 17,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Germana ", "name": "Massa Pastel GERMANA Redonda 500g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Cup Noodles", "name": "Macarr\u00e3o Instant\u00e2neo CUP NOODLES Galinha Caipira 68g", "price": "R$ 3,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Yoki", "name": "Polvilho Doce YOKI 1Kg", "price": "R$ 17,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Germana ", "name": "Massa Pastel GERMANA Quadrada 500g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Carne 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Yoki", "name": "Gr\u00e3o de Bico YOKI 500g ", "price": "R$ 14,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Cup Noodles ", "name": "Macarr\u00e3o Instant\u00e2neo CUP NOODLES Carne 68g", "price": "R$ 3,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Imperador ", "name": "Cogumelo IMPERADOR Fatiado 200g", "price": "R$ 12,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Urbano", "name": "Arroz URBANO 2Kg", "price": "R$ 6,39", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Imperador", "name": "Cogumelo IMPERADOR 100g", "price": "R$ 6,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Quaker", "name": "Milharina QUAKER 500g ", "price": "R$ 4,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Crok ", "name": "Tapioca CROK 200g", "price": "R$ 10,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Yoki", "name": "Floc\u00e3o de Milho YOKI 500g ", "price": "R$ 3,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Fugini", "name": "Milho Verde FUGINI ao Vapor 200g ", "price": "R$ 1,69", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Delicia ", "name": "Feij\u00e3o Carioca DEL\u00cdCIA 1Kg", "price": "R$ 4,89", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Yoki", "name": "Farofa de Mandioca YOKI Temperada 500g ", "price": "R$ 6,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Kicaldo", "name": "Feij\u00e3o Preto KICALDO 1Kg ", "price": "R$ 4,69", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Ole", "name": "Figo em Calda OL\u00c9 400g", "price": "R$ 9,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Cristal", "name": "Arroz CRISTAL 5Kg ", "price": "R$ 16,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Coqueiro ", "name": "Atum S\u00f3lido COQUEIRO \u00d3leo Light 170g", "price": "R$ 9,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz Integral TIO JO\u00c3O Org\u00e2nico 1Kg", "price": "R$ 8,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Imperador", "name": "Palmito IMPERADOR 180g ", "price": "R$ 13,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Nestle", "name": "Farinha L\u00e1ctea NESTL\u00c9 400g", "price": "R$ 8,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": " Tio Jorge", "name": "Arroz TIO JORGE 2Kg", "price": "R$ 6,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Josidith", "name": "Ovos de Codorna JOSIDITH com 30 Unidades", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Ovos"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Galinha Caipira 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "La Violetera", "name": "Azeitonas Verdes LA VIOLETERA sem Caro\u00e7o 175g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Biju", "name": "Arroz Integral MEU BIJU 1Kg", "price": "R$ 4,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz Integral 7 Cereais TIO JO\u00c3O Tradicional 500g ", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz Parboilizado TIO JO\u00c3O 5Kg ", "price": "R$ 18,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz Preto TIO JO\u00c3O 500g", "price": "R$ 15,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz Parboilizado TIO JO\u00c3O 1Kg", "price": "R$ 4,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz Parboilizado TIO JO\u00c3O Saquinhos 1Kg", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz Integral 7 Cereais TIO JO\u00c3O Passas de Uva 500g ", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz Integral TIO JO\u00c3O Saquinhos 1Kg ", "price": "R$ 6,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz com Curry TIO JO\u00c3O Cozinha F\u00e1cil 250g ", "price": "R$ 5,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Cozinha Carnaroli TIO JO\u00c3O 1Kg", "price": "R$ 16,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz com Funghi TIO JO\u00c3O Cozinha F\u00e1cil 250g", "price": "R$ 5,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Cozinha Italiana TIO JO\u00c3O 1Kg ", "price": "R$ 17,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Risoto Parmegiana TIO JO\u00c3O Cozinha&Sabor 175g ", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz com Galinha TIO JO\u00c3O Cozinha&Sabor 175g", "price": "R$ 6,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz Carreteiro TIO JO\u00c3O Cozinha&Sabor 175g", "price": "R$ 6,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Biju", "name": "Cozinha Italiana MEU BIJU 1Kg", "price": "R$ 14,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Label Rouge", "name": "Ovos Caipira LABEL ROUGE com 10 Unidades", "price": null, "category": "Alimentos B\u00e1sicos", "subcategory": "Ovos"}
+{"brand": "Tio Jo\u00e3o", "name": "Cozinha Japonesa TIO JO\u00c3O 1Kg ", "price": "R$ 12,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Risoto Valligiana TIO JO\u00c3O Cozinha&Sabor 175g ", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Josidith", "name": "Ovos Brancos JOSIDITH com 12 Unidades", "price": "R$ 5,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Ovos"}
+{"brand": "Imperador", "name": "Palmito Inteiro IMPERADOR 300g ", "price": "R$ 15,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Kicaldo", "name": "Feij\u00e3o Carioca KICALDO 1Kg ", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Amelia", "name": "Farinha de Mandioca AM\u00c9LIA Amarela 1Kg ", "price": "R$ 13,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "La Violetera ", "name": "Azeitonas Verdes LA VIOLETERA Fatiada 175g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz TIO JO\u00c3O 5Kg", "price": "R$ 19,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jorge", "name": "Arroz TIO JORGE 5Kg ", "price": "R$ 14,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Triangulo", "name": "Abacaxi em Calda TRIANGULO 400g", "price": "R$ 8,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Coqueiro ", "name": "Sardinha COQUEIRO \u00d3leo 125g ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz Integral TIO JO\u00c3O 1Kg ", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "La Violetera", "name": "Azeitonas Pretas LA VIOLETERA 200g", "price": "R$ 9,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Imperador", "name": "Palmito Picado IMPERADOR 300g ", "price": "R$ 11,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Bsb Alimentos", "name": "Lentilha BSB ALIMENTOS 500g", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Quero ", "name": "Milho Verde QUERO Lata 200g", "price": "R$ 1,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Yoki", "name": "Lentilha YOKI 500g ", "price": "R$ 12,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Coqueiro ", "name": "Sardinha COQUEIRO Tomate Temperado 125g ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Campo Belo", "name": "Azeitonas Pretas CAMPO BELO 200g", "price": "R$ 3,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Kicaldo", "name": "Feij\u00e3o Rajado KICALDO 1Kg", "price": "R$ 7,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Quero", "name": "Seleta de Legumes QUERO Sach\u00ea 200g", "price": "R$ 4,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "La Violetera", "name": "Azeitonas Pretas LA VIOLETERA Azapa com Caro\u00e7o 200g", "price": "R$ 12,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Fit Food", "name": "Massa de Milho sem Gl\u00faten FIT FOOD com Quinoa Espaguete 250g", "price": "R$ 9,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz TIO JO\u00c3O +Vita 5Kg", "price": "R$ 17,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "La Violetera", "name": "Azeitonas Pretas LA VIOLETERA com Caro\u00e7o 500g", "price": "R$ 3,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "De Cecco", "name": "Arroz Arb\u00f3rio DE CECCO 1Kg ", "price": "R$ 22,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "DuChef", "name": "Feij\u00e3o Carioca DUCHEF 1Kg", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz TIO JO\u00c3O 1Kg", "price": "R$ 4,69", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz TIO JO\u00c3O +Vita 1Kg ", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Seara", "name": "Ervilha SEARA 300g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Tio Jorge", "name": "Arroz TIO JORGE 1Kg ", "price": "R$ 3,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Biju", "name": "Feij\u00e3o Branco MEU BIJU 500g", "price": "R$ 6,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Combrasil", "name": "Feij\u00e3o Branco COMBRASIL 500g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Amelia", "name": "Feij\u00e3o de Corda AM\u00c9LIA 1Kg ", "price": "R$ 8,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Amelia", "name": "Feij\u00e3o Fradinho AM\u00c9LIA 1Kg", "price": "R$ 7,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Kicaldo", "name": "Feij\u00e3o Branco KICALDO 500g ", "price": "R$ 5,69", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Nissin", "name": "Macarr\u00e3o Instant\u00e2neo Cremoso NISSIN Frango 88g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Massa Caseira EMEG\u00ca Talharim N\u00ba3 500g", "price": "R$ 8,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Talharim", "name": "Macarr\u00e3o Instant\u00e2neo TALHARIM Parmes\u00e3o 99g", "price": "R$ 2,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Barilla", "name": "Massa Bucatini BARILLA 500g", "price": "R$ 11,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Talharim", "name": "Macarr\u00e3o Instant\u00e2neo TALHARIM ao Sugo 99g", "price": "R$ 2,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Cremoso", "name": "Macarr\u00e3o Instant\u00e2neo CREMOSO Cheddar 88g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "M\u00e3e Terra ", "name": "Macarr\u00e3o Org\u00e2nico Integral M\u00c3E TERRA Ave Maria 200g ", "price": "R$ 4,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "M\u00e3e Terra ", "name": "Macarr\u00e3o Org\u00e2nico M\u00c3E TERRA Fusilli Integral 200g ", "price": "R$ 4,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Grano Duro Linguini 500g", "price": "R$ 7,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Paganini", "name": "Macarr\u00e3o PAGANINI Bambini Bichinhos 250g", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "M\u00e3e Terra ", "name": "Macarr\u00e3o Integral M\u00c3E TERRA Penne Org\u00e2nico 200g", "price": "R$ 4,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Flex Tagliarini 500g", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Paganini", "name": "Macarr\u00e3o PAGANINI Integrale Espaguete 500g", "price": "R$ 9,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Paganini", "name": "Macarr\u00e3o PAGANINI Nidi Fettuccine 500g", "price": "R$ 9,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Barilla", "name": "Massa sem Gl\u00faten BARILLA Penne Rigate 500g", "price": "R$ 19,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Barilla", "name": "Massa BARILLA sem Gl\u00faten Spaguetti N\u00ba5 400g", "price": "R$ 19,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Majora", "name": "Massa MAJORA Fusilli 500g ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "La Molisana", "name": "Massa LA MOLISANA Fettuccine 500g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "La Molisana", "name": "Massa LA MOLISANA Farfalle 500g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Fit Food", "name": "Massa de Milho sem Gl\u00faten FIT FOOD com Quinoa Fusilli 250g", "price": "R$ 9,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "La Molisana", "name": "Massa LA MOLISANA Espaguete Quadrato 500g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "La Molisana", "name": "Massa LA MOLISANA Fettuccine 500g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "La Molisana", "name": "Massa LA MOLISANA Penne Ziti Rigate 500g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "La Molisana", "name": "Massa LA MOLISANA Linguine 500g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Jasmine", "name": "Arroz Agulhinha JASMINE 1Kg ", "price": "R$ 10,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Kicaldo", "name": "Feij\u00e3o Fradinho KICALDO 1Kg", "price": "R$ 3,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Biju", "name": "Feij\u00e3o Vermelho MEU BIJU 500g", "price": "R$ 6,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Kicaldo", "name": "Feij\u00e3o Jalo KICALDO 1Kg ", "price": "R$ 7,69", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Fit Food", "name": "Massa de Milho sem Gl\u00faten FIT FOOD com Quinoa Penne 250g", "price": "R$ 9,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Combrasil", "name": "Feij\u00e3o Vermelho COMBRASIL 1Kg", "price": "R$ 7,69", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Kicaldo", "name": "Feij\u00e3o Vermelho KICALDO 500g ", "price": "R$ 5,39", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "La Pastina", "name": "Arroz Arb\u00f3rio LA PASTINA 1Kg", "price": "R$ 22,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Adria", "name": "Macarr\u00e3o S\u00eamola ADRIA Espaguete N\u00ba8 500g ", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o S\u00eamola ADRIA Spaguetti N\u00ba 9 500g ", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o S\u00eamola EMEG\u00ca Caramujo 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin", "name": "Macarr\u00e3o Instant\u00e2neo Cremoso NISSIN Carne 88g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o ADRIA S\u00eamola Padre Nosso 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o S\u00eamola ADRIA 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Galo", "name": "Macarr\u00e3o GALO Tortiglione 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Espaguete 500g", "price": "R$ 5,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o S\u00eamola EMEG\u00ca Furadinho 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Ankara", "name": "Massa S\u00eamola ANKARA Penne Rigatoni 500g ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Veronelli", "name": "Massa S\u00eamola VERONELLI Fusilli 500g", "price": "R$ 3,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Ankara", "name": "Massa S\u00eamola ANKARA Espaguete 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Veronelli", "name": "Massa S\u00eamola VERONELLI Espaguete 500g", "price": "R$ 3,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Cup Noodles", "name": "Macarr\u00e3o Instant\u00e2neo CUP NOODLES Tomate 68g", "price": "R$ 3,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Talharim", "name": "Macarr\u00e3o Instant\u00e2neo TALHARIM Bolonhesa Copo 72g", "price": "R$ 3,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Padre Nosso 500g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Parafuso 500g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Tricolor com Vegetais 500g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Spaguetti N\u00ba 9 500g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Spaguetti N\u00ba 10 500g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o com Ovos ADRIA Argola 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o com Ovos ADRIA Cabelo de Anjo 500g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o com Ovos ADRIA Caracol 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o com Ovos ADRIA Conchinha 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o com Ovos ADRIA Espaguete N\u00ba9 500g ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o com Ovos ADRIA Fidelinho 500g ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o com Ovos ADRIA Padre Nosso 500g ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o com Ovos ADRIA Furado 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o com Ovos ADRIA Nhoque 500g ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o com Ovos ADRIA Espiral 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o EMEG\u00ca com Ovos Furadinho 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Adria", "name": "Macarr\u00e3o com Ovos ADRIA Tortilhone 500g ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o EMEG\u00ca Ninho com Ovos 500g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o EMEG\u00ca com Ovos Padre Nosso 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Emeg\u00ea", "name": "Macarr\u00e3o EMEG\u00ca com Ovos Penne 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Galo", "name": "Macarr\u00e3o GALO Caracolino 500g ", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Galo", "name": "Macarr\u00e3o GALO Nhoque 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Galo", "name": "Macarr\u00e3o GALO Argola 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Galo", "name": "Macarr\u00e3o GALO Parafusinho 500g ", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Galo", "name": "Macarr\u00e3o GALO Rigatone 500g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Carne e Tomate 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Camar\u00e3o 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Costela 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Frango com Alho 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Galinha e Legumes 85g ", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Hot Carne 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Turma da M\u00f4nica", "name": "Macarr\u00e3o Instant\u00e2neo TURMA DA M\u00f4nica Tomate Suave 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Sitio", "name": "Farofa Pronta DO SITIO 250g ", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Yoki", "name": "Farinha de Mandioca YOKI Biju 500g", "price": "R$ 8,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Bsb Alimentos", "name": "Farinha de Rosca BSB ALIMENTOS 500g", "price": "R$ 4,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Sitio", "name": "Farinha de Puba DO SITIO 1Kg", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Nissin L\u00e1men", "name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Hot Galinha 85g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Sitio", "name": "Farinha de Mandioca DO SITIO Baiana 1Kg ", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Sitio", "name": "Farinha de Mandioca DO SITIO Quebradinha 1Kg ", "price": "R$ 5,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Quero", "name": "Gr\u00e3o de Bico QUERO Caixinha 180g", "price": "R$ 2,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Yoki", "name": "Farofa YOKI com Peda\u00e7os Banana 200g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Yoki", "name": "Farofa de Soja YOKI 250g ", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Nippon", "name": "Canjica Branca NIPPON 500g ", "price": "R$ 2,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Nippon", "name": "Farinha de Mandioca NIPPON Quebradinha 1Kg", "price": "R$ 5,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Yoki", "name": "Fub\u00e1 Mimoso YOKI 1Kg", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Nippon", "name": "Fub\u00e1 de Milho NIPPON 1Kg ", "price": "R$ 2,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Bsb Alimentos", "name": "Ervilha Verde BSB ALIMENTOS 500g", "price": "R$ 6,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Yoki", "name": "Sagu de Mandioca YOKI 500g", "price": "R$ 13,89", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Pena 500g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Brazoka", "name": "Tapioca Integral BRAZOKA Batata Doce 400g", "price": "R$ 11,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Nippon", "name": "Polvilho Azedo NIPPON 1Kg ", "price": "R$ 10,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Brazoka", "name": "Tapioca Integral BRAZOKA Banana Verde  400g ", "price": "R$ 11,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Brazoka", "name": "Tapioca Integral BRAZOKA Original 400g ", "price": "R$ 11,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Caracolino 500g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Bsb Alimentos", "name": "Trigo para Kibe BSB ALIMENTOS 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Tia Nena", "name": "Farinha de Trigo TIA NENA 1Kg", "price": "R$ 2,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Nhoque 500g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Renata", "name": "Macarr\u00e3o RENATA Linguine 500g", "price": "R$ 4,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Sitio", "name": "Farinha de Mandioca DO SITIO Amarela 1Kg", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Smart", "name": "P\u00e1prica Doce SMART 75g ", "price": "R$ 16,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Paganini", "name": "Polenta PAGANINI Instant\u00e2nea 500g", "price": "R$ 9,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Aroma das \u00cdndias", "name": "Alho Granulado AROMA DAS \u00cdNDIAS 60g ", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Bsb Alimentos", "name": "Farinha de Mandioca BSB ALIMENTOS Rio 1Kg ", "price": "R$ 6,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Yoki", "name": "Floc\u00e3o de Milho YOKI Kimilho 500g", "price": "R$ 2,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Bsb Alimentos", "name": "Flocos de Milho BSB ALIMENTOS 500g", "price": "R$ 1,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Selle Rosso", "name": "Tomate Cereja em Cubos SELLE ROSSO 240g ", "price": "R$ 5,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Cavalinha GOMES DA COSTA \u00d3leo 125g", "price": "R$ 3,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Emeg\u00ea ", "name": "Macarr\u00e3o Integral EMEG\u00ca Parafuso 500g", "price": "R$ 4,69", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Hemmer", "name": "Tomate sem Pele HEMMER Em Peda\u00e7os 240g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Selle Rosso", "name": "Tomate em Cubos SELLE ROSSO 240g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Atum S\u00f3lido GOMES DA COSTA \u00d3leo 170g ", "price": "R$ 11,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Mutti", "name": "Tomate sem Pele MUTTI 400g ", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Fil\u00e9 de Atum GOMES DA COSTA com Azeite 125g ", "price": "R$ 15,89", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Vale F\u00e9rtil", "name": "Azeitonas Verdes VALE F\u00c9RTIL sem Caro\u00e7o 280g", "price": "R$ 13,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Imperador ", "name": "Azeitonas Verdes IMPERADOR Premium 360g", "price": "R$ 15,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Yoki", "name": "Farinha de Mandioca YOKI 1Kg", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Campo Belo", "name": "Azeitonas Verdes CAMPO BELO sem Caro\u00e7o 160g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Salada de Atum GOMES DA COSTA Batata Doce 150g", "price": "R$ 11,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Salada de Atum GOMES DA COSTA Azeite e Salsa 150g ", "price": "R$ 11,98", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Jasmine ", "name": "Biov P\u00f3 JASMINE 300g", "price": "R$ 29,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Jasmine ", "name": "Farelo de Aveia JASMINE 200g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Bsb Alimentos", "name": "Farinha de Mandioca BSB ALIMENTOS Baiana 1Kg ", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Yoki ", "name": "Farofa de Mandioca YOKI Temperada Suave 250g ", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Daucy ", "name": "Mistura 4 Legumes D'AUCY 300g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Coqueiro ", "name": "Atum Peda\u00e7os COQUEIRO Natural Tradicional 170g", "price": "R$ 9,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Camil", "name": "Feij\u00e3o Carioca CAMIL 1Kg ", "price": "R$ 4,59", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Mangiare", "name": "Tomate sem Pele MANGIARE 400g", "price": "R$ 3,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Adria ", "name": "Macarr\u00e3o ADRIA S\u00eamola Fidelinho 500g", "price": "R$ 4,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Molisana ", "name": "Massa LA MOLISANA Espaguete 500g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Cup Noodles", "name": "Macarr\u00e3o Instant\u00e2neo CUP NOODLES Legumes 68g", "price": "R$ 3,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "La Molisana", "name": "Massa LA MOLISANA Penne Rigate 500g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Jasmine ", "name": "Quinoa Real JASMINE Mista 250g", "price": "R$ 27,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Renata ", "name": "Farinha de Trigo RENATA Integral 1Kg", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Quero ", "name": "Milho Verde QUERO Sach\u00ea 200g", "price": "R$ 1,89", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Germana ", "name": "Massa Lasanha GERMANA ao Forno 500g", "price": "R$ 7,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Yoki ", "name": "Farofa de Milho YOKI Temperada 500g ", "price": "R$ 6,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Campo Belo ", "name": "Azeitonas Verdes CAMPO BELO Recheada 180g", "price": "R$ 6,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Shelby", "name": "P\u00eassegos em Calda SHELBY 450g", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Fil\u00e9 de Sardinha GOMES DA COSTA 125g ", "price": "R$ 10,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "ANGLO", "name": "Salsicha ao Molho ANGLO 300g ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Fil\u00e9 de Sardinha GOMES DA COSTA \u00d3leo 125g ", "price": "R$ 10,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Salada de Salm\u00e3o GOMES DA COSTA Batata e Maionese 170g", "price": "R$ 10,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Paganini ", "name": "Macarr\u00e3o PAGANINI Nidi Tagliatelle 500g", "price": "R$ 8,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Yoki ", "name": "Farinha de Mandioca YOKI Torrada 500g ", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "GOMES", "name": "Sardinha GOMES DA COSTA Ervas 125g ", "price": "R$ 4,39", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "GOMES", "name": "Fil\u00e9 de Sardinha GOMES DA COSTA Pimenta 125g", "price": "R$ 10,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "COQUEIRO", "name": "Sardinha COQUEIRO \u00d3leo 250g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Coqueiro", "name": "Sardinha COQUEIRO Tomate 250g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Aconcagua", "name": "Morango em Calda ACONC\u00c1GUA 590g", "price": "R$ 8,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Bsb Alimentos", "name": "Polvilho Doce BSB ALIMENTOS 1Kg", "price": "R$ 5,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Divella", "name": "Couscus DIVELLA 500g", "price": "R$ 13,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Nippon ", "name": "Farinha de Mandioca NIPPON Torrada 1Kg", "price": "R$ 5,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Prata", "name": "Tapioca Pronta PRATA Fina 1Kg ", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Quero", "name": "Alcaparras QUERO 60g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Germana ", "name": "Massa Pastel GERMANA Lanche 200g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Biju", "name": "Feij\u00e3o Rajado MEU BIJU 500g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "GB", "name": "P\u00eassego em Calda GB Metades 425g", "price": "R$ 8,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz TIO JO\u00c3O 2Kg", "price": "R$ 8,69", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Combrasil", "name": "Feij\u00e3o Preto COMBRASIL 1Kg", "price": "R$ 4,89", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Emege", "name": "Farinha de Trigo EMEG\u00ca 1Kg", "price": "R$ 3,89", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Campo Belo", "name": "Azeitonas Verdes CAMPO BELO Fatiada 160g", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Camil", "name": "Arroz Integral CAMIL 1Kg ", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Biju", "name": "Quinoa MEU BIJU 8 Gr\u00e3os 500g", "price": "R$ 6,19", "category": "Alimentos B\u00e1sicos", "subcategory": "Feij\u00e3o"}
+{"brand": "Urbano", "name": "Arroz Arb\u00f3rio URBANO 1Kg", "price": "R$ 12,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz Basmati TIO JO\u00c3O 500g", "price": "R$ 18,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Jasmine", "name": "Arroz Cateto JASMINE 1Kg ", "price": "R$ 16,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Paganini", "name": "Arroz Arb\u00f3rio PAGANINI 1Kg", "price": "R$ 16,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Paganini", "name": "Arroz Carnaroli PAGANINI 1Kg", "price": "R$ 15,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Urbano", "name": "Arroz Integral URBANO 1Kg", "price": "R$ 3,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz Integral 7 Cereais TIO JO\u00c3O com Quinoa 500g", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Momiji ", "name": "Arroz Oriental MOMIJI 1Kg", "price": "R$ 9,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Camil", "name": "Arroz Parboilizado CAMIL Saquinhos 1Kg ", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jorge", "name": "Arroz Parbolizado TIO JORGE 5Kg", "price": "R$ 15,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Urbano", "name": "Arroz Parbolizado URBANO Saquinhos 1Kg", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz \u00e0 Grega TIO JO\u00c3O Cozinha F\u00e1cil 250g", "price": "R$ 5,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz Integral com Tomate TIO JO\u00c3O Cozinha F\u00e1cil 250g", "price": "R$ 5,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz Integral com Vegetais TIO JO\u00c3O Cozinha F\u00e1cil 250g ", "price": "R$ 5,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz com Br\u00f3colis TIO JO\u00c3O Cozinha F\u00e1cil 250g", "price": "R$ 5,39", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz com Ervas Finas TIO JO\u00c3O Cozinha F\u00e1cil 250g ", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Arroz com Tomate e Manjeric\u00e3o TIO JO\u00c3O Cozinha F\u00e1cil 250g", "price": "R$ 5,39", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Risoto Milan\u00eas TIO JO\u00c3O Cozinha&Sabor 175g ", "price": "R$ 6,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Cozinha Francesa TIO JO\u00c3O 500g ", "price": "R$ 11,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Tio Jo\u00e3o", "name": "Risoto Primavera TIO JO\u00c3O Cozinha&Sabor 175g  ", "price": "R$ 6,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Yabuta", "name": "Ovos Brancos YABUTA com 12 Unidades", "price": "R$ 5,79", "category": "Alimentos B\u00e1sicos", "subcategory": "Ovos"}
+{"brand": "Camil", "name": "Arroz CAMIL Reserva 5Kg", "price": "R$ 15,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}
+{"brand": "Daucy", "name": "Ervilhas  Congeladas D'AUCY 300g", "price": "R$ 5,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Renata", "name": "Farinha de Trigo RENATA Especial 1Kg", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Nippon ", "name": "Farinha de Mandioca NIPPON Branca 1Kg ", "price": "R$ 4,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Selle Giallo", "name": "P\u00eassego em Calda SELLE GIALLO 485g", "price": "R$ 8,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Label Rouge", "name": "Ovos Caipira LABEL ROUGE com 6 Unidades", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Ovos"}
+{"brand": "Aconc\u00e1gua", "name": "P\u00eassego em Calda ACONC\u00c1GUA Metades 230g", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "La Violetera", "name": "Cerejas em Conserva LA VIOLETERA sem Talo 125g", "price": "R$ 12,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Nossa Goma", "name": "Tapioca NOSSA GOMA 500g", "price": "R$ 5,29", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "Bsb Alimentos", "name": "Farinha de Mandioca BSB ALIMENTOS Quebradinha 1Kg", "price": "R$ 7,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Farinhas e Farofas"}
+{"brand": "La Violetera", "name": "Azeitonas Verdes LA VIOLETERA com Caro\u00e7o 500g", "price": "R$ 6,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "La Molisana", "name": "Massa Gnocchi LA MOLISANA 500g", "price": "R$ 7,49", "category": "Alimentos B\u00e1sicos", "subcategory": "Massas Instant\u00e2neas e Tradicionais"}
+{"brand": "Agtal", "name": "Mix de Castanhas AGTAL 390g ", "price": "R$ 27,90", "category": "Alimentos B\u00e1sicos", "subcategory": "Granel"}
+{"brand": "Istambul", "name": "Tahine ISTAMBUL 200g", "price": "R$ 12,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Conservas e Enlatados"}
+{"brand": "Camil", "name": "Arroz CAMIL Reserva 1Kg ", "price": "R$ 3,99", "category": "Alimentos B\u00e1sicos", "subcategory": "Arroz"}

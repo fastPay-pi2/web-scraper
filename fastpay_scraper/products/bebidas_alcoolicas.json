@@ -1,0 +1,336 @@
+{"brand": "Antarctica", "name": "Cerveja ANTARCTICA Subzero Lata 269ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Messias", "name": "Vinho Porto MESSIAS 750ml", "price": "R$ 27,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Pitu ", "name": "Aguardente PIT\u00da 965ml", "price": "R$ 12,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Eisenbahn", "name": "Cerveja EISENBAHN Lata 350ml ", "price": "R$ 3,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "51 ", "name": "Ice 51 Kiwi 275ml", "price": "R$ 3,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Rio Sol ", "name": "Espumante RIO SOL Moscatel 750ml", "price": "R$ 35,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Freixenet ", "name": "Espumante FREIXENET Cordon Negro 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Skol ", "name": "Cerveja SKOL Lata 473ml", "price": "R$ 3,79", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Castillo San Simon", "name": "Vinho Espanhol CASTILLO SAN SIM\u00d3N Tinto 750ml", "price": "R$ 32,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Johnnie Walker ", "name": "Whisky JOHNNIE WALKER Red Label 500ml", "price": "R$ 52,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Freixenet ", "name": "Espumante FREIXENET Carta Nevada 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Mioranza ", "name": "Vinho Nacional MIORANZA Tinto Seco 750ml ", "price": "R$ 12,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Stock ", "name": "Licor STOCK Marula 720ml", "price": "R$ 69,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casas Del Maipo", "name": "Vinho Chileno CASAS DEL MAIPO Carmenere 750ml", "price": "R$ 32,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casillero del Diablo", "name": "Vinho Chileno CASILLERO DEL DIABLO Sauv Blanc 750ml ", "price": "R$ 45,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Famosinha de Minas", "name": "Cacha\u00e7a FAMOSINHA DE MINAS 700ml", "price": "R$ 34,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Therezopolis ", "name": "Cerveja THEREZ\u00d3POLIS Ipa \u00cdndia Garrafa 600ml", "price": "R$ 12,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Ventisquero", "name": "Vinho Chileno VENTISQUERO Reserva Cabernet 750ml", "price": "R$ 44,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casal Garcia ", "name": "Vinho Porto CASAL GARCIA Tinto 750ml", "price": "R$ 49,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Mumm ", "name": "Espumante MUMM Demi-Sec 750ml", "price": "R$ 59,80", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Passport", "name": "Whisky PASSPORT SCOTCH 1L", "price": "R$ 44,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Itaipava", "name": "Cerveja ITAIPAVA Long Neck 355ml ", "price": "R$ 2,29", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Johnnie Walker", "name": "Whisky JOHNNIE WALKER Black Label 1L", "price": "R$ 178,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Eisenbahn ", "name": "Cerveja EISENBAHN Pilsen Garrafa 600ml", "price": "R$ 7,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "51", "name": "Aguardente 51 Lata 350ml", "price": "R$ 5,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Alandra ", "name": "Vinho Porto ALANDRA Tinto 750ml", "price": "R$ 32,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Smirnoff ", "name": "Vodka SMIRNOFF Ice Red Lata 269ml ", "price": "R$ 4,59", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Gran Tarapaca", "name": "Vinho Chileno GRAN TARAPAC\u00c1 Chardonay 750ml", "price": "R$ 65,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Rapariga da Quinta Colheita", "name": "Vinho Porto RAPARIGA DA QUINTA Colheita Tinto 750ml", "price": "R$ 69,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Vinas Del Mar ", "name": "Vinho Chileno VINAS DEL MAR Stilus Carmenere 750ml", "price": "R$ 22,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Vinas Del Mar", "name": "Vinho Chileno VINAS DEL MAR Stilus Cabernet Sauvignon 750ml", "price": "R$ 22,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Marcus James", "name": "Vinho Nacional MARCUS JAMES Cabernet 750ml ", "price": "R$ 21,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "In Situ ", "name": "Vinho Chileno IN SITU Reserva Cabernet 750ml ", "price": "R$ 35,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Ypioca ", "name": "Aguardente YPI\u00d3CA Guaran\u00e1 1L", "price": "R$ 24,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Montilla ", "name": "Rum MONTILLA Carta Ouro 1L", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Mena Kaho", "name": "Espumante MENA KAHO Brut 750ml", "price": "R$ 44,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Pata Negra", "name": "Vinho Espanhol PATA NEGRA Oro 750ml", "price": "R$ 49,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Ballantines ", "name": "Whisky BALLANTINES Finest 750ml", "price": "R$ 74,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "In Situ", "name": "Vinho Chileno IN SITU Reserva Carmenere 750ml ", "price": "R$ 35,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Kriskof", "name": "Vodka KRISKOF Tradicional 900ml", "price": "R$ 9,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Pitu ", "name": "Aguardente PIT\u00da 600ml", "price": "R$ 8,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Antarctica", "name": "Cerveja Antarctica Lata 473ml", "price": "R$ 3,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Birinight ", "name": "BIRINIGHT Lim\u00e3o Ice 375ml", "price": "R$ 2,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Jose Cuervo ", "name": "Tequila JOS\u00c9 CUERVO Cl\u00e1ssico Branca 750ml", "price": "R$ 94,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Montilla ", "name": "Rum MONTILLA Carta Branca 1L", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Assobio ", "name": "Vinho Porto ASSOBIO Douro Tinto 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Crasto", "name": "Vinho Porto CRASTO Superior 750ml", "price": "R$ 139,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Montilla ", "name": "Rum MONTILLA Cristal 1L", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Ypioca ", "name": "Aguardente YPI\u00d3CA sem Palha Ouro 960ml", "price": "R$ 16,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "S\u00e3o Francisco", "name": "Aguardente S\u00c3O FRANCISCO 970ml", "price": "R$ 29,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Monte Paschoal ", "name": "Espumante MONTE PASCHOAL Brut Ros\u00e9 750ml ", "price": "R$ 32,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": " Lambrusco Cella", "name": "Vinho Italiano Lambrusco CELLA Branco 750ml", "price": "R$ 33,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Olaria", "name": "Vinho Portugu\u00eas OLARIA Tinto 750ml", "price": "R$ 24,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Ballantines", "name": "Whisky BALLANTINES 12 Anos 1L", "price": "R$ 149,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Terras Del Rei", "name": "Vinho Portugu\u00eas TERRAS DEL REI 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Rio Sol", "name": "Espumante Rio SOL Brut Ros\u00e9 750ml", "price": "R$ 35,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Chandon", "name": "Espumante CHANDON Demisec 750ml", "price": "R$ 79,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Monte Paschoal", "name": "Espumante MONTE PASCHOAL Moscatel Ros\u00e9 750ml", "price": "R$ 29,80", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Monte Paschoal", "name": "Espumante MONTE PASCHOAL Brut Trad 750ml", "price": "R$ 32,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Mioranza ", "name": "Vinho Nacional MIORANZA Tinto Suave 750ml", "price": "R$ 12,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Tanqueray", "name": "Gin TANQUERAY 750ml", "price": "R$ 129,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Kaiser", "name": "Cerveja KAISER Lata 269ml", "price": "R$ 1,79", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Ciroc", "name": "Vodka CIROC 750ml", "price": "R$ 149,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "White Horse", "name": "Whisky WHITE HORSE 500ml", "price": "R$ 49,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Trapiche", "name": "Vinho Argentino TRAPICHE Varietal Malbec 750ml", "price": "R$ 36,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Stella Artois", "name": "Cerveja STELLA ARTOIS Lata 310ml", "price": "R$ 3,59", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Therezopolis", "name": "Cerveja THEREZ\u00d3POLIS Gold Garrafa 600ml", "price": "R$ 14,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Skol", "name": "Cerveja SKOL Beats Secret Lata 269ml", "price": "R$ 4,29", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Santa Carolina", "name": "Vinho Chileno SANTA CAROLINA Reservado Cab/Carm 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Brahma", "name": "Cerveja BRAHMA Extra Red Lager Long Neck 355ml", "price": "R$ 3,19", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Yellow Tail", "name": "Vinho Australiano YELLOW TAIL Cabernet Sauvignon 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Selvagem", "name": "CATUABA Selvagem A\u00e7a\u00ed 1L ", "price": "R$ 13,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Ballantines", "name": "Whisky BALLANTINES Finest 1L", "price": "R$ 79,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Monte Paschoal", "name": "Espumante MONTE PASCHOAL Moscatel Branca 750ml ", "price": "R$ 29,80", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Gran Tarapaca", "name": "Vinho Chileno GRAN TARAPAC\u00c1 Carmenere 750ml", "price": "R$ 65,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Brahma", "name": "Cerveja BRAHMA Malzebier Long Neck 355ml", "price": "R$ 4,29", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Chilano", "name": "Vinho Chileno CHILANO Carmenere 750ml ", "price": "R$ 22,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Corona", "name": "Cerveja CORONA Long Neck 355ml", "price": "R$ 4,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Colorado", "name": "Cerveja COLORADO Cauim Garrafa 600ml", "price": "R$ 9,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "White Horse", "name": "Whisky WHITE HORSE 1L", "price": "R$ 79,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Old Parr", "name": "Whisky OLD PARR 12 Anos 750ml", "price": "R$ 119,80", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Luccarelli", "name": "Vinho Italiano LUCCARELLI Puglia Rosso 750ml", "price": "R$ 59,80", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Terranostra", "name": "Vinho Argentino Finca TERRANOSTRA Tinto 750ml", "price": "R$ 25,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Pirini ", "name": "Espumante PERINI Ros\u00e9 750ml ", "price": "R$ 38,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Sol", "name": "Cerveja SOL Premium Long Neck 330ml", "price": "R$ 3,79", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Brahma", "name": "Cerveja BRAHMA Chopp Zero \u00c1lcool Lata 350ml", "price": "R$ 3,29", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "51", "name": "Aguardente 51 965ml", "price": "R$ 11,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Concha y Toro", "name": "Vinho Chileno CONCHA Y TORO Reservado Malbec 750ml ", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Perini", "name": "Espumante CASA PERINI Moscatel 750ml ", "price": "R$ 38,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Roskoff", "name": "Vodka ROSKOFF 965ml", "price": "R$ 14,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Mioranza", "name": "Vinho Nacional MIORANZA Branco Suave 750ml", "price": "R$ 12,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Yellow Tail", "name": "Vinho Australiano YELLOW TAIL Chardonnay 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Colorado ", "name": "Cerveja COLORADO Demoiselle Garrafa 600ml ", "price": "R$ 16,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Mumm ", "name": "Espumante MUMM Brut 750ml", "price": "R$ 59,80", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Chilano ", "name": "Vinho Chileno CHILANO Cabernet Sauvignon 750ml", "price": "R$ 22,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Mioranza ", "name": "Vinho Nacional MIORANZA Branco Seco 750ml", "price": "R$ 12,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Benjamin ", "name": "Vinho Argentino BENJAMIN Malbec 750ml", "price": "R$ 34,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Chilano ", "name": "Vinho Chileno CHILANO Sauvignon Blanc 750ml", "price": "R$ 22,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": " Del Grano", "name": "Vinho Nacional DEL GRANO Tinto Suave 750ml", "price": "R$ 10,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Brahma ", "name": "Cerveja Long NeckBRAHMA Chopp Zero \u00c1lcool 355ml", "price": "R$ 3,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Giacondi", "name": "Vinho Italiano GIACONDI 750ml", "price": "R$ 38,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Bohemia", "name": "Cerveja BOHEMIA Puro Malte Lata 350ml", "price": "R$ 2,59", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Smirnoff", "name": "Vodka SMIRNOFF Ice Red 275ml", "price": "R$ 4,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Cosecha Tarapaca", "name": "Vinho Chileno COSECHA TARAPAC\u00c1 Carmenere 750ml", "price": "R$ 34,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Heineken", "name": "Cerveja HEINEKEN Puro Malte Garrafa 600ml", "price": "R$ 7,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Brahma", "name": "Cerveja BRAHMA Extra Lager Long Neck 355ml ", "price": "R$ 3,19", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Stella Artois", "name": "Cerveja STELLA ARTOIS Long Neck 275ml", "price": "R$ 4,19", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Antarctica", "name": "Cerveja Antarctica Original One Way Garrafa 600ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Smirnoff", "name": "Vodka SMIRNOFF Tradicional 600ml", "price": "R$ 22,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Skol", "name": "Cerveja SKOL Beats Senses Lata 269ml", "price": "R$ 4,29", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Smirnoff", "name": "Vodka SMIRNOFF 998ML", "price": "R$ 39,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Santa Carolina ", "name": "Vinho Chileno SANTA CAROLINA Reservado Cabernet Sauvignon 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Chivas Regal", "name": "Whisky CHIVAS Regal 12 Anos 1L", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Casa Trincado", "name": "Vinho Chileno CASA TRINCADO 750ml", "price": "R$ 29,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Esmeralda Del Sur", "name": "Vinho Chileno ESMERALDA DEL SUR Cabernet Sauvignon 750ml", "price": "R$ 29,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Absolut", "name": "Vodka ABSOLUT Natural 1L", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Budweiser", "name": "Cerveja BUDWEISER Lata 269ml", "price": "R$ 2,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Cosecha Tarapaca", "name": "Vinho Chileno COSECHA TARAPAC\u00c1 Merlot 750ml ", "price": "R$ 34,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Terranostra", "name": "Espumante Finca TERRANOSTRA Brut 750ml", "price": "R$ 34,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Heineken", "name": "Cerveja HEINEKEN Puro Malte Lata 250ml", "price": "R$ 3,39", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Johnnie Walker", "name": "Whisky JOHNNIE WALKER Black Label 750ML", "price": "R$ 149,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Skol", "name": "Cerveja SKOL Lata 350ml", "price": "R$ 2,79", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Santa Carolina", "name": "Vinho Chileno SANTA CAROLINA Reservado Sauv Blanc 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Baahma", "name": "Cerveja BRAHMA Lata 269ml", "price": "R$ 2,19", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Casa Perini ", "name": "Espumante PERINI Brut 750ml", "price": "R$ 38,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Antartica", "name": "Cerveja Antartica Lata 269ml", "price": "R$ 2,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Skol", "name": "Cerveja SKOL Lata 269ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Ventisquero ", "name": "Vinho Chileno VENTISQUERO Cl\u00e1ssico Shiraz 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Orloff", "name": "Vodka ORLOFF 1L", "price": "R$ 29,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Itaipava", "name": "Cerveja ITAIPAVA Lata 269ml", "price": "R$ 1,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Amstel", "name": "Cerveja AMSTEL Puro Malte Lata 269ml", "price": "R$ 2,79", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Johnnie Walker ", "name": "Whisky JOHNNIE WALKER Red Label 1L", "price": "R$ 99,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Sagatiba ", "name": "Aguardente SAGATIBA Pura 700ml", "price": "R$ 42,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "J.P Chenet ", "name": "Vinho Franc\u00eas J.P. CHENET Shiraz 750ml", "price": "R$ 54,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Gato Negro", "name": "Vinho Chileno GATO NEGRO Cabernet Sauvignon 375ml", "price": "R$ 22,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Tenta ", "name": "Vinho Chileno TENTA Cabernet 750ml", "price": "R$ 21,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casa Perini ", "name": "Vinho Nacional CASA PERINI Cabernet 750ml ", "price": "R$ 32,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Ponto Nero", "name": "Espumante PONTO NERO Brut 750ml", "price": "R$ 54,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Rebento da Cepa ", "name": "Vinho do Porto REBENTO DA CEPA Tinto 750ml", "price": "R$ 27,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "51 ", "name": "Aguardente 51 Ouro 965ml", "price": "R$ 15,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Porca de Murca", "name": "Vinho Porto PORCA DE MURCA Tinto 750ml", "price": "R$ 43,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Estrella Galicia", "name": "Cerveja ESTRELLA GAL\u00cdCIA Lata 350ml", "price": "R$ 3,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Varichon e Clerc", "name": "Espumante Varichon e Clerc Brut 750ml", "price": "R$ 25,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Dom Bosco", "name": "Vinho Nacional DOM BOSCO 1L", "price": "R$ 16,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Bacardi ", "name": "Rum BACARDI Carta Ouro 980ml", "price": "R$ 39,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Ventisqueiro Tantehue", "name": "Vinho Chileno VENTISQUEIRO TANTEHUE Chardonay 750ml", "price": "R$ 27,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Frangelico ", "name": "Licor FRANGELICO 700ml", "price": "R$ 109,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Vezzani ", "name": "Vinho Italiano VEZZANI Primitivo 750ml", "price": "R$ 59,00", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Concha y Toro", "name": "Vinho Chileno CONCHA Y TORO Reservado Merlot 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Cereser ", "name": "Sidra CERESER Morango 660ml", "price": "R$ 12,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Dgusta", "name": "Cacha\u00e7a Bananinha D'GUSTA 750ml", "price": "R$ 94,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Monte Paschoal", "name": "Kit MONTE PASCHOAL com 2 Ta\u00e7as Cabernet Sauvignon", "price": "R$ 39,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Can\u00f4nico ", "name": "Vinho Nacional CAN\u00d4NICO Ros\u00e9 Doce 750ml ", "price": "R$ 29,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "51 ", "name": "Ice 51 Lim\u00e3o 275ml ", "price": "R$ 3,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Cereser ", "name": "Sidra CERESER Uva 660ml", "price": "R$ 12,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Rio Sol", "name": "Espumante RIO SOL Moscatel 375ml ", "price": "R$ 24,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "In Situ", "name": "Vinho Chileno IN SITU Reserva Merlot 750ml", "price": "R$ 35,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Bacardi ", "name": "Rum BACARDI Carta Branca 980ml", "price": "R$ 39,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Baden ", "name": "Cerveja BADEN 1999 Garrafa 600ml", "price": "R$ 15,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Casa Valduga", "name": "Vinho Nacional CASA VALDUGA Premium Raizes Cabernet Fran 750ml ", "price": "R$ 74,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Devassa ", "name": "Cerveja DEVASSA Loura Long Neck 355ml", "price": "R$ 3,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Chanceler ", "name": "Whisky CHANCELER 1L", "price": "R$ 16,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Bispo ", "name": "Cerveja BISPO Apa Garrafa 500ml", "price": "R$ 15,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Almaden ", "name": "Vinho Nacional ALMADEN Riesling 750ml", "price": "R$ 24,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Itaipava ", "name": "Cerveja ITAIPAVA Zero \u00c1lcool Long Neck 355ml", "price": "R$ 3,29", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Lua Nova", "name": "Aguardente LUA NOVA 600ml", "price": "R$ 32,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": null, "name": "Espumante Varichon e Clerc Ros\u00e9 750ml", "price": "R$ 25,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Gran Tarapaca", "name": "Vinho Chileno GRAN TARAPAC\u00c1 Carmenere 375ml", "price": "R$ 37,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Stock ", "name": "Licor STOCK Curacau Blue 720ml", "price": "R$ 44,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casas Del Maipo", "name": "Vinho Chileno CASAS DEL MAIPO Chardonay 750ml", "price": "R$ 32,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Alian\u00e7a Verde", "name": "Vinho Porto ALIAN\u00c7A VERDE 750ml", "price": "R$ 44,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Saint Germain", "name": "Vinho Nacional SAINT GERMAIN Cabernet 750ml", "price": "R$ 18,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Santa Helena ", "name": "Vinho Chileno SANTA HELENA Reservado Chardonnay 750ml", "price": "R$ 29,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Stock ", "name": "Licor STOCK Creme de Cassis 720ml ", "price": "R$ 44,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Chandon ", "name": "Espumante CHANDON Passion 750ml", "price": "R$ 79,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Heineken", "name": "Cerveja HEINEKEN Puro Malte Long Neck 330ml", "price": "R$ 4,59", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Callia", "name": "Vinho Argentino CALLIA ALTA Pinot Grigio 750ml", "price": "R$ 44,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Cereser ", "name": "Sidra CERESER Zero \u00c1lcool 660ml", "price": "R$ 12,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Ypioca ", "name": "Aguardente YPI\u00d3CA com Palha Ouro 965ml", "price": "R$ 32,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": " San Jose de Apalta", "name": "Vinho Chileno SAN JOS\u00c9 DE APALTA Cabernet 750ml", "price": "R$ 29,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Cereser ", "name": "Sidra CERESER Ma\u00e7\u00e3 Verde 660ml", "price": "R$ 12,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casa Valduga", "name": "Vinho Nacional CASA VALDUGA Origem Cabernet Sauvignon 750ml", "price": "R$ 49,80", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "San Jose de Apalta", "name": "Vinho Chileno SAN JOS\u00c9 DE APALTA Reserva Cabernet 750ml", "price": "R$ 59,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Nieto ", "name": "Vinho Argentino NIETO Doc 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Seleta ", "name": "Aguardente SELETA 1L", "price": "R$ 42,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Salton", "name": "Espumante SALTON Prosecco Bruto 750ml", "price": "R$ 29,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Marcus James", "name": "Vinho Nacional MARCUS JAMES Riesling 750ml", "price": "R$ 21,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Concha y Toro", "name": "Vinho Chileno CONCHA Y TORO Trio Reserva Merlot 750ml", "price": "R$ 69,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Cella ", "name": "Vinho Italiano Lambrusco CELLA Ros\u00e9 750ml ", "price": "R$ 33,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Therezopolis ", "name": "Cerveja THEREZ\u00d3POLIS Gold Lata 473ml", "price": "R$ 5,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Frontera ", "name": "Vinho Chileno FRONTERA Carmenere 750ml", "price": "R$ 37,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Inspiracion ", "name": "Vinho Chileno INSPIRACI\u00d3N Cabernet Sauvignon 750ml", "price": "R$ 24,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Underberg ", "name": "Aperitivo UNDERBERG 920ml", "price": "R$ 54,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Leon Tarapaca", "name": "Vinho Chileno LEON TARAPACA Cabernet Sauvignon 750ml", "price": "R$ 36,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Omnium ", "name": "Espumante OMNIUM Brut 750ml", "price": "R$ 24,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Paisajes de Chile", "name": "Vinho Chileno PAISAJES DE CHILE Carmenere 750ml", "price": "R$ 19,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Amarula ", "name": "Licor AMARULA 750ml", "price": "R$ 94,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Frontera ", "name": "Vinho Chileno FRONTERA Cabernet Sauvignon 750ml", "price": "R$ 37,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Chianti Ruffino", "name": "Vinho Italiano RUFFINO Chianti Tinto 750ml", "price": "R$ 69,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Seagers ", "name": "Gin SEAGERS 980ml", "price": "R$ 54,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Paisajes de Chile ", "name": "Vinho Chileno PAISAJES DE CHILE Cabernet Sauvignon 750ml", "price": "R$ 19,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "San Jose", "name": "Vinho Chileno SAN JOS\u00c9 DE APALTA Carmenere 750ml", "price": "R$ 29,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Cereser", "name": "Sidra CERESER Sem \u00c1lcool Ma\u00e7\u00e3 Verde 660ml", "price": "R$ 10,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casal Garcia ", "name": "Vinho Porto CASAL GARCIA Ros\u00e9 750ml", "price": "R$ 46,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Perlino ", "name": "Espumante PERLINO Asti Docg 750ml", "price": "R$ 39,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Frontera ", "name": "Vinho Chileno FRONTERA Especial Red 750ml", "price": "R$ 39,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Stolichnaya", "name": "Vodka STOLICHNAYA 750ml", "price": "R$ 84,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Casillero Del Diablo", "name": "Vinho Chileno CASILLERO DEL DIABLO Chardonnay 750ml", "price": "R$ 45,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Periquita ", "name": "Vinho Porto PERIQUITA Tinto 750ml", "price": "R$ 49,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casa Valduga", "name": "Vinho Nacional CASA VALDUGA Naturelle Tinto 750ml", "price": "R$ 44,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Selvagem ", "name": "CATUABA Selvagem Mel com Lim\u00e3o 1L", "price": "R$ 13,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Gato Negro", "name": "Vinho Chileno GATO NEGRO Carmenere 750ml", "price": "R$ 32,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Skol", "name": "Cerveja SKOL Beats Secret Long Neck 313ml", "price": "R$ 4,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Old Parr ", "name": "Whisky OLD PARR 12 Anos 1L", "price": "R$ 159,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Aurora ", "name": "Espumante AURORA Brut 750ml", "price": "R$ 34,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Domus", "name": "Conhaque DOMUS 1L", "price": "R$ 13,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Campari ", "name": "Bitter CAMPARI 900ml", "price": "R$ 44,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Cointreau ", "name": "Licor COINTREAU 700ml", "price": "R$ 109,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casa Valduga", "name": "Vinho Nacional CASA VALDUGA Premium Raizes Merlot 750ml ", "price": "R$ 74,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Chuva de Prata", "name": "Sidra CHUVA DE PRATA Branca 660ml", "price": "R$ 12,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Virtus ", "name": "Kit VIRTUS Espumante com 2 unidades Ta\u00e7as", "price": "R$ 39,80", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Salton ", "name": "Espumante SALTON Meio Doce 660ml", "price": "R$ 23,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casa Valduga ", "name": "Espumante CASA VALDUGA Premium Brut 750ml", "price": "R$ 69,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Caracu", "name": "Cerveja CARACU Long Neck 355ml", "price": "R$ 3,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Conde Foucauld ", "name": "Espumante Conde Foucauld Kit 2 Ta\u00e7as Demi Seco 750ml", "price": "R$ 45,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Baden ", "name": "Cerveja BADEN BADEN Red Ale Garrafa 600ml", "price": "R$ 15,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "43", "name": "Licor 43 700ml", "price": "R$ 119,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Therezopolis ", "name": "Cerveja THEREZ\u00d3POLIS Weiss Trigo Garrafa 600ml", "price": "R$ 13,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Jack Daniels", "name": "Whisky JACK DANIELS Honey 1L", "price": "R$ 149,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Trapiche", "name": "Vinho Argentino TRAPICHE Varietal Cabernet 750ml", "price": "R$ 36,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Devassa ", "name": "Cerveja DEVASSA Negra Long Neck 355ml", "price": "R$ 3,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Chandon ", "name": "Espumante CHANDON Ros\u00e9 750ml", "price": "R$ 79,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Chora Rita", "name": "Aguardente CHORA RITA 600ml", "price": "R$ 5,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Trivento ", "name": "Vinho Argentino TRIVENTO Reserve Malbec 750ml", "price": "R$ 54,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Bacardi ", "name": "Rum BACARDI Big Apple 980ml", "price": "R$ 35,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Germana ", "name": "Aguardente GERMANA 670ml", "price": "R$ 69,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Valdouro ", "name": "Vinho Porto VALDOURO Tawny 750ml", "price": "R$ 89,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Smirnoff ", "name": "SMIRNOFF X1 Lemons 1L", "price": "R$ 14,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Baden ", "name": "Cerveja BADEN BADEN Pilsen Garrafa 600ml ", "price": "R$ 12,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Freixenet ", "name": "Espumante Cava FREIXENET Cordon Rosada 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Grey Goose", "name": "Vodka GREY GOOSE Original 750ml", "price": "R$ 139,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Presidente", "name": "Conhaque PRESIDENTE 970ml", "price": "R$ 12,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cacha\u00e7as"}
+{"brand": "Chuva de Prata", "name": "Sidra CHUVA DE PRATA Sem \u00c1lcool Branca 660ml", "price": "R$ 12,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Conde de Foucauld ", "name": "Espumante CONDE DE FOUCAULD Brut 750ml", "price": "R$ 22,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casa Valduga ", "name": "Vinho Nacional CASA VALDUGA Naturelle Ros\u00e9 750ml", "price": "R$ 44,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Salinas ", "name": "Aguardente SALINAS Umburana 700ml", "price": "R$ 34,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": " Fetzer Anthony's", "name": "Vinho Amer FETZER ANTHONY'S HILL Merlot 750ml", "price": "R$ 39,80", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casa Valduga", "name": "Espumante CASA VALDUGA Arte Ros\u00e9 750ml", "price": "R$ 57,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": " Monte Paschoal", "name": "Espumante MONTE PASCHOAL Prosecco 750ml", "price": "R$ 32,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Conde de Foucauld ", "name": "Espumante CONDE DE FOUCAULD Demi Sec 750ml", "price": "R$ 22,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Eisen ", "name": "Cerveja EISENBAHM Dunkel Long Neck 355ml", "price": "R$ 5,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Cornellana", "name": "Vinho Chileno CORNELLANA Carmenere 750ml", "price": "R$ 23,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Imperial ", "name": "Cerveja IMPERIAL Ouro Puro Malte Garrafa 600ml", "price": "R$ 5,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Jurupinga ", "name": "Vinho Nacional JURUPINGA Branco Suave 975ml", "price": "R$ 27,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Saint Germain ", "name": "Espumante SAINT GERMAIN Kit com 2 Ta\u00e7as Brut 660ml", "price": "R$ 34,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Aurora ", "name": "Espumante AURORA Moscatel Branco 750ml", "price": "R$ 34,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Santa Carolina", "name": "Vinho Chileno SANTA CAROLINA Reserva Carmenere 750ml", "price": "R$ 38,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Alabastro R.A.Alentejo ", "name": "Vinho Porto ALABASTRO R. A. ALENTEJO Tinto 750ml", "price": "R$ 59,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Wyborowa ", "name": "Vodka WYBOROWA 1L", "price": "R$ 59,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Gran Legado", "name": "Espumante GRAN LEGADO Brut 750ml", "price": "R$ 29,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Aurora ", "name": "Espumante AURORA Moscatel Ros\u00e9 750ml", "price": "R$ 34,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casa Valduga ", "name": "Espumante Prosecco CASA VALDUGA 750ml", "price": "R$ 69,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Aperol", "name": "APEROL Aperitivo 750ml", "price": "R$ 59,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Quinta da Espiga", "name": "Vinho Porto QUINTA DA ESPIGA Tinto 750ml", "price": "R$ 29,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Jose Cuervo", "name": "Tequila JOS\u00c9 CUERVO Especial Ouro 750ml", "price": "R$ 94,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Conde de Foucauld ", "name": "Espumante Conde de Foucauld Ros\u00e9 Brut 750ml", "price": "R$ 22,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Conde de Foucauld", "name": "Espumante CONDE DE FOUCAULD Ros\u00e9 Demi 750ml", "price": "R$ 22,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Rapariga da Quinta ", "name": "Vinho Porto RAPARIGA DA QUINTA Select 750ml", "price": "R$ 59,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": " Concha y Toro ", "name": "Espumante CONCHA Y TORO Brut 750ml", "price": "R$ 35,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Concha y Toro", "name": "Vinho Chileno CONCHA Y TORO Sauv Blanc 750ml", "price": "R$ 24,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Skyy ", "name": "Vodka SKYY 980ml", "price": "R$ 44,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": " Adriano Ramos", "name": "Vinho Porto ADRIANO RAMOS PINTO Tawny 750ml", "price": "R$ 119,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Eisen ", "name": "Cerveja EISENBAHM Weizenbock Long Neck 355ml", "price": "R$ 5,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Mumm ", "name": "Espumante MUMM Brut Ros\u00e9 750ml", "price": "R$ 59,80", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": " Cosecha Tarapaca", "name": "Vinho Chileno COSECHA TARAPAC\u00c1 Sauv Blanc 750ml", "price": "R$ 34,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Cella ", "name": "Vinho Italiano Lambrusco CELLA Tinto 750ml", "price": "R$ 33,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Salton ", "name": "Espumante SALTON Demi Sec 750ml", "price": "R$ 35,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Yellow Tail ", "name": "Vinho Australiano YELLOW TAIL Shiraz 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Trivento", "name": "Vinho Argentino TRIVENTO Tribu Malbec 750ml", "price": "R$ 35,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Concha y Toro", "name": "Vinho Chileno CONCHA Y TORO Gran Reserva Cabernet Sauvignon 750ml", "price": "R$ 69,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Cereser ", "name": "Sidra CERESER Frutas Vermelhas Sem \u00c1lcool 660ml ", "price": "R$ 10,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Bavaria", "name": "Cerveja BAVARIA Lata 269ml", "price": "R$ 1,59", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Gran Tarapaca ", "name": "Vinho Chil GRAN TARAPAC\u00c1 Cabernet Sauvignon 750ml", "price": "R$ 65,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Cassillero Devils", "name": "Vinho Chileno CASSILERO DEVILS Red 750ml", "price": "R$ 59,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Jack Daniels ", "name": "Whisky JACK DANIELS 1L", "price": "R$ 149,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Bodega Vieja", "name": "Vinho Chileno VODEGA VIEJA Branco Suave 750ml", "price": "R$ 10,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Alfredo Roca", "name": "Vinho Argentino ALFREDO ROCA Malbec 750ml", "price": "R$ 54,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Colorado", "name": "Cerveja COLORADO Appia Garrafa 600ml", "price": "R$ 9,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Bohemia", "name": "Cerveja BOHEMIA Puro Malte Long Neck 355ml", "price": "R$ 3,09", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Brahma", "name": "Cerveja BRAHMA Extra Weiss Long Neck 355ml", "price": "R$ 3,19", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Cosecha Tarapaca", "name": "Vinho Chileno COSECHA TARAPAC\u00c1 Chardonnay 750ml", "price": "R$ 34,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Itaipava", "name": "Cerveja ITAIPAVA Premium Long Neck 355ml", "price": "R$ 3,29", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Casal Garcia", "name": "Vinho Porto CASAL GARCIA Branco 750ml", "price": "R$ 46,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Colorado", "name": "Cerveja COLORADO Indica Garrafa 600ml ", "price": "R$ 16,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Johnnie Walker", "name": "Whisky JOHNNIE WALKER Red Rye Finish 750ml", "price": "R$ 99,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Travessia", "name": "Vinho Chileno TRAVESSIA Carmenere 750ml", "price": "R$ 27,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Eisen", "name": "Cerveja EISENBAHM Strong Long Neck 355ml ", "price": "R$ 5,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Budweiser", "name": "Cerveja BUDWEISER One Way Garrafa 600ml", "price": "R$ 6,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Gran Tarapaca", "name": "Vinho Chileno GRAN TARAPAC\u00c1 Merlot 750ml", "price": "R$ 65,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casillero Del Diablo ", "name": "Vinho Chileno CASILLERO DEL DIABLO Carmenere 750ml", "price": "R$ 44,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casa Valduga", "name": "Espumante CASA VALDUGA Arte Brut 750ml", "price": "R$ 57,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Chandon", "name": "Espumante CHANDON Brut 750ml", "price": "R$ 79,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Cornellana", "name": "Vinho Chileno CORNELLANA Cabernet Sauvignon 750ml", "price": "R$ 23,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Santa Carolina", "name": "Vinho Chileno SANTA CAROLINA Reservado Cabernet Sauvignon 750ml ", "price": "R$ 38,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Therezopolis", "name": "Cerveja THEREZ\u00d3POLIS Gift Box Gold Garrafa 600ml", "price": "R$ 39,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Villa Fabrizia", "name": "Vinho Italiano VILLA FABRIZIA Lambrusco Tinto 750ml", "price": "R$ 26,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "C\u00e0 Amorino", "name": "Espumante C\u00c0 AMORINO Moscato 750ml", "price": "R$ 22,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Kirin Ichiban", "name": "Cerveja KIRIN ICHIBAN Long Neck 355ml", "price": "R$ 3,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Valduga ", "name": "Espumante CASA VALDUGA Arte Demi Sec 750ml", "price": "R$ 57,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Travessia ", "name": "Vinho Chileno TRAVESSIA Sauv Blanc 750ml", "price": "R$ 27,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Salton Moscatel", "name": "Espumante SALTON Moscatel 750ml", "price": "R$ 29,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Baden", "name": "Cerveja BADEN BADEN Weiss Garrafa 600ml", "price": "R$ 15,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Casal Garcia ", "name": "Vinho Portugu\u00eas CASAL GARCIA Sweet 750ml", "price": "R$ 46,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Cereser ", "name": "Sidra CERESER Ma\u00e7\u00e3 660ml", "price": "R$ 12,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Heineken", "name": "Cerveja HEINEKEN Puro Malte Lata 350ml", "price": "R$ 3,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Stella Artois", "name": "Cerveja STELLA ARTOIS Garrafa 550ml", "price": "R$ 7,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Pergola", "name": "Vinho Nacional P\u00c9RGOLA Tinto Suave 1L", "price": "R$ 18,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Budweiser", "name": "Cerveja BUDWEISER Long Neck 343ml ", "price": "R$ 3,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Johnnie Walker", "name": "Whisky JOHNNIE WALKER Red Label 750ML", "price": "R$ 79,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Los Andes", "name": "Vinho Argentino LOS ANDES Malbec 750ml", "price": "R$ 25,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Concha y Toro", "name": "Vinho Chileno CONCHA Y TORO Reservado Cabernet Sauvignon 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Itaipava", "name": "Cerveja ITAIPAVA Premium Lata 269ml", "price": "R$ 2,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Selvagem", "name": "CATUABA Selvagem 1L", "price": "R$ 13,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Johnnie Walker", "name": "Whisky JOHNNIE WALKER Double Black 1L", "price": "R$ 199,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Heineken", "name": "Cerveja HEINEKEN Shot Puro Malte Long Neck 250ml", "price": "R$ 3,39", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Salton", "name": "Espumante SALTON Bruto 750ml ", "price": "R$ 35,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Old Parr", "name": "Whisky OLD PARR Silver 1L", "price": "R$ 99,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Whisky"}
+{"brand": "Travessia", "name": "Vinho Chileno TRAVESSIA Cabernet 750ml", "price": "R$ 27,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Saint Germain", "name": "Espumante SAINT GERMAIN Bruto 660ml", "price": "R$ 17,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Devassa ", "name": "Cerveja DEVASSA Puro Malte Lata 269ml", "price": "R$ 2,59", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Amstel", "name": "Cerveja AMSTEL Puro Malte Garrafa 600ml", "price": "R$ 5,49", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
+{"brand": "Casillero", "name": "Vinho Chil CASILLERO DEL DIABLO Cabernet Sauvignon 750ml", "price": "R$ 44,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Concha y Toro", "name": "Vinho Chileno CONCHA Y TORO Reservado Carmenere 750ml", "price": null, "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Casa Valduga", "name": "Espumante CASA VALDUGA Premium Moscatel 750ml", "price": "R$ 69,90", "category": "Bebidas Alco\u00f3licas", "subcategory": "Vinhos"}
+{"brand": "Old Cesar ", "name": "Aguardente OLD CESAR 88 965ml", "price": "R$ 12,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Destilados"}
+{"brand": "Eisenbahn", "name": "Cerveja EISENBAHM Weiss Long Neck 355ml", "price": "R$ 5,99", "category": "Bebidas Alco\u00f3licas", "subcategory": "Cervejas"}
