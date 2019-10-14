@@ -1,102 +1,751 @@
-[
-{"name": "Azeite de Oliva Tipo \u00danico GALLO 500ml", "brand": "Gallo", "price": "R$ 19,99"},
-{"name": "A\u00e7\u00facar Cristal DA MAM\u00c3E 5Kg", "brand": "Da Mam\u00e3e", "price": "R$ 8,19"},
-{"name": "\u00d3leo de Pequi DICEL 50ml", "brand": "Dicel", "price": "R$ 9,90"},
-{"name": "Pipoca de Microondas YOKI Cobertura Caramelo 100g", "brand": "Yoki", "price": "R$ 3,99"},
-{"name": "Pipoca de Microondas ELMA CHIPS Natural 80g ", "brand": "Elma Chips", "price": "R$ 1,89"},
-{"name": "Pipoca de Microondas ELMA CHIPS Manteiga 80g ", "brand": "Elma Chips", "price": "R$ 1,89"},
-{"name": "Pipoca de Microondas YOKI Natural Zero S\u00f3dio 50g ", "brand": "Yoki", "price": "R$ 1,49"},
-{"name": "Pipoca de Microondas YOKI Manteiga 50g ", "brand": "Yoki", "price": "R$ 1,49"},
-{"name": "Pipoca de Microondas YOKI Toque de Chef 100g", "brand": "Yoki", "price": "R$ 2,79"},
-{"name": "Pipoca de Microondas YOKI Natural Light 100g ", "brand": "Yoki", "price": "R$ 2,79"},
-{"name": "Pipoca de Microondas YOKI Manteiga de Cinema 100g ", "brand": "Yoki", "price": "R$ 2,79"},
-{"name": "Pipoca de Microondas YOKI Bacon 100g ", "brand": "Yoki", "price": "R$ 2,79"},
-{"name": "Pat\u00ea de Atum GOMES DA COSTA Light 150g ", "brand": "GOMES", "price": "R$ 11,99"},
-{"name": "Vinagre de Ma\u00e7\u00e3 TOSCANO 250ml ", "brand": "Toscano", "price": "R$ 7,99"},
-{"name": "Vinagre de Arroz TOSCANO 750ml ", "brand": "Toscano", "price": "R$ 8,49"},
-{"name": "Vinagre de \u00c1lcool Colorido CASTELO 750ml ", "brand": "CASTELO", "price": "R$ 3,29"},
-{"name": "Vinagre de \u00c1lcool com Lim\u00e3o TOSCANO 750ml ", "brand": "Toscano", "price": "R$ 7,99"},
-{"name": "Vinagre de \u00c1lcool com Alho TOSCANO 750ml ", "brand": "Toscano", "price": "R$ 6,99"},
-{"name": "Vinagre TOSCANO Vinho Tinto 750ml", "brand": "Toscano", "price": "R$ 7,99"},
-{"name": "Vinagre de Vinho TOSCANO Branco 750ml", "brand": "Toscano", "price": "R$ 7,99"},
-{"name": "Vinagre TOSCANO \u00c1lcool Color 750ml", "brand": "Toscano", "price": "R$ 3,49"},
-{"name": "Vinagre TOSCANO \u00c1lcool Color 750ml ", "brand": "Toscano", "price": "R$ 3,49"},
-{"name": "Aceto Bals\u00e2mico PAGANINI 500ml", "brand": "Paganini", "price": "R$ 16,99"},
-{"name": "Aceto Bals\u00e2mico MASTROIANI 500ml ", "brand": "Mastroiani", "price": "R$ 18,99"},
-{"name": "Aceto Bals\u00e2mico LA PASTINA Di Modena 500ml ", "brand": "La Pastina", "price": "R$ 25,90"},
-{"name": "Mortadela Bologna AURORA Fatiada 200g", "brand": "Aurora", "price": "R$ 4,49"},
-{"name": "Salame Fatiado SABOR DA CORTE Italiano 140g", "brand": "Sabor da Corte", "price": "R$ 14,99"},
-{"name": "Iogurte DANONE Coco 900g", "brand": "Danone", "price": "R$ 8,99"},
-{"name": "Mortadela Ouro Fatiada Defumada PERDIG\u00c3O 200g", "brand": "Perdig\u00e3o", "price": "R$ 7,49"},
-{"name": "Queijo \u00c1rabe CHANCLICHE Natural 135g", "brand": "Chancliche", "price": "R$ 26,90"},
-{"name": "Tapioca REAL Refrigerada 500g", "brand": "Real", "price": "R$ 4,99"},
-{"name": "Tapioca com Coco REAL Refrigerada 500g", "brand": "Real", "price": "R$ 4,99"},
-{"name": "Alimento ALMOND BREEZE Original 1L", "brand": "Almond Breeze", "price": "R$ 13,90"},
-{"name": "Alimento ALMOND BREEZE Chocolate 1L", "brand": "Almond Breeze", "price": "R$ 13,90"},
-{"name": "Alimento ALMOND BREEZE Baunilha 1L", "brand": "Almond Breeze", "price": "R$ 13,90"},
-{"name": "Queijo Parmes\u00e3o TIROLEZ Peda\u00e7o Kg", "brand": "TIROLEZ", "price": "R$ 99,90"},
-{"name": "Presunto Cozido SADIA sem Capa de Gordura Kg", "brand": "Sadia", "price": "R$ 32,99"},
-{"name": "Mucilon NESTL\u00c9 Multi Cereais 400g ", "brand": "Nestle ", "price": "R$ 7,99"},
-{"name": "SUSTAGEM Kids Morango 380g", "brand": "Sustagem ", "price": "R$ 29,90"},
-{"name": "Requeij\u00e3o BATAVO Tradicional 200g", "brand": "Batavo ", "price": "R$ 4,99"},
-{"name": "Pat\u00ea Bisnaga SADIA Presunto 100g ", "brand": "Sadia ", "price": "R$ 3,79"},
-{"name": "Iogurte ACTIVIA Ameixa 170g", "brand": "Activia ", "price": "R$ 3,49"},
-{"name": "Iogurte Zero Gordura ACTIVIA Morango 170g ", "brand": "Activia ", "price": "R$ 3,49"},
-{"name": "Iogurte Itambezinho ITAMB\u00c9 Morango 170g", "brand": "Itamb\u00e9 ", "price": "R$ 1,99"},
-{"name": "Iogurte Natural PAULISTA Desnatado 170g", "brand": "Paulista ", "price": "R$ 1,99"},
-{"name": "Queijo PIRACANJUBA Mussarela Peda\u00e7o 200g", "brand": "Piracanjuba ", "price": "R$ 9,99"},
-{"name": "Queijo Emmental CRUZILIA Peda\u00e7o Kg", "brand": "Cruzilia", "price": "R$ 89,90"},
-{"name": "Iogurte CANTO DE MINAS Light Ameixa 900g ", "brand": "Canto de Minas", "price": "R$ 7,49"},
-{"name": "Petit Suisse DANONINHO Multi Frutas 320g ", "brand": "Danone", "price": "R$ 7,99"},
-{"name": "Leite Fermentado BATAVO Tradicional Caixinha 6x80g ", "brand": "Batavo", "price": "R$ 4,99"},
-{"name": "Fil\u00e9 de Peito Refriado FRIATO bandeja 1kg", "brand": "Nutriza", "price": "R$ 17,99"},
-{"name": "Peito de Frango COPACOL Congelado KG", "brand": "Copacol", "price": "R$ 9,99"},
-{"name": "Coxa e Sobrecoxa SUPERFRANGO congelada bandeja 1kg", "brand": "Super Frango", "price": "R$ 9,99"},
-{"name": "Coxa c/ Sobrecoxa SUPERFRANGO Congelado kg", "brand": "Superfrango", "price": "R$ 7,99"},
-{"name": "Peda\u00e7os de FIl\u00e9 de Salm\u00e3o KOMDELLI 125g", "brand": "Komdelli", "price": "R$ 13,99"},
-{"name": "Fil\u00e9 de Salm\u00e3o Assa F\u00e1cil KOMDELLI 700g", "brand": "Komdelli", "price": "R$ 49,90"},
-{"name": "Fil\u00e9 de Salm\u00e3o KOMDELLI 1Kg", "brand": "Komdelli", "price": "R$ 89,90"},
-{"name": "Fil\u00e9 de Coxa e Sobrecoxa SUPERFRANGO Congelado Kg", "brand": "Superfrango", "price": "R$ 12,99"},
-{"name": "Carne de Sol DISTRICARNES Kg", "brand": "Districarnes", "price": "R$ 34,90"},
-{"name": "Patinho Bovino Bife Light Kg", "brand": null, "price": "R$ 46,85"},
-{"name": "Patinho Bife Kg", "brand": null, "price": "R$ 29,58"},
-{"name": "Contra Fil\u00e9 Peda\u00e7o Kg", "brand": null, "price": "R$ 30,69"},
-{"name": "Contra Fil\u00e9 Bife Kg ", "brand": null, "price": "R$ 37,44"},
-{"name": "Miolo da Alcatra Peda\u00e7o Kg", "brand": null, "price": "R$ 32,78"},
-{"name": "Miolo da Alcatra Bife Kg", "brand": null, "price": "R$ 34,42"},
-{"name": "Cox\u00e3o Mole Bovino Peda\u00e7o Kg", "brand": null, "price": "R$ 27,20"},
-{"name": "Atum Ralado SAINT PAUL Natural 170g", "brand": "Massimex", "price": "R$ 4,59"},
-{"name": "Ervilha SEARA 300g", "brand": "Seara", "price": "R$ 4,99"},
-{"name": "Macarr\u00e3o Instant\u00e2neo TALHARIM 99g Frango ", "brand": "Nissin Miojo", "price": "R$ 2,29"},
-{"name": "Milho de Pipoca NIPPON 500g", "brand": "Nippon", "price": "R$ 2,49"},
-{"name": "Farinha de Trigo FINNA 1Kg", "brand": "Finna", "price": "R$ 3,49"},
-{"name": "Feij\u00e3o Carioca DUCHEF 1Kg", "brand": "DuChef", "price": "R$ 4,29"},
-{"name": "Farinha de Trigo LUNAR Premium 1Kg", "brand": "Lunar", "price": "R$ 3,69"},
-{"name": "Aveia MEU BIJU 8 Gr\u00e3os 500g ", "brand": "Meu Biju", "price": "R$ 6,19"},
-{"name": "Seleta de Legumes QUERO Lata 200g", "brand": "QUERO", "price": "R$ 2,99"},
-{"name": "Seleta de Legumes GOI\u00c1S VERDE Lata 200g", "brand": "GOI\u00c0S VERDE", "price": "R$ 2,89"},
-{"name": "Azeitonas Verdes CAMPO BELO 200g", "brand": "Campo Belo", "price": "R$ 5,59"},
-{"name": "Cogumelos Inteiros HEMMER Sach\u00ea 100g", "brand": "Hemmer", "price": "R$ 10,99"},
-{"name": "Batata Palha VISCONTI Cebola e Salsa 140g", "brand": "Visconti", "price": "R$ 4,99"},
-{"name": "Lasanha RENATA Ovos 500g", "brand": "Renata", "price": "R$ 7,98"},
-{"name": "Lasanha RENATA Grano Duro 200g", "brand": "Renata", "price": "R$ 7,98"},
-{"name": "Massa BARILLA Risoni 500g", "brand": "Barilla", "price": "R$ 12,99"},
-{"name": "Massa BARILLA Penne Rigate 500g", "brand": "Barilla", "price": "R$ 14,99"},
-{"name": "Massa BARILLA Mini Penne Rigate 500g", "brand": "Barilla", "price": "R$ 14,98"},
-{"name": " Massa BARILLA Farfalle 500g", "brand": "Barilla", "price": "R$ 14,99"},
-{"name": "Massa BARILLA sem Gl\u00faten Spaguetti N\u00ba5 400g", "brand": "Barilla", "price": "R$ 19,90"},
-{"name": "Massa Lasanha BARILLA sem Ovos 250g", "brand": "Barilla", "price": "R$ 14,89"},
-{"name": "Macarr\u00e3o RENATA Tricolori Parafuso 500g", "brand": "Renata", "price": "R$ 5,99"},
-{"name": "Cox\u00e3o Mole Bovino Bife Light Kg ", "brand": null, "price": "R$ 51,31"},
-{"name": "Cox\u00e3o Mole Bovino Bife Kg", "brand": null, "price": "R$ 32,39"},
-{"name": "Fil\u00e9 Mignon Bovino Peda\u00e7o Kg", "brand": null, "price": "R$ 63,48"},
-{"name": "Fil\u00e9 Mignon Bovino Medalh\u00e3o Kg", "brand": null, "price": "R$ 75,50"},
-{"name": "Fil\u00e9 Mignon Bovino Bife Kg", "brand": null, "price": "R$ 63,48"},
-{"name": "Cupim MATURATTA Pe\u00e7a a V\u00e1cuo Kg", "brand": "Maturatta ", "price": "R$ 32,90"},
-{"name": "Lombos de Bacalhau BOMPORTO Dessalgado Macro 1Kg", "brand": "Bomporto ", "price": "R$ 87,90"},
-{"name": "Lula em An\u00e9is VILLA DO MAR 300g", "brand": "Villa do Mar", "price": "R$ 22,90"},
-{"name": "Fil\u00e9 de Pescada VILLA DO MAR 700g", "brand": "Villa do Mar", "price": "R$ 25,90"},
-{"name": "Macarr\u00e3o RENATA Tricolori Fusilli 500g", "brand": "Renata", "price": "R$ 5,99"},
-{"name": "Macarr\u00e3o RENATA Grano Duro Spaguetti N\u00ba8 500g", "brand": "Renata", "price": "R$ 7,49"},
-{"name": "Macarr\u00e3o RENATA Flex Tagliarini 500g", "brand": "Renata", "price": "R$ 7,99"}
-]
+{"name": "Atum Ralado SAINT PAUL Natural 170g", "brand": "Massimex", "price": "R$ 4,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-cf2ed14a9a3d4cca8e8e91c1f75c0cb7.jpeg"}
+{"name": "Ervilha SEARA 300g", "brand": "Seara", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d5f73f6622004764aa4e4f1cb4187062.jpeg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo TALHARIM 99g Frango ", "brand": "Nissin Miojo", "price": "R$ 2,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-90c7bf3b68f748a8a52b8f36eedcc463.png"}
+{"name": "Milho de Pipoca NIPPON 500g", "brand": "Nippon", "price": "R$ 2,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4edc419ff9a349fe85d3241c1dfe03ac.jpeg"}
+{"name": "Farinha de Trigo FINNA 1Kg", "brand": "Finna", "price": "R$ 3,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3f8d0abff53d41e3bacc5f88d7a432cd.jpeg"}
+{"name": "Feij\u00e3o Carioca DUCHEF 1Kg", "brand": "DuChef", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4bcd964bdcc743d2a034ce2b201311ef.jpeg"}
+{"name": "Farinha de Trigo LUNAR Premium 1Kg", "brand": "Lunar", "price": "R$ 2,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8a39151ab91e4e7c94edbef2523d1b32.jpeg"}
+{"name": "Aveia MEU BIJU 8 Gr\u00e3os 500g ", "brand": "Meu Biju", "price": "R$ 6,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fbe3db93869a47ef9a3ba56079503133.png"}
+{"name": "Seleta de Legumes QUERO Lata 200g", "brand": "QUERO", "price": "R$ 2,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-91a977f4857e4b16b047215709f04d91.jpeg"}
+{"name": "Seleta de Legumes GOI\u00c1S VERDE Lata 200g", "brand": "GOI\u00c0S VERDE", "price": "R$ 2,89", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3e935f5b599640e893416d9ba43b4233.jpg"}
+{"name": "Azeitonas Verdes CAMPO BELO 200g", "brand": "Campo Belo", "price": "R$ 5,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-306626757e5c471db19cc908e2c406fc.png"}
+{"name": "Cogumelos Inteiros HEMMER Sach\u00ea 100g", "brand": "Hemmer", "price": "R$ 10,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2b6cb4c1230c4aeb97e66195e6f04e5a.jpg"}
+{"name": "Batata Palha VISCONTI Cebola e Salsa 140g", "brand": "Visconti", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2016020915492348624362c8e97c93744024b531b14a5e724374.jpg"}
+{"name": "Lasanha RENATA Ovos 500g", "brand": "Renata", "price": "R$ 7,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2016020915493797661013fed983a18440cba8aebecac36460be.jpg"}
+{"name": "Lasanha RENATA Grano Duro 200g", "brand": "Renata", "price": "R$ 7,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-cd684af559f8445a863d93a18acb3bb1.jpeg"}
+{"name": "Massa BARILLA Risoni 500g", "brand": "Barilla", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b05534a1a5f34270be53d6a9ce4aea87.jpg"}
+{"name": "Massa BARILLA Penne Rigate 500g", "brand": "Barilla", "price": "R$ 14,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fa0479fc86484ae597f1f8a87045c124.jpeg"}
+{"name": "Massa BARILLA Mini Penne Rigate 500g", "brand": "Barilla", "price": "R$ 14,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e4f380db93c24a4a974292f76b38c969.jpeg"}
+{"name": " Massa BARILLA Farfalle 500g", "brand": "Barilla", "price": "R$ 14,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6a8a16c20d5e48a4b23bca4d20a77af5.jpeg"}
+{"name": "Massa BARILLA sem Gl\u00faten Spaguetti N\u00ba5 400g", "brand": "Barilla", "price": "R$ 19,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-acafbe58b5d54b6b9ea55ee6164df7c2.jpeg"}
+{"name": "Massa Lasanha BARILLA sem Ovos 250g", "brand": "Barilla", "price": "R$ 14,89", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4266358f449142549f07b04b94dad1a0.jpeg"}
+{"name": "Macarr\u00e3o RENATA Tricolori Parafuso 500g", "brand": "Renata", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-de4f9854c9af4eb59bd9e249830fd0d3.jpeg"}
+{"name": "Macarr\u00e3o RENATA Tricolori Fusilli 500g", "brand": "Renata", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-135a97ef8af449a89e9939eb9f641fda.jpg"}
+{"name": "Macarr\u00e3o RENATA Grano Duro Spaguetti N\u00ba8 500g", "brand": "Renata", "price": "R$ 7,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091546484445220c1ed874aecb4610b0e7c457cf3c3832.jpg"}
+{"name": "Macarr\u00e3o PAGANINI Nidi Fettuccine 500g", "brand": "Paganini", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-78b0afbfea184b01953b8ab38870073b.jpeg"}
+{"name": "Presunto PERDIG\u00c3O sem capa de gordura Fatiado", "brand": "Perdig\u00e3o", "price": "R$ 28,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fb9573d03bb24c969d20bb99d328dce7.png"}
+{"name": "Mortadela Bologna AURORA Fatiada 200g", "brand": "Aurora", "price": "R$ 4,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0e69770094bf483ab197881b65df46a0.png"}
+{"name": "Salame Fatiado SABOR DA CORTE Italiano 140g", "brand": "Sabor da Corte", "price": "R$ 14,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-bc91eb342cb343a886dd047d2f6aa25b.jpeg"}
+{"name": "Iogurte DANONE Coco 900g", "brand": "Danone", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2d769b53f18a4535b727879d3dadd8cf.png"}
+{"name": "Mortadela Ouro Fatiada Defumada PERDIG\u00c3O 200g", "brand": "Perdig\u00e3o", "price": "R$ 7,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b2f950538bab47df99e64b9cd0ad7105.jpeg"}
+{"name": "Queijo \u00c1rabe CHANCLICHE Natural 135g", "brand": "Chancliche", "price": "R$ 26,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-957466f7d34048a78a9676abc1ef39a8.jpeg"}
+{"name": "Tapioca REAL Refrigerada 500g", "brand": "Real", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-29f0e79db61f48dc843338a3cff43961.jpeg"}
+{"name": "Tapioca com Coco REAL Refrigerada 500g", "brand": "Real", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e166c91365e440da816c57c3ba83d70e.jpeg"}
+{"name": "Alimento ALMOND BREEZE Original 1L", "brand": "Almond Breeze", "price": "R$ 13,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-30cbb84efaa9461dabaf2271da6f6d73.jpeg"}
+{"name": "Alimento ALMOND BREEZE Chocolate 1L", "brand": "Almond Breeze", "price": "R$ 13,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-bdd3cd436431438d973937121c37d107.jpeg"}
+{"name": "Alimento ALMOND BREEZE Baunilha 1L", "brand": "Almond Breeze", "price": "R$ 13,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6b9988e73a2840519e0d397f4c4d17ca.jpeg"}
+{"name": "Queijo Parmes\u00e3o TIROLEZ Peda\u00e7o Kg", "brand": "TIROLEZ", "price": "R$ 99,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-32485e30b7364cd7bc9cbd7735b6400d.jpeg"}
+{"name": "Presunto Cozido SADIA sem Capa de Gordura Kg", "brand": "Sadia", "price": "R$ 32,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-62ef7bc552b54dc9bf4c4aa64c08c5d3.jpeg"}
+{"name": "Mucilon NESTL\u00c9 Multi Cereais 400g ", "brand": "Nestle ", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-657fee1aa32a4cc1b2b46cd0247d0d88.jpg"}
+{"name": "SUSTAGEM Kids Morango 380g", "brand": "Sustagem ", "price": "R$ 29,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b314f40d4aea4882bad3056315ab9cde.jpg"}
+{"name": "Requeij\u00e3o BATAVO Tradicional 200g", "brand": "Batavo ", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-eb08acf4f7fe44e6be4a26646159b445.jpg"}
+{"name": "Pat\u00ea Bisnaga SADIA Presunto 100g ", "brand": "Sadia ", "price": "R$ 3,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e258a252af534a7a9e65df3802c3c9cf.jpg"}
+{"name": "Iogurte ACTIVIA Ameixa 170g", "brand": "Activia ", "price": "R$ 3,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fbbdd71ae9c94f9b83d7c787f3c9de9b.jpeg"}
+{"name": "Iogurte Zero Gordura ACTIVIA Morango 170g ", "brand": "Activia ", "price": "R$ 3,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-78c71bd4a6f544f2b91ef0cd6ae987d3.jpg"}
+{"name": "Iogurte Itambezinho ITAMB\u00c9 Morango 170g", "brand": "Itamb\u00e9 ", "price": "R$ 1,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3cfb96fe1a424bc58037ff6a825122ab.jpg"}
+{"name": "Iogurte Natural PAULISTA Desnatado 170g", "brand": "Paulista ", "price": "R$ 1,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-66ae9d93defb442781fb0748a2a32c54.jpeg"}
+{"name": "Iogurte Lacfree VERDE CAMPO Natural 500g ", "brand": "Verde Campo", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6190002305d44b78bd269d1e5eb0117f.jpg"}
+{"name": "Iogurte Lacfree VERDE CAMPO Morango 500g", "brand": "Verde Campo", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-65090471c2f74c68ab2788514e26c6a6.jpeg"}
+{"name": "Iogurte Fit ITAMB\u00c9 Light Frutas Vermelhas 400g ", "brand": "Itamb\u00e9 ", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e4d3655c94834d12b6ddc360df810f87.png"}
+{"name": "Queijo PIRACANJUBA Mussarela Peda\u00e7o 200g", "brand": "Piracanjuba ", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b9218fbb20394424bcf0aa61883fd442.jpg"}
+{"name": "Macarr\u00e3o PAGANINI Tagliatelle 500g", "brand": "Paganini", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e3c70ef430a3456082e43afc2fa486d0.jpg"}
+{"name": "Macarr\u00e3o PAGANINI Espaguete 500g", "brand": "Paganini", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d694b793b4d04e66b3e454214207b62a.jpeg"}
+{"name": "Macarr\u00e3o PAGANINI Penne Rigatoni 500g", "brand": "Paganini", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-00de1b7298184982a3e3697b214dba95.png"}
+{"name": "Macarr\u00e3o PAGANINI Linguine 500g", "brand": "Paganini", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a8f79894b7f349bfb59776105fea0ff9.jpeg"}
+{"name": "Macarr\u00e3o PAGANINI Fettuccine 500g", "brand": "Paganini", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f6ed6a3806884015a62d6e48583ea306.jpeg"}
+{"name": "Macarr\u00e3o Integral EMEG\u00ca Espaguete 500g", "brand": "Emeg\u00ea", "price": "R$ 4,69", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1732cd17759e463aac2e9167d06a715d.jpg"}
+{"name": "Macarr\u00e3o sem Gl\u00faten PAGANINI Fusilli 250g", "brand": "Paganini", "price": "R$ 16,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-58effa7034d84afdb0bafe3a798ae068.jpeg"}
+{"name": "Espaguete de Feij\u0101o FIT FOOD Preto 200g", "brand": "Fit Food", "price": "R$ 14,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-56b9eb8566074152b349bd6a62b1b66c.jpg"}
+{"name": "Espaguete de Feij\u00e3o FIT FOOD Azuki 200g", "brand": "Fit Food", "price": "R$ 14,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fbfb139924a74b1a917b3d04eaeae1c7.jpg"}
+{"name": "Macarr\u00e3o de Arroz Integral URBANO Pena 500g", "brand": "Urbano", "price": "R$ 5,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-146900c1ff414a2bbf069c528ca9a216.jpg"}
+{"name": "Macarr\u00e3o de Arroz Integral URBANO Parafuso 500g", "brand": "Urbano", "price": "R$ 5,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c87ab58e07974610a1231d0dd1d09591.jpg"}
+{"name": "Macarr\u00e3o de Arroz URBANO Pena 500g", "brand": "Urbano", "price": "R$ 3,46", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209154648725457191854666b294be1a088f9ae3921144c.jpg"}
+{"name": "Macarr\u00e3o de Arroz URBANO Parafuso 500g", "brand": "Urbano", "price": "R$ 3,46", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e5fbd9a488cd4ff6a49b16347237cfcd.jpeg"}
+{"name": "Macarr\u00e3o de Arroz URBANO Padre Nosso 500g", "brand": "Urbano", "price": "R$ 3,46", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3fe53f4b958047309755ed1ab35957fb.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo TALHARIM Carne com Tomate 99g", "brand": "Talharim", "price": "R$ 2,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9e9da74e2f8a418ea925bbe06f324ccd.jpeg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo TALHARIM Calabresa 99g", "brand": "Talharim", "price": "R$ 2,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209154652008751c170031657714a23b858c7c41d766d6f.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo TALHARIM Br\u00f3colis ao Molho Branco 99g", "brand": "Talharim", "price": "R$ 2,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2016020915465192804006fd472f0f7b45069143ec185e877f4c.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo TALHARIM Bolonhesa 99g", "brand": "Talharim", "price": "R$ 2,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209154652518001684b2b6286ac4f89904cc338105d526c.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo TALHARIM Alho e \u00d3leo 99g", "brand": "Talharim", "price": "R$ 2,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d245a7086b504b2bbfda6dfdd55b8757.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo Cremoso NISSIN 4 Queijos 88g", "brand": "Nissin", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091546531825395cec32fe33f54226872b2fabb6087b0b.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo TURMA DA M\u00f4nica Tomate Suave 85g", "brand": "Turma da M\u00f4nica", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091546532678642f857d0fc90a4a779fb13ff189be6b8e.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo TURMA DA M\u00d4NICA Carne Suave 85g", "brand": "Turma da M\u00f4nica", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2016020915465225443404ac0af558194d489398917ed015e34d.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo TURMA DA M\u00d4NICA Caldinho de feij\u00e3o 85g", "brand": "Turma da M\u00f4nica", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-80b20d50b53d4d5b8d269c5157cbc6c9.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Hot Mexicano 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-070e9258fc7e42b593935efde88273fc.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Hot Calabresa 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-99e060d177c84e35b83d9c8daa413977.jpg"}
+{"name": "Queijo Tofu SAMURAI Ervas Finas 300g", "brand": "Samurai ", "price": "R$ 17,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1a2d0cbe038746069b052f3b571cbac3.jpg"}
+{"name": "Queijo Emmental CRUZILIA Peda\u00e7o Kg", "brand": "Cruzilia", "price": "R$ 89,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4ed45a6979024281b5731fa05594c7ae.jpg"}
+{"name": "Iogurte CANTO DE MINAS Light Ameixa 900g ", "brand": "Canto de Minas", "price": "R$ 7,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9bbc2becad094efdbed55a44852b04fb.jpg"}
+{"name": "Leite Fermentado BATAVO Tradicional Caixinha 6x80g ", "brand": "Batavo", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0b7718dfd4664d9ea208cc966e3faa07.jpg"}
+{"name": "Coalhada Integral ITAMB\u00c9 130g", "brand": "Itamb\u00e9 ", "price": "R$ 1,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f22809d848af41f187dfe06d029676eb.jpg"}
+{"name": "Iogurte ACTIVIA Aveia 170g ", "brand": "Activia ", "price": "R$ 3,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4a432d648b5248f288aa470bb85a2d92.jpg"}
+{"name": "Danette DANONE Chocolate Branco 360g ", "brand": "Danone", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-354298d168174119823e07f31ec14e66.jpg"}
+{"name": "Iogurte ACTIVIA Morango 170g", "brand": "Activia ", "price": "R$ 3,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9ac22615e3d541d48136cc1b083affd8.jpg"}
+{"name": "POLENGUINHO Zero Lactose 68g", "brand": "Polenguinho ", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1abfcca609c244088a98131d6a41df9a.jpg"}
+{"name": "Iogurte Grego DANONE Fondue 100g", "brand": "Danone ", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-01c8790150914cd7baa32597fd370a12.jpg"}
+{"name": "Iogurte ITAMB\u00c9 Vitamina de Frutas Garrafa 900g ", "brand": "Itamb\u00e9 ", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b2f40d84698943789e708346e5305164.jpeg"}
+{"name": "Queijo Light CANTO DE MINAS Mussarela Kg", "brand": "Canto de Minas", "price": "R$ 49,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3f8e2fcacda44082bd78c03bc3d33569.jpg"}
+{"name": "Petit Suisse DANONINHO Morango 320g ", "brand": "Danone", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d2027ab5468c4af2b668f7af91a433b4.jpg"}
+{"name": "Iogurte Integral CANTO DE MINAS Laranja, Cenoura e Mel 180g", "brand": "Canto de Minas", "price": "R$ 1,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f825c315703d4e7f8cf300017a5c4a0f.jpg"}
+{"name": "Iogurte Grego DANONE Frutas Vermelhas 100g ", "brand": "Danone ", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b7f868aac2744225973ada262bebc866.jpg"}
+{"name": "Iogurte ITAMB\u00c9 Frutas Vermelhas Garrafa 900g", "brand": "Itamb\u00e9 ", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-cbbc8c52322e4bca8ddd3e909bddf364.jpeg"}
+{"name": "Milnutri Pronutra DANONE 800g", "brand": "Danone", "price": "R$ 34,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20c680a86e0a4bf5b91189ed865afd80.jpg"}
+{"name": "Margarina DEL\u00cdCIA sem Sal 500g ", "brand": "Delicia ", "price": "R$ 4,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c987ce37fc714112985c3c207bc5778c.jpg"}
+{"name": "Queijo Minas BURITIS Frescal Light Kg", "brand": "Buritis", "price": "R$ 34,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4e752dbe682f493d8b3cbbc2b39b3056.jpg"}
+{"name": "Coalhada CANTO DE MINAS Integral 180g", "brand": "Canto de Minas", "price": "R$ 1,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3e8e9a58476b4b73a67d1a994afd6ef7.jpg"}
+{"name": "Iogurte ITAMB\u00c9 NoLac Baunilha 170g", "brand": "Itamb\u00e9", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-99be9b619a8f4a6cabe5efc85304698d.jpg"}
+{"name": "POLENGUINHO Tradicional 68g", "brand": "Polenguinho ", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0237c5b602e449aabfde27c8daf330dd.jpg"}
+{"name": "Presunto PERDIG\u00c3O Fatiado 200g", "brand": "Perdig\u00e3o ", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5b448d375bc34fa0b7831398aa7987bd.jpg"}
+{"name": "Iogurte Grego NESTL\u00c9 Light Torta de Maracuj\u00e1 90g ", "brand": "Nestle ", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-42e88936b81a4c3bb554d16bbd133902.jpg"}
+{"name": "Queijo Cottage CANTO DE MINAS sem Lactose 200g", "brand": "Canto de Minas", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-eadb9d3102e34e5caf1fbaaf8c595fc6.jpeg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Picanha 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209154652571327beaa5109e51e4e48bd242123061fc112.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Legumes 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209154652382340177135b4abc7452095d8db992298956f.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Galinha 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209154651244793662d4f3c54454a98bab91d77e8fb10be.jpg"}
+{"name": "Macarr\u00e3o EMEG\u00ca Tricolori Parafuso 500g", "brand": "Emeg\u00ea", "price": "R$ 4,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0761f654a57a45149bae215e43d41e69.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Caldo de Feij\u00e3o 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-118360de69c246c8b5055fe409ea8798.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Bacon 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209154651335695b283796138ba40af81e374e45b27751a.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo CUP NOODLES Calabresa 68g", "brand": "Cup Noodles", "price": "R$ 3,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1710929db46941d0beb8e2c02605b68b.jpeg"}
+{"name": "Macarr\u00e3o S\u00eamola EMEG\u00ca Penne 500g", "brand": "Emeg\u00ea", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b413426344f0436bac2b6545048510dc.jpg"}
+{"name": "Macarr\u00e3o S\u00eamola EMEG\u00ca Parafuso 500g", "brand": "Emeg\u00ea", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d4528df087964f1aa4cb95b00d353d4f.jpg"}
+{"name": "Macarr\u00e3o S\u00eamola EMEG\u00ca Espiral 500g", "brand": "Emeg\u00ea", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-87174b87a4ba4a1f88441a8e358df41e.jpg"}
+{"name": "Macarr\u00e3o S\u00eamola ADRIA Spaguetti N\u00ba 8 500g ", "brand": "Adria", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c42d11f9a66c4e6ba1a9c22cfe6aad13.jpeg"}
+{"name": "Macarr\u00e3o S\u00eamola ADRIA Pena 500g", "brand": "Adria", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-957a236082f746eda3fafd41489adc99.jpg"}
+{"name": "Macarr\u00e3o S\u00eamola ADRIA Parafuso 500g", "brand": "Adria", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3f744e5e0774427b82a464d3ae58c25d.jpeg"}
+{"name": "Macarr\u00e3o S\u00eamola EMEG\u00ca Espaguete 1Kg", "brand": "Emeg\u00ea", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-03ee63653ad84e8bb1b8cc5724846532.jpg"}
+{"name": "Macarr\u00e3o GALO Pena 500g", "brand": "Galo", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20170407010255846306fe87f7bd0b594dbfb064c36dfc955e80.jpg"}
+{"name": "Macarr\u00e3o GALO Parafuso 500g", "brand": "Galo", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2017040701015691959736508464ce4e4c5ab23ac86dc4ec7489.jpg"}
+{"name": "Macarr\u00e3o GALO Ave Maria 500g ", "brand": "Galo", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20170407005810774911f3a7e114d2ab4d4db632b105b2a56cbf.jpg"}
+{"name": "Macarr\u00e3o GALO Aletria 500g", "brand": "Galo", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6edf7c2006194c79ad01cee39a7a8f36.jpeg"}
+{"name": "Macarr\u00e3o GALO Espaguete N\u00ba 8 1Kg", "brand": "Galo", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f3cada3f2b544a2f8ad26f56510ddc0b.jpg"}
+{"name": "Lasanha S\u00eamola GALO 500g", "brand": "Galo", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5fda0749dbf2408ebd93dba2dc047915.jpeg"}
+{"name": "Lasagne LA MOLISANA 500g", "brand": "La Molisana", "price": "R$ 11,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-860990d62ab64e229351a1899d9b382b.jpg"}
+{"name": "Massa Nacional BARILLA Espaguete 500g", "brand": "Barilla", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-017e7bb8ec0c43c79926217614dffedc.webp"}
+{"name": "Massa de Arroz URBANO Penne 500g", "brand": "Urbano", "price": "R$ 4,86", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a7680ae17ab84a1ab34be9c3710873be.jpg"}
+{"name": "Massa de Arroz URBANO Fusilli 500g", "brand": "Urbano", "price": "R$ 4,86", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ff52b5bec30043f78a3dc455d6ce774e.jpeg"}
+{"name": "Macarr\u00e3o EMEG\u00ca com Ovos Espaguete 500g", "brand": "Emeg\u00ea", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ef3f28dc7eea43af9fd626f86248cc41.jpg"}
+{"name": "Queijo Tofu SAMURAI Tradicional 300g", "brand": "Samurai ", "price": "R$ 17,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8a66ebee36c74800b4728674b25ab2f0.jpg"}
+{"name": "Iogurte CANTO DE MINAS Light Banana 900g ", "brand": "Canto de Minas", "price": "R$ 7,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7a566f9cc4874626a2178ea2603d03e0.jpg"}
+{"name": "Iogurte DANONINHO Uva 100g ", "brand": "Danone", "price": "R$ 2,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-49470a7723654441b0344d1d4fa6ae51.jpeg"}
+{"name": "Iogurte ITAMB\u00c9 Coco Garrafa 900g", "brand": "Itamb\u00e9 ", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3557428828da4142b9f23974683ab25e.jpg"}
+{"name": "Chantilly CHANDELLE Chocolate 200g", "brand": "Nestle", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0fbb1d04de974724a5aa2c4d5a246566.jpg"}
+{"name": "Creme de Ricota CANTO DE MINAS 180g", "brand": "Canto de Minas", "price": "R$ 5,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8b7895db68254f1eb22a97a87c697d40.jpg"}
+{"name": "Requeij\u00e3o Culin\u00e1rio PIRACANJUBA 400g", "brand": "Piracanjuba ", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1ea230abc8e947d19a0e4ec880e42ea1.jpg"}
+{"name": "Requeij\u00e3o CANTO DE MINAS Light 200g", "brand": "Canto de Minas", "price": "R$ 4,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-168abe8353a04f26b683c8052d648b15.jpeg"}
+{"name": "Queijo PARACATU Mussarela Kg", "brand": "Paracatu", "price": "R$ 49,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-aa208833eed54afc8829c4841102565d.jpeg"}
+{"name": "Petit Suisse Itambezinho ITAMB\u00c9 Tradicional 360g", "brand": "Itamb\u00e9 ", "price": "R$ 5,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d8b5e540f67b48718d8d0d2b1cd6ca5a.jpeg"}
+{"name": "Margarina DEL\u00cdCIA com Sal 250g ", "brand": "Delicia ", "price": "R$ 2,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fb106635c77c4df6bf72ddc54ca26ad6.jpeg"}
+{"name": "Shake Whey VERDE CAMPO Banana 250ml", "brand": "Verde Campo", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fbaf46e40f2b49a9bacbfa44dfe6980d.jpg"}
+{"name": "Requeij\u00e3o BATAVO Light 200g", "brand": "Batavo ", "price": "R$ 5,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-75d91fb936d9439e9596ce258642dfdc.jpg"}
+{"name": "Iogurte Grego NESTL\u00c9 Original 90g", "brand": "Nestle ", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d72d0d9f11704c92a4c81ba7d168b48c.jpg"}
+{"name": "SUSTAGEN Kids Baunilha 380g", "brand": "Sustagen Kids", "price": "R$ 29,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8aaad9269f0549deb3dae96502c587bb.jpg"}
+{"name": "Leite em P\u00f3 ITALAC Integral 400g ", "brand": "Italac ", "price": "R$ 10,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4fe8527e047244df99f078b8db37a155.jpg"}
+{"name": "Ricota Fresca VALE DO ORIZONA Kg", "brand": "Vale do Orizona", "price": "R$ 17,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d93fba14619b4fb484b09822f5bda622.jpg"}
+{"name": "Leite Aromatizado ITAMB\u00c9 Chocolate 1L", "brand": "Itamb\u00e9 ", "price": "R$ 5,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-671c18814dec4d61a63f7670fcf829e9.jpeg"}
+{"name": "Iogurte Grego ITAMB\u00c9 Frutas Vermelhas 400g", "brand": "Itamb\u00e9 ", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-02319d314ecc427398071928a4de3270.jpeg"}
+{"name": "Iogurte Grego DANONE Tradicional 100g", "brand": "Danone ", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3271388f69824f848a0fcd5dd2c78deb.jpg"}
+{"name": "Leite em P\u00f3 ITALAC Desnatado 280g", "brand": "Italac ", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-43c5a918cabc441e94ac541901cdb2d6.jpg"}
+{"name": "Provolone BURITIS Defumado Kg", "brand": "Buritis", "price": "R$ 59,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-bed68243ddfa419d9cd93a4f34117bc4.jpg"}
+{"name": "Queijo Parmes\u00e3o BURITIS Light Kg", "brand": "Buritis", "price": "R$ 89,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8e1f328cdd334348a445bcc272b12847.jpeg"}
+{"name": "Requeij\u00e3o CANTO DE MINAS 200g", "brand": "Canto de Minas", "price": "R$ 4,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4aeb001125184b90883390db196cba3f.jpg"}
+{"name": "Iogurte DANONE Morango 170g", "brand": "Danone", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f2e90f97af094623a6df49f0119be671.jpg"}
+{"name": "Macarr\u00e3o EMEG\u00ca com Ovos Parafuso 500g", "brand": "Emeg\u00ea", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-86a93a549be94311875c7bec43fc9c0f.jpeg"}
+{"name": "Macarr\u00e3o EMEG\u00ca com Ovos Cabelo de Anjo 500g", "brand": "Emeg\u00ea", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-edb44026528b4eaa961e65775a3813b3.jpg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Pena 500g ", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c6052b5197514837a0dc8f162c2fcdba.jpeg"}
+{"name": "Macarr\u00e3o ADRIA com Ovos Padre Nosso 500g", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9eaeaa1a295e400982db107dc8da2531.jpeg"}
+{"name": "Macarr\u00e3o ADRIA com Ovos Parafuso 500g", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4ef24667ab094dc2a2cb1f0094fb5237.jpg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Letrinhas 500g ", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-22f8fc787dd04e628ecd6c72775476d7.jpeg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Gravata 500g", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a0cfdf7f6ad14c36816ecabda6a3b8d4.jpeg"}
+{"name": "Macarr\u00e3o RENATA Aletria 500g", "brand": "Renata", "price": "R$ 5,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7dde135af39845d1836541beea7f111a.jpg"}
+{"name": "Macarr\u00e3o RENATA Talharim N\u00ba 3 500g", "brand": "Renata", "price": "R$ 7,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f5500642e0c04ca29cce7c9d6c8e2b2c.jpeg"}
+{"name": "Macarr\u00e3o RENATA Pena 500g", "brand": "Renata", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20ab2d5e9b624b29882ad20007211f6e.jpg"}
+{"name": "Macarr\u00e3o RENATA Parafuso 500g", "brand": "Renata", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209154643336380257999c79c8f44448635d7614606394d.jpg"}
+{"name": "Macarr\u00e3o RENATA Ninho N\u00ba 3 500g", "brand": "Renata", "price": "R$ 5,48", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-cb04185398dd468ba1b00b258dc9d587.jpg"}
+{"name": "Macarr\u00e3o RENATA Ninho 500g", "brand": "Renata", "price": "R$ 5,48", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209154643955444742daa08b4f348db955f6380083ac140.jpg"}
+{"name": "Fub\u00e1 Mimoso YOKI 500g ", "brand": "Yoki", "price": "R$ 2,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0df0916302924a6bb7e3473e5781a4ae.jpg"}
+{"name": "Macarr\u00e3o RENATA Gravata 500g", "brand": "Renata", "price": "R$ 5,48", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-16f78a3735564958bad810c03007cb3f.jpg"}
+{"name": "Macarr\u00e3o RENATA Furadinho 500g", "brand": "Renata", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e32acbc85ffb4e5bbb9ba66a02851ea5.jpg"}
+{"name": "Farinha de Trigo FRUTOS DA TERRA Integral 1Kg ", "brand": "Frutos da Terra", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4438d1abffd94944b83cfc2b9f297246.jpg"}
+{"name": "Polvilho Doce NIPPON 1Kg ", "brand": "Nippon", "price": "R$ 5,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-65838009cb1c4f6e90d74b03dbf18807.jpg"}
+{"name": "Polvilho Azedo YOKI 1Kg ", "brand": "Yoki", "price": "R$ 18,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-42aa8d0d8562490685fcda4e5f1b4b16.jpg"}
+{"name": "Polvilho Azedo NIPPON 1Kg ", "brand": "Nippon", "price": "R$ 10,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b66e77e2c3be4ff1b5f64e4e9954665c.jpg"}
+{"name": "Trigo para Kibe NIPPON 500g ", "brand": "Nippon", "price": "R$ 2,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-eef53edaea8549378d2e6f6e7a57e5e0.jpg"}
+{"name": "Trigo para Kibe BSB ALIMENTOS 500g", "brand": "Bsb Alimentos", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-22cafe6b3347408187c9957c0e227dac.jpg"}
+{"name": "Gr\u00e3o de Bico BSB ALIMENTOS 500g", "brand": "Bsb Alimentos", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4a52b5ff20394f9faf45efb7efd851a9.jpeg"}
+{"name": "Ervilha Verde YOKI Partida 500g ", "brand": "Yoki", "price": "R$ 9,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c31b9e2e6b32435b8441c760f9b71f33.jpg"}
+{"name": "Ervilha Verde NIPPON 500g", "brand": "Nippon", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f57e180aa0fe451aa705713b7a03a0a8.jpeg"}
+{"name": "Iogurte Grego ITAMB\u00c9 Tradicional 400g", "brand": "Itamb\u00e9 ", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-aa96e692b04844808a8854f5629c6e42.jpeg"}
+{"name": "Bebida L\u00e1ctea com Polpa BATAVO Coco 540g", "brand": "Batavo", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fdd12f8e16bd4f29b82f4798e20fa466.jpg"}
+{"name": "Mortadela Bolonha SEARA Fatiada 200g", "brand": "Seara", "price": "R$ 4,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a75663cd7f574f148b53789ce4bfacf1.jpeg"}
+{"name": "Iogurte ITAMB\u00c9 NoLac Zero A\u00e7\u00facar Tangerina Bandeja 540g", "brand": "Itamb\u00e9", "price": "R$ 8,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-cc7257940ae64eb7a7dc190ecb485fc7.jpg"}
+{"name": "Mozzarella de B\u00fafala BOM DESTINO Palito Kg", "brand": "Bom Destino", "price": "R$ 89,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d68d6bf2463e4d9baa8febc5d4339f25.jpg"}
+{"name": "Margarina QUALY sem Sal 500g", "brand": "Qualy ", "price": "R$ 5,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d8074205d5434ae68009682d889773ac.jpg"}
+{"name": "Queijo SUPREMO Emmental Kg", "brand": "Supremo", "price": "R$ 83,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-032491d2c8ce4fbe8fb02e91509df3f7.jpg"}
+{"name": "Queijo Fatiado POLENGHI Cheddar Kg ", "brand": "Polenghi", "price": "R$ 44,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3167c7fbac9d4b03bbb979fbfd7106a2.jpeg"}
+{"name": "Iogurte Natural NESTL\u00c9 Cenoura, Laranja e Mel 170g", "brand": "Nestle ", "price": "R$ 2,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1dbac42d8ae24909b0bf87226511eef1.jpeg"}
+{"name": "Queijo Minas Padr\u00e3o PARACATU Kg", "brand": "Paracatu", "price": "R$ 45,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-58198a037be14f51b36346b02828a305.jpeg"}
+{"name": "Queijo Minas PIRACANJUBA Peda\u00e7o Padr\u00e3o 200g ", "brand": "Piracanjuba ", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ab54c859bacf488698bd2ed190a8f012.jpg"}
+{"name": "Cream Cheese PHILADELPHIA Light 300g", "brand": "Philadelphia", "price": "R$ 16,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-457713ce5ba241df9f98851aebc136a1.jpg"}
+{"name": "Iogurte Natural ITAMB\u00c9 NoLac Desnatado 170g ", "brand": "Itamb\u00e9", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-70a86b67622f47b6a1ccb765625ed5fe.jpeg"}
+{"name": "Iogurte ITAMB\u00c9 Morango Garrafa 900g", "brand": "Itamb\u00e9 ", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d8feff022b8b4d859ac9f6da3b6d8a94.jpg"}
+{"name": "Queijo PIRACANJUBA Mussarela Lanche Kg ", "brand": "Piracanjuba", "price": "R$ 45,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-06c8bcae97724cf8bb61e025de0d3cb8.jpeg"}
+{"name": "Iogurte Natural ITAMB\u00c9 NoLac Integral 170g", "brand": "Itamb\u00e9", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-89b53e596b9149ed873a1b6e041c66b2.jpeg"}
+{"name": "CANTO DE MINAS Requeij\u00e3o Light 420g", "brand": "Canto de Minas", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c7c79c2df0e14f60a149f3052e799001.jpg"}
+{"name": "Queijo Provolete MARIANA Provolone Kg", "brand": "Mariana", "price": "R$ 48,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-48b531308d2f4c44a78aad38f79c0aa5.jpg"}
+{"name": "Iogurte DANONE Salada de Frutas 900g ", "brand": "Danone ", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0aefe2590e5c4dfb8f5d3b41bd69e76c.jpg"}
+{"name": "Queijo Gouda DANITA Forma Kg", "brand": "Danita", "price": "R$ 64,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-980da56af5a648b08f2fee9526cab08b.jpg"}
+{"name": "Requeij\u00e3o Lacfree VERDE CAMPO 180g", "brand": "Lacfree", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2bcdd9f6efe94c97923eb46ccd9d7e4f.jpeg"}
+{"name": "Bebida L\u00e1ctea NESCAU Tradicional 200ml", "brand": "Nescau ", "price": "R$ 1,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e831a194886e40a39147d85b807d9bd0.jpg"}
+{"name": "Requeij\u00e3o ITAMB\u00c9 Ervas Finas 220g", "brand": "Itamb\u00e9 ", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0f7202a298a148ff8a1ad85a2c5899fb.jpeg"}
+{"name": "Salame Fatiado HACIENDAS Italiano 80g ", "brand": "Haciendas ", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-801a2fe7da8d4d8fbf6c7a74bd95db26.jpeg"}
+{"name": "Iogurte ITAMB\u00c9 Mam\u00e3o e Laranja 170g ", "brand": "Itamb\u00e9 ", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fc1a9750c0c34ec0866b111d85352002.jpg"}
+{"name": "Canjica Cristal YOKI 500g ", "brand": "Yoki", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209155254972022524d5458ed29491f85d75d8410e09b82.jpg"}
+{"name": "Canjica Branca BSB ALIMENTOS 500g ", "brand": "Bsb Alimentos", "price": "R$ 2,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c1b41544aeab4d3cb7a44ae2b017cbc1.jpg"}
+{"name": "Canjica Amarela NIPPON 500g ", "brand": "Nippon", "price": "R$ 1,89", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-92226dd26ace41aaa9668b96f98e2eeb.jpeg"}
+{"name": "Fub\u00e1 Pr\u00e9 Cozido YOKI 1Kg ", "brand": "Yoki", "price": "R$ 7,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3f2179889d474a938acdde5e628da183.jpg"}
+{"name": "Fub\u00e1 de Milho NIPPON 1Kg ", "brand": "Nippon", "price": "R$ 2,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-bd46bd649dae4eb7ad1d0015964c9933.jpg"}
+{"name": "Fub\u00e1 de Milho BSB ALIMENTOS 1Kg ", "brand": "Bsb Alimentos", "price": "R$ 2,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c68f0394fbd446b0903140e6255141a4.jpg"}
+{"name": "Farofa YOKI com Peda\u00e7os Cebola 200g ", "brand": "Yoki", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-43b72a039a814bf6910f935a6d29bb1b.jpg"}
+{"name": "Farinha de Milho YOKI Amarela 500g", "brand": "Yoki", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091552595491129fec4419ffa94239872eaf057fd62fc2.jpg"}
+{"name": "Farinha de Milho NIPPON 500g ", "brand": "Nippon", "price": "R$ 2,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9e5763edffe14ba1be11eb16cc102601.jpg"}
+{"name": "Farinha de Milho BSB ALIMENTOS Biju 500g", "brand": "Bsb Alimentos", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-597f46fcfe1f458da6f5bd50aa07ed4a.jpg"}
+{"name": "Farinha de Puba BSB ALIMENTOS 1Kg ", "brand": "Bsb Alimentos", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f03675c60c88467ca82362f9af43f2c1.jpg"}
+{"name": "S\u00eamola de Milho YOKI 500g ", "brand": "Yoki", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4b4a6ccfcc5b4115addc7f501b742b8c.jpg"}
+{"name": "Floc\u00e3o de Milho NIPPON 500g ", "brand": "Nippon", "price": "R$ 1,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6f8e2a25e0d24094994427a5a93573f2.jpeg"}
+{"name": "Floc\u00e3o de Milho BSB ALIMENTOS 500g", "brand": "Bsb Alimentos", "price": "R$ 1,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c47ab1c6404346bdaf00421dc92e1645.jpg"}
+{"name": "Floc\u00e3o de Arroz BSB ALIMENTOS 500g ", "brand": "Bsb Alimentos", "price": "R$ 2,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-655b2f0f50f043c4b9825029198293a5.jpg"}
+{"name": "Farinha de Arroz URBANO 1Kg", "brand": "Urbano", "price": "R$ 5,11", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091546374488859e7c25c9c47c40d0bc32707b299ed660.jpg"}
+{"name": "Farinha de Arroz TIO JO\u00c3O 1Kg", "brand": "Tio Jo\u00e3o", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a16e42cd917a45ddaf69f32ea2bfb9f5.jpg"}
+{"name": "Canjica de Milho YOKI 500g ", "brand": "YOKI", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209155255301019b898a79423f04316a658d2071e2aa982.jpg"}
+{"name": "Canjiquinha NIPPON 500g ", "brand": "Nippon", "price": "R$ 1,89", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1d05cf6e0fb641e49e2e449cca47176a.jpeg"}
+{"name": "Pimenta Bode IMPERADOR 90g", "brand": "Imperador", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-673940735ddd47fc87023518d6cdc375.jpeg"}
+{"name": "Noz Moscada KITANO Gr\u00e3o 8g ", "brand": "Kitano", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-180adec718b743bf9b6b63a5190d7a43.jpg"}
+{"name": "Sardinha GOMES DA COSTA \u00d3leo 250g", "brand": "GOMES", "price": "R$ 8,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209155503056870d3aab6fc918c43cea215d1ddfc95b6da.jpg"}
+{"name": "Sardinha GOMES DA COSTA Molho Tomate 250g ", "brand": "Gomes da Costa", "price": "R$ 9,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091555024229462d9a0a520c864293b07dbad5dd4ebd2e.jpg"}
+{"name": "Sardinha GOMES DA COSTA Picante 125g ", "brand": "GOMES", "price": "R$ 4,39", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209155502995530bb081626c32749068785765720f9e940.jpg"}
+{"name": "Sardinha GOMES DA COSTA Lim\u00e3o 125g ", "brand": "Gomes da Costa", "price": "R$ 4,39", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-56847417d1e64fd5ad151a49fc0b8e2e.jpeg"}
+{"name": "Salame SADIA Italiano Kg ", "brand": "Sadia", "price": "R$ 71,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7fc442ecb6b645e0ac26551ba24ed9d7.jpg"}
+{"name": "Lombo Condimentado Fatiado CARDEAL 150g", "brand": "Cardeal ", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9e79e243987a4a4c8ac863de540ca404.jpg"}
+{"name": "Iogurte DANONINHO Banana e Ma\u00e7\u00e3 100g ", "brand": "Danone", "price": "R$ 2,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-77d027cb36f84ade870f06fe2ba7d8fb.jpeg"}
+{"name": "Queijo Reino BASEL Lata Kg", "brand": "Basel ", "price": "R$ 110,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c26bc89177064827a6bd35fcf4045b73.jpg"}
+{"name": "Leite em P\u00f3 PIRACANJUBA Integral 800g", "brand": "Piracanjuba ", "price": "R$ 21,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5116fedb9afb47f5aebdbe96bb723617.jpg"}
+{"name": "Queijo Gouda SUPREMO Kg", "brand": "Supremo", "price": "R$ 78,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ab9a1721cd1c455dac2f59cf42882c39.jpg"}
+{"name": "Iogurte ITAMB\u00c9 NOLAC Coco 170g", "brand": "Itamb\u00e9", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-172b49dccc2949c9b7a0b144b2d3cc46.jpeg"}
+{"name": "Iogurte ITAMB\u00c9 Maracuj\u00e1 170g", "brand": "Itamb\u00e9 ", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a8146d7eb0374ced9283ebc43804f895.jpg"}
+{"name": "Iogurte Polpa ITAMB\u00c9 Coco 540g", "brand": "Itamb\u00e9 ", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0211ed986bbd493ca6bb191b3a6607a7.jpeg"}
+{"name": "Queijo Frescal VALE DO ORIZONA Light Kg", "brand": "Vale do Orizona", "price": "R$ 21,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-64abef91cd90410ebb821470f9d59180.jpeg"}
+{"name": "Iogurte VERDE CAMPO Whey Baunilha 250g", "brand": "Verde Campo", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f7b0e1fefec94065903a6fe73f39c4c2.jpg"}
+{"name": "Leite em P\u00f3 NESTL\u00c9 Ninho 1+ 400g", "brand": "Nestle", "price": "R$ 14,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8badff57c606439d8bda20d5529c3544.jpg"}
+{"name": "CANTO DE MINAS Requeij\u00e3o 420g", "brand": "Canto de Minas", "price": "R$ 8,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-16291f389c7945c49c979c300ce0bd1f.jpg"}
+{"name": "Taffman-EX YAKULT 110ml", "brand": "Yakult ", "price": "R$ 3,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1c9458184f07413cbf318cee8c503ca5.jpg"}
+{"name": "Margarina DORIANA com Sal 500g", "brand": "Doriana", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d23b1608600c46eaa775a2c659bbf70c.jpg"}
+{"name": "Cream Cheese PHILADELPHIA Original 300g", "brand": "Philadelphia ", "price": "R$ 16,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6cd1a7ad98814a43b81d613cc0a171d6.jpg"}
+{"name": "CANTO DE MINAS Iogurte Vitamina 900g", "brand": "Canto de Minas", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-14e2fd530c664d43a12e6150051e4859.jpg"}
+{"name": "Leite ITAMB\u00c8 Semidesnatado 1L", "brand": "Itamb\u00e9 ", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1fdedba4c1f14618b26f78b851821c9c.webp"}
+{"name": "Neston NESTL\u00c9 3 Cereais 400g", "brand": "Nestle", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e88d1abeef594d8aabf35c82760b3718.jpg"}
+{"name": "Iogurte CANTO DE MINAS Coco 900g", "brand": "Canto de Minas", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ff203fafcb5649f1b8e0fcd46aabb5f4.jpg"}
+{"name": "Manteiga PIRACANJUBA sem Sal Pote 200g", "brand": "Piracanjuba ", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f4c8f23dc95243cd94f71f0a26370f33.jpg"}
+{"name": "DANETTE Chocolate 360g ", "brand": "Danone", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9cd33b1a6d70487e8bc54e31b1df3835.jpg"}
+{"name": "Provolone TIROLEZ Peda\u00e7o Kg", "brand": "Tirolez", "price": "R$ 69,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2cdf91727b4b4a79af53aa40fcd97346.jpg"}
+{"name": "Leite em P\u00f3 PIRACANJUBA Desnatado 600g ", "brand": "Piracanjuba ", "price": "R$ 19,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0bfbed0596864b68b1e07bc0009d6a00.jpg"}
+{"name": "Iogurte ITAMB\u00c9 Frutas Vermelhas 170g", "brand": "Itamb\u00e9 ", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1bf83fd3fb5245359ba91385d43e7f1e.jpeg"}
+{"name": "Sardinha COQUEIRO Lim\u00e3o 125g ", "brand": "COQUEIRO", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fea9129e7027412a819674f568299b2d.jpg"}
+{"name": "Fil\u00e9 de Sardinha GOMES DA COSTA Tomate 125g", "brand": "GOMES", "price": "R$ 10,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091555023619030c60558fecf04f1ea55efc84f6ac0379.jpg"}
+{"name": "Fil\u00e9 de Sardinha GOMES DA COSTA Lim\u00e3o 125g ", "brand": "GOMES", "price": "R$ 10,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7639c9e913004c45899edff3ef33e7bb.jpg"}
+{"name": "Salsicha Vegetal SUPERBOM 300g ", "brand": "SUPERBOM", "price": "R$ 19,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209154628044954446b6d17614f4db38a7b595831bc6bdc.jpg"}
+{"name": "Salsicha Defumada SUPERBOM 150g ", "brand": "Superbom", "price": "R$ 15,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4449b6ac8d9f4bab9c86ac636ebe126e.jpg"}
+{"name": "Feijoada BORDON 830g ", "brand": "BORDON", "price": "R$ 11,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209155504546522d3bd8cee1792479488a304d3fe8d3f1d.jpg"}
+{"name": "Feijoada ANGLO 830g ", "brand": "Anglo", "price": "R$ 13,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e0a926769a8942858a67ff42f4a46ab0.jpg"}
+{"name": "Feijoada VAPZA Pronta 500g ", "brand": "Vapza", "price": "R$ 26,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8eaa5320abfd44e7bd37877f5a264693.jpg"}
+{"name": "Feijoada BORDON 430g", "brand": "BORDON", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2016020915550402097491975174e3a147c68d09623dfc43c3c9.jpg"}
+{"name": "Feijoada ANGLO 430g", "brand": "Anglo", "price": "R$ 7,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-960f4ed0dd1c499ab054f6326ff16cfb.jpg"}
+{"name": "Feijoada ANGLO 310g", "brand": "Anglo", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a58cf4591f3d473dadd7e19734fbb864.jpg"}
+{"name": "Jardineira ao Molho Caseiro SUPERBOM 380g", "brand": "Superbom", "price": "R$ 21,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-463ff2e9b84e43e08601473306f902b5.jpg"}
+{"name": "Hamb\u00farguer SUPERBOM 280g", "brand": "Superbom", "price": "R$ 23,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-34c041d4ed2e411985fe9e56001a7e9d.jpg"}
+{"name": "Fiambre de Carne Bovina BORDON 320g", "brand": "BORDON", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091555043724929858a86373ef4188adc647668e8372cd.jpg"}
+{"name": "Escalope ao Molho Caseiro SUPERBOM 380g ", "brand": "Superbom", "price": "R$ 21,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a6b2f671a699461b91bf1ec961e5252f.jpg"}
+{"name": "Cubinhos ao Molho Caseiro SUPERBOM 380g ", "brand": "Superbom", "price": "R$ 21,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c26a927d8ecc4dc1b6eafdca252a3cb3.jpg"}
+{"name": "Carne Vegetal SUPERBOM 400g ", "brand": "SUPERBOM", "price": "R$ 21,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091555043015906ee2caf424694ee4a6c1e6ac20e19f8a.jpg"}
+{"name": "Bife Vegetal SUPERBOM 300g", "brand": "SUPERBOM", "price": "R$ 19,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209155504071048eeb741603ddd47aabe11e80b664468c9.jpg"}
+{"name": "Alm\u00f4ndega ao Molho BORDON 420g ", "brand": "Bordon", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-dbdec755c38a40a4bf5bd79d322b09b4.jpg"}
+{"name": "Alm\u00f4ndega ao Molho ANGLO 420g", "brand": "Anglo", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e5e8ef27598e422faf8fa800c2b79d30.jpg"}
+{"name": "Salada de Atum GOMES DA COSTA Ervilha e Cenoura 150g ", "brand": "GOMES", "price": "R$ 11,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-66cc95517e9e4942a7b7cad0b4263979.jpg"}
+{"name": "Salada de Atum GOMES DA COSTA Batata 150g ", "brand": "GOMES", "price": "R$ 11,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091549327382477592b1a9bada4d4989e604fc10d532be.jpg"}
+{"name": "Atum S\u00f3lido GOMES DA COSTA \u00d3leo 170g ", "brand": "GOMES", "price": "R$ 11,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091555040263711e8adfe4898349398537c7feb61fcbfa.jpg"}
+{"name": "Atum S\u00f3lido GOMES DA COSTA Natural 170g ", "brand": "GOMES", "price": "R$ 11,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091555035880225cbbf916b04e4e018af0ac1bb1f78d31.jpg"}
+{"name": "Atum S\u00f3lido GOMES DA COSTA Defumado 170g ", "brand": "GOMES", "price": "R$ 11,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091555040263711e8adfe4898349398537c7feb61fcbfa.jpg"}
+{"name": "Leite em P\u00f3 ITAMB\u00c9 Integral 400g", "brand": "Itamb\u00e9 ", "price": "R$ 11,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6a3e3f6a0a584549b62bff0f30553738.jpg"}
+{"name": "Iogurte DANONE Morango 900g ", "brand": "Danone", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2050fe18915b4d48aafb18507d294f47.jpg"}
+{"name": "Iogurte CANTO DE MINAS Light Morango 900g ", "brand": "Canto de Minas", "price": "R$ 7,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7ab3ecdde71e4774a8420e49f34239b8.jpg"}
+{"name": "Waffle Light FORNO DE MINAS 210g ", "brand": "Forno de Minas", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6a2d39b71f174b1e866ba61f853e19bd.jpg"}
+{"name": "Iogurte ITAMB\u00c9 Coco 170g", "brand": "Itamb\u00e9 ", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-70c938abdd4a479fb640205ba397d62d.webp"}
+{"name": "Iogurte VERDE CAMPO Whey Cookies 250g ", "brand": "Verde Campo", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f427923b195a453eb46107d789e6822d.jpg"}
+{"name": "Iogurte Grego ITAMB\u00c9 NoLac Frutas Vermelhas e Maracuj\u00e1 Bandeja 540g", "brand": "Itamb\u00e9", "price": "R$ 8,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-bc1d995a6c204d9abb0a72a9b30f6ad7.jpeg"}
+{"name": "Aptamil 3 DANONE 800g", "brand": "Danone", "price": "R$ 44,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0fcb6a75a97b40129e3310024ca56849.jpg"}
+{"name": "Shake Whey VERDE CAMPO Chocolate 250ml ", "brand": "Verde Campo", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-599ef52f84b448be92aad746b0816b96.jpg"}
+{"name": "Queijo Gruyere CRUZILIA Forma Kg", "brand": "Cruzilia", "price": "R$ 99,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8b0077e626ef4617a4ae5ce1e6b1c3cf.jpg"}
+{"name": "Iogurte Ninho NESTL\u00c9 Morango 540g", "brand": "Nestle", "price": "R$ 5,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-dfd6f34016fa4466bfae25755890a921.jpeg"}
+{"name": "Iogurte Fit ITAMB\u00c9 Morango 170g", "brand": "Itamb\u00e9 ", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-475961b9182c44859fc6e17f4f338fe7.jpg"}
+{"name": "Leite em P\u00f3 ITAMB\u00c9 Semidesnatado 300g", "brand": "Itamb\u00e9 ", "price": "R$ 11,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-aeb2b21a0abc4de5ab3713ed4f55f5c1.jpg"}
+{"name": "Emmental BASEL Kg", "brand": "Basel", "price": "R$ 99,00", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-09cff98bd9ba47acbf4d364b3f32279b.jpg"}
+{"name": "Iogurte Natural NESTL\u00c9 Desnatado 160g", "brand": "Nestle ", "price": "R$ 2,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5051a5f47ff74f4c8f0ca0d8d6a114fc.jpeg"}
+{"name": "Lasanha SEARA Menu Gourmet 350g", "brand": "Seara ", "price": "R$ 5,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-50ce5131861843f886d5cb72b20580c5.jpg"}
+{"name": "Leite Zero Lactose ITALAC 1L ", "brand": "Italac ", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-581fcf30d690438fa72544be5014ab48.jpg"}
+{"name": "CHANDELLE Chocolate 180g", "brand": "Nestle ", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2bbb1c045e94412eb0781feb63a7e4c1.jpeg"}
+{"name": "Iogurte NESTL\u00c9 Vitamina de Frutas 170g", "brand": "Nestle", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4718830b9a8c49d4a38ed2cac23a6a25.jpg"}
+{"name": "Manteiga GRAN MESTRI com Sal 200g ", "brand": "Gran Mestri ", "price": "R$ 14,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-40c0722f54bf452bb91e5e9816515feb.jpeg"}
+{"name": "Iogurte ITAMB\u00c9 NoLac Frutas Vermelhas 170g", "brand": "Itamb\u00e9", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9f4ab75a308744fa9f247af868e1f889.jpeg"}
+{"name": "Iogurte Natural CANTO DE MINAS Integral 180g", "brand": "Canto de Minas", "price": "R$ 1,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d22cafba66354c3498497452afa7c291.jpeg"}
+{"name": "Leite Fermentado YAKULT Light com 40 Unidades 80g", "brand": "Yakult ", "price": "R$ 1,66", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-da9c82a18626441dab5d93216965e7f6.jpg"}
+{"name": "Iogurte DANONINHO Morango 100g", "brand": "Danone", "price": "R$ 2,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ea4c4709f0404ed483d698d38b7b8e26.jpeg"}
+{"name": "Copa Fatiada SADIA 100g", "brand": "Sadia", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0b762181e06e4ef285d1bf6ceb6a711f.jpg"}
+{"name": "Atum S\u00f3lido GOMES DA COSTA Baixo Teor de S\u00f3dio \u00d3leo 170g ", "brand": "GOMES", "price": "R$ 11,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a525d800810e43eebe2d1a7559d2af92.jpg"}
+{"name": "Atum Ralado GOMES DA COSTA Natural 170g", "brand": "GOMES", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0c54d23acf5e4ee8a9b2c4c23dddcf94.jpg"}
+{"name": "Atum Ralado GOMES DA COSTA Picante 170g ", "brand": "GOMES", "price": "R$ 6,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091555030552929b0a4ccedbea41afa078c0f4caf1f292.jpg"}
+{"name": "Atum Ralado GOMES DA COSTA em \u00d3leo 170g", "brand": "Gomes da Costa", "price": "R$ 6,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-83522ba350a84f919cd09da632f3a6e2.jpeg"}
+{"name": "Atum Ralado GOMES DA COSTA Defumado 170g ", "brand": "GOMES", "price": "R$ 6,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209155503076891a398b18f14c54248a584c83380a36dcf.jpg"}
+{"name": "Atum Ralado COQUEIRO Tomate 170g", "brand": "Coqueiro", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b348206a9b3d4c7ea1b7a4e80f298750.jpeg"}
+{"name": "Atum Peda\u00e7os GOMES DA COSTA Natural 170g ", "brand": "GOMES", "price": "R$ 10,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6593b2ab9f2b40abb21f7459c4def5c0.jpg"}
+{"name": "Atum Ralado COQUEIRO Molho de Tomate 170g", "brand": "COQUEIRO", "price": "R$ 9,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2016020915550297328473c02de489424479b800aa0c574a82fa.jpg"}
+{"name": "Atum Claro GOMES DA COSTA Natural 170g ", "brand": "GOMES", "price": "R$ 15,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2889057877fc44ada7edc99d680a7fd9.jpg"}
+{"name": "Atum Claro GOMES DA COSTA Azeite 170g ", "brand": "Gomes da Costa", "price": "R$ 15,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3d52d892c71d47bc8c3282053b9c9cab.jpg"}
+{"name": "Atum COQUEIRO Ervas e Azeitona 170g", "brand": "Coqueiro", "price": "R$ 9,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1ba4534c63a243f0a758c946253cfbf6.jpg"}
+{"name": "Tomate Seco LA PASTINA 280g", "brand": "La Pastina", "price": "R$ 22,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-cb7c4542d4824927bce01df1a9ad5b0b.jpg"}
+{"name": "Tomate Seco HEMMER 110g", "brand": "HEMMER", "price": "R$ 12,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091554493729151ff1ec8547bc40258bf603cfd9d972bd.jpg"}
+{"name": "Tomate sem Pele MASTROIANI 400g", "brand": "Mastroiani", "price": "R$ 5,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-cf2e4a8e91e147beb8b9ca47d10619a9.jpg"}
+{"name": "Tomate Pelado PAGANINI em Cubos 400g", "brand": "Paganini", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-82f1fcb0c3ac47f5bcae06faab8c4ba2.jpeg"}
+{"name": "Tomate Pelado PAGANINI 400g", "brand": "Paganini ", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-445891e2471d4338beb2b1dda6c14bf2.jpeg"}
+{"name": "Trigo para Kibe YOKI 500g ", "brand": "Yoki", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ba4bff30cadd45d98f3d1309259e9e87.jpg"}
+{"name": "Polpa de Pequi DICEL 240g", "brand": "Dicel", "price": "R$ 31,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d5b820a89487478d9089a3032362f70a.jpg"}
+{"name": "Milho Verde FUGINI Sach\u00ea 200g", "brand": "Fugini ", "price": "R$ 1,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4c62791c113241858c05d6e65973d102.jpg"}
+{"name": "Macarr\u00e3o NISSIN L\u00c1MEN Yakissoba 500g", "brand": "Nissin L\u00e1men", "price": "R$ 5,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-42f69617d9614074bfa996ff63718555.jpg"}
+{"name": "Ervilha FUGINI Sach\u00ea 200g ", "brand": "Fugini ", "price": "R$ 1,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7302118bffa04ab8ac09876eaf2f5b68.jpg"}
+{"name": "Mistura para Bolo FLEISCHMANN Choco Mousse 450g", "brand": "Fleischman ", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-072d3770d02d4dd3898cc066b3035b3a.jpg"}
+{"name": "Mistura para Bolo FLEISCHMANN Petit Gateau 450g", "brand": "Fleischman ", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d5f67477206f45319de2627cd673f459.jpg"}
+{"name": "Azeitonas Verdes VALE F\u00c9RTIL 500g", "brand": "Vale F\u00e9rtil", "price": "R$ 13,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0003ca9f7273449182234ac3429ffc10.jpeg"}
+{"name": "Massa BARILLA Fusilli 500g", "brand": "Fusilli", "price": "R$ 13,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-806abca82c684ca3ac50b5bee774d879.jpg"}
+{"name": "Bebida L\u00e1ctea ITAMB\u00c9 PR\u00d3 + Baunilha 200ml", "brand": "Itamb\u00e9 ", "price": "R$ 4,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a6d0c78500c742a981007bae9c8d5cb4.jpg"}
+{"name": "Iogurte 250g Whey Banana", "brand": "Verde Campo", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5d6754e9585f480fa842f66302c6bcb0.jpg"}
+{"name": "Lasanha SADIA Frango ao Sugo 600g", "brand": "Sadia ", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-bb908c574156465b88077cf71e1b659b.jpeg"}
+{"name": "Queijo Ralado ITALAC 50g", "brand": "Italac ", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ac836b59ab454f38a62ae4d3643b5a6a.jpg"}
+{"name": "Queijo Ralado FAIXA AZUL 50g", "brand": "Faixa Azul", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-95485f5f0ada49f195a2978385f56051.jpg"}
+{"name": "Iogurte 250g Whey Morango", "brand": "Verde Campo", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e23eb55cf8524624ae3711b60e053564.jpg"}
+{"name": "Bebida L\u00e1ctea ITAMB\u00c9 PR\u00d3 + Chocolate 200ml", "brand": "Itamb\u00e9 ", "price": "R$ 4,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b076b01897c14a278e5d921b3d3f5fca.jpeg"}
+{"name": "Iogurte Natural NESTL\u00c9 Mel 170g", "brand": "Nestle ", "price": "R$ 2,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-23a76c1c7dbb4fe3b1c841bb3728f222.jpeg"}
+{"name": "Requeij\u00e3o DANONE 200g", "brand": "Danone ", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-077c122fa3194d448d0f75283e24189d.jpg"}
+{"name": "Requeij\u00e3o NESTL\u00c9 Light 200g", "brand": "Nestle ", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a632858ab7a34dfca5b827b5bb9c174d.jpg"}
+{"name": "Iogurte CANTO DE MINAS Morango 900g", "brand": "Canto de Minas", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-69b0751cb11945038ecf06b87c115418.jpg"}
+{"name": "Queijo Cottage VERDE CAMPO Lacfree 200g", "brand": "Lacfree", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-39acfe5c409a4fbb9a28cbbbe3306a64.jpg"}
+{"name": "Queijo Minas QUAT\u00c1 Padr\u00e3o Kg", "brand": "Quata", "price": "R$ 59,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-bed74fba64e8420c84a39f2c8796a58a.jpg"}
+{"name": "Leite Fermentado CANTO DE MINAS 900g", "brand": "Canto de Minas", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-43be9cd76aa741aa9ab917d228969331.jpg"}
+{"name": "Iogurte ITAMB\u00c9 Morango 170g ", "brand": "Itamb\u00e9 ", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b54e9ce7e46140c0be78f7b44f999195.jpeg"}
+{"name": "Coalhada CANTO DE MINAS Light 900ml", "brand": "Canto de Minas", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a0ffec507b4948478ff3a21b1818fe40.jpg"}
+{"name": "Leite Fermentado ACTIVIA Mam\u00e3o, Cereais e Aveia Leve 8 Pague 7 800g", "brand": "Activia ", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b034890e2c9845df93586ef70458144e.jpeg"}
+{"name": "SUPRA SOY Sem Lactose 300g", "brand": "Supra Soy ", "price": "R$ 21,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-debf3b0bbc174315aeece9e73af6000c.jpeg"}
+{"name": "Queijo CANTO DE MINAS Cottage 400g", "brand": "Canto de Minas", "price": "R$ 13,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e9004d5ffc52401b85a050c3aaac4817.jpg"}
+{"name": "POLENGUINHO Tradicional 136g", "brand": "Polenguinho ", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c865edec72384678aa24c7efab6b3024.jpg"}
+{"name": "Coalhada CANTO DE MINAS Integral 900ml", "brand": "Canto de Minas", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9543c6994c6e432684298dceb8a41d99.jpg"}
+{"name": "Iogurte NESTL\u00c9 Morango 170g", "brand": "Nestle", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-aeeff122473742c5aa57519207b534b0.jpg"}
+{"name": " Queijo Selection Camembert POLENGHI Triangular 125g ", "brand": "Polenghi", "price": "R$ 15,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-05c6e0ceb57c432cbdf5820817e1502d.jpg"}
+{"name": "Lasanha SEARA 4 Queijos 600g", "brand": "Seara ", "price": "R$ 11,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d83b1199cc19413399145ee8c4a24e49.jpg"}
+{"name": "Manteiga GRAN MESTRI Zero Lactose 200g", "brand": "Gran Mestri", "price": "R$ 17,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-585499df3f9e4ab3a19b9bd06671daf3.jpg"}
+{"name": "Macarr\u00e3o GALO Spaguetti N\u00ba8 500g", "brand": "Galo ", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2e7e12ad22fe4f6c953893fe764631e3.jpg"}
+{"name": "Massa GERMANA Lasanha 500g", "brand": "Germana ", "price": "R$ 7,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c3b33168aec54fd5affb787c591b1a4e.jpg"}
+{"name": "Cogumelos Inteiros HEMMER Sach\u00ea 100g", "brand": "Hemmer ", "price": "R$ 7,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7f2c21df44784eac8ace84743d6fcf18.jpg"}
+{"name": "Salsicha Viena ANGLO 180g", "brand": "Anglo", "price": "R$ 3,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8acfcc92cb774ba782dbab3a1e9b1df4.jpg"}
+{"name": "Massa Folhada GERMANA Laminada 300g", "brand": "Germana ", "price": "R$ 10,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-02cc03f181cf4425bae90a8471a03964.jpeg"}
+{"name": "Massa Nacional BARILLA Penne 500g", "brand": "Barilla ", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fa61f2fbda0143e7a8ab35554e12149b.jpg"}
+{"name": "Macarr\u00e3o S\u00eamola EMEG\u00ca Espaguete 500g", "brand": "Emeg\u00ea", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4b5dd8deb55e4357b04e1931947cf112.jpg"}
+{"name": "Macarr\u00e3o GALO Ninho N\u00ba3 500g", "brand": "Galo ", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d88029a2a26f4d608eedb547a6357af8.jpg"}
+{"name": "Farinha de Linha\u00e7a FRUTOS DA TERRA Dourada 200g", "brand": "Frutos da Terra", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-823514ac069e4d4fa015bb993957d104.jpg"}
+{"name": "Macarr\u00e3o RENATA Talharim N\u00ba2 500g", "brand": "Renata ", "price": "R$ 7,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1a58162e4bb84a8485e8b98574eedf92.jpg"}
+{"name": "Atum Ralado GOMES DA COSTA Molho de Tomate 170g", "brand": "Gomes da Costa", "price": "R$ 6,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ef9c9c749e9147c2a263d5022d35bdb4.jpg"}
+{"name": "Azeitonas Verdes LA VIOLETERA com Pasta de Piment\u00e3o 200g", "brand": "La Violetera", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4deff89326594ff19e0bd542c466e67d.jpeg"}
+{"name": "Farinha de Rosca NIPPON 500g", "brand": "Nippon", "price": "R$ 4,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-aba052af3b3c441991f26dce95f75c10.jpeg"}
+{"name": "Polvilho Doce AMAFIL Matuto 1Kg ", "brand": "Amafil ", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-573a648dbe5e4e97af6cbeb1fa0561c6.jpg"}
+{"name": "Amido de Milho MAIZENA 1Kg", "brand": "Maizena", "price": "R$ 11,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-103eece33fcf45cb893b4b7c1385cc6f.jpg"}
+{"name": "Ameixa Seca OL\u00c9 180g", "brand": "Ol\u00e9 ", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e72d1847c28e4986b223a1f5ba35ec08.jpg"}
+{"name": "Atum Peda\u00e7os GOMES DA COSTA \u00d3leo 170g", "brand": "Gomes da Costa", "price": "R$ 10,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6350cc8657ff426caa4aefa3c0acae16.jpg"}
+{"name": "Lasanha ADRIA 500g", "brand": "Adria", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0dbb786f8a944c8a96ebbb846f6dfb64.jpg"}
+{"name": "Farinha de Mandioca YOKI 500g ", "brand": "Yoki", "price": "R$ 5,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-face0f01a94643fa80a24dc013a1ffb8.jpg"}
+{"name": "Cogumelos Champignons LA VIOLETERA Fatiado 200g", "brand": "La Violetera", "price": "R$ 18,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fc0c4095d0ae4dd7a7b755bfa00272ec.jpeg"}
+{"name": "Azeitonas Verdes VALE F\u00c9RTIL Recheada Sach\u00ea 150g", "brand": " Vale F\u00e9rtil", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-62ccee3d91bf42b9bce79e8c824a9e05.jpg"}
+{"name": "Pepino HEMMER Zero 300g", "brand": "Hemmer ", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-428f95ea83a64aeca3d98e64e144b82a.jpg"}
+{"name": "Azeitonas Verdes IMPERADOR Fatiada 160g", "brand": "Imperador ", "price": "R$ 6,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5f225eff5bef4b569435e2e38ef0ad8e.jpeg"}
+{"name": "Tortilha PULLMAN Rap 10 Tradicional 330g", "brand": "Pullman ", "price": "R$ 7,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-feeea42bc0eb4d44a1f057e0394d636b.jpg"}
+{"name": "Sardinha GOMES DA COSTA Tomate 125g", "brand": "Gomes da Costa", "price": "R$ 4,39", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5cec51626a6a485ab6ccbdbd5bb34fc4.jpg"}
+{"name": "Apresuntado Retangular PERDIG\u00c3O Fatiado Kg", "brand": "Perdig\u00e3o", "price": "R$ 22,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-97fc30f75c2a4cf6a5fe07cd30e5c640.jpeg"}
+{"name": "Queijo Fatiado PRESIDENT Prato 150g ", "brand": "President ", "price": "R$ 7,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3cabac005ef04a05890b2d40d47c6aad.jpg"}
+{"name": "Lasanha SADIA 4 Queijos 600g", "brand": "Sadia ", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1b8ba82303764f80b5fe8aa7a81e3de5.jpg"}
+{"name": "Mussarela MARIANA Lanche Kg", "brand": "Mariana", "price": "R$ 38,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1c1387f482b14390a01627d67b98a79b.jpeg"}
+{"name": "Requeij\u00e3o VALEZA Tradicional 500g", "brand": "Valeza", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a733cc9818b744648df7524c19e0f4d4.jpg"}
+{"name": "Queijo Ralado BSB ALIMENTOS Parmes\u00e3o 50g", "brand": "Bsb Alimentos", "price": "R$ 5,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b72561e8195a4719a77f49cd0ba91eb8.jpg"}
+{"name": "Leite Fermentado Light YAKULT com 40 Unidades", "brand": "Yakult ", "price": "R$ 1,66", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0252bfd315204d9ba63937fb5d7424c4.jpg"}
+{"name": "Queijo Minas VALE DO ORIZONA Padr\u00e3o Kg", "brand": "Vale do Orizona", "price": "R$ 49,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d1ae0e3b5eba49adb157f1d3729f301f.jpeg"}
+{"name": "CHAMYTO Tradicional 450g ", "brand": "Chamyto ", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ce51c224008748c6bbaddae54efcf65e.jpeg"}
+{"name": "Queijo Minas VALE DO ORIZONA Frescal Kg", "brand": "Vale do Orizona", "price": "R$ 21,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-780e3030e1634c538879b63e18c710ff.jpeg"}
+{"name": "POLENGUINHO Light 136g", "brand": "Polenguinho ", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8c2d4ef73cdd4b3d9b789aa130e6e9d8.jpg"}
+{"name": "Lasanha SEARA Presunto e Queijo 600g", "brand": "Seara ", "price": "R$ 11,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4eb00fa4ce344d30b89cfd07550c9bb7.jpg"}
+{"name": "Ninho Leite P\u00f3 Integral 400g", "brand": "Ninho ", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-45d2774777764677af2ae69603cbdb74.jpg"}
+{"name": "Leite UHT 1L NOLAC Zero Lactose Semidesnatado", "brand": "Itamb\u00e9", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c9c247d52d1645709fe8f1f7cfa8671a.jpg"}
+{"name": "Leite em P\u00f3 ITAMB\u00c9 NoLac 300g", "brand": "Itamb\u00e9", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f7a3aa54f6a74391ba1c61aec14eedfa.jpg"}
+{"name": "Queijo Fatiado PRESIDENT Mussarela 150g", "brand": "President ", "price": "R$ 7,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-bd60b0aa7118481791fc4d53202fe260.jpg"}
+{"name": "Lasanha SEARA Frango 600g", "brand": "Seara ", "price": "R$ 11,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1da2ea610e954414b2de6696394f242d.jpg"}
+{"name": "Iogurte Grego DANONE Light 800g", "brand": "Danone ", "price": "R$ 13,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-368c788831fe41f6b2d46bdfe91465c6.jpg"}
+{"name": "Bebida L\u00e1ctea PIRAKIDS 200ml", "brand": "Pirakids ", "price": "R$ 1,09", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6a2bbb2f2c6a4ee7a97e04133f2ea30a.jpg"}
+{"name": "Leite Semi Desnatado ITALAC 1L", "brand": "Italac ", "price": "R$ 3,39", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9ea86252a0c14c5e83c0bbd3e2a1be5a.jpg"}
+{"name": "Queijo Fatiado BASEL Mussarela Kg", "brand": "Basel", "price": "R$ 48,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-22a2dce3a8fc4200b96b252c0670e52b.jpeg"}
+{"name": "Queijo Light TIROLEZ Mussarela Kg", "brand": "Tirolez ", "price": "R$ 59,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-828498e7e32243f98d531fd2f2812777.jpg"}
+{"name": "Iogurte ITAMB\u00c9 Polpa Morango 540g", "brand": "Itamb\u00e9 ", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-522318f7660b4922a558352450b248ca.jpg"}
+{"name": "Queijo B\u00daFALO BRANCO Mozzarella Barra 500g ", "brand": "B\u00fafalo Branco", "price": "R$ 34,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3ed4033380f54e30ae03ae4e03cf638a.jpeg"}
+{"name": "Iogurte Natural ITAMB\u00c9 Desnatado 170g ", "brand": "Itamb\u00e9 ", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fb5e56a0f7ae4ab5b1ddbb9e2a5ee987.jpeg"}
+{"name": "Massa Nacional BARILLA Parafuso 500g", "brand": "Barilla ", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-347b9ba4e3da414e9fb20fab3818b20d.jpg"}
+{"name": "Salsicha Viena BORDON 180g ", "brand": "Bordon", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7735fcc8a781457e9b00a8c82771d056.jpg"}
+{"name": "Palmito Inteiro KENKO 300g", "brand": "Kenko", "price": "R$ 23,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a6d5d157bd074152ac1e3478a63417a2.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Galinha Caipira 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2e76c329d6194465a6a8148e535e694c.jpg"}
+{"name": "Farinha de Coco COPRA 400g", "brand": "Copra", "price": "R$ 11,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f1283aae2146435bae0a37e2db3fceb6.jpg"}
+{"name": "Macarr\u00e3o Integrale PAGANINI Penne Rigate 500g", "brand": "Paganini ", "price": "R$ 9,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8fd55e48aca14884b31a8c50fe084e13.jpg"}
+{"name": "Cogumelos Champignons LA VIOLETERA 100g", "brand": "La Violetera", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-aa666c74c2944bc09ff3bf9e971590d8.jpeg"}
+{"name": "Azeitonas Verdes VALE F\u00c9RTIL Sach\u00ea 100g", "brand": "Vale F\u00e9rtil ", "price": "R$ 2,69", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3e5289692f6e45daadd6542d4fb3c741.jpg"}
+{"name": "Farinha de Rosca YOKI 500g", "brand": "Yoki", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c99721fbd38c450c9bcfa62cdf960ed7.jpg"}
+{"name": "Farelo de Aveia JASMINE 200g", "brand": "Jasmine ", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6e7e4bb5a0814475977138af69cb7153.jpg"}
+{"name": "Macarr\u00e3o sem Gl\u00faten PAGANINI Espaguete 400g", "brand": "Paganini ", "price": "R$ 16,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ed49e5c5b3474ac6980e2bee0ebe8a46.jpg"}
+{"name": "Azeitonas Verdes VALE F\u00c9RTIL sem Caro\u00e7o 280g", "brand": "Vale F\u00e9rtil", "price": "R$ 13,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0f38aedb8b7847479fa8f1895f324364.jpg"}
+{"name": "Fermento Biol\u00f3gico FLEISCHMANN Sach\u00ea 10g ", "brand": "Fleischmann ", "price": "R$ 1,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0aea5c1903294854a35dd4143cf8528e.jpg"}
+{"name": "Azeitonas Verdes IMPERADOR Recheada 190g", "brand": "Imperador ", "price": "R$ 9,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-79648cd879a146ab837fe662b6a7e1ca.jpg"}
+{"name": "Sardinha GOMES DA COSTA \u00d3leo 125g ", "brand": "Gomes da Costa", "price": "R$ 4,39", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5a8856b3249c409f850e35c22ce91032.jpg"}
+{"name": "Milho Verde BONARE 200g ", "brand": "Bonare", "price": "R$ 1,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-271d4ef063ed47b4b1d3d6b4578b0016.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo CUP NOODLES Costela 68g", "brand": "Cup Noodles", "price": "R$ 3,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0fd0fb6b30754dcfa20c61482df4c0e2.jpg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Espaguete N\u00ba 8 500g", "brand": "Adria ", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-36480d29e10646efae1fba5f192fdff9.jpg"}
+{"name": "Massa BARILLA Capellini 500g", "brand": "Barilla ", "price": "R$ 11,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b5c2d7b75d264beda3d68c88f9286c8a.jpg"}
+{"name": "Azeitonas Pretas LA VIOLETERA com Caro\u00e7o 500g", "brand": "La Violetera", "price": "R$ 22,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1945e38995a9480684bf54607f8514a2.jpg"}
+{"name": "Ervilha COPACOL 300g", "brand": "Copacol ", "price": "R$ 5,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b2c7bd583993434db9ba5d536bf27808.jpg"}
+{"name": "Atum Ralado COQUEIRO em \u00c1gua 170g", "brand": "Coqueiro", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-40663db5eb9842f098f8d1c3dba0f23e.jpg"}
+{"name": "Pepino HEMMER Suave 300g", "brand": "Hemmer", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b7efb712dc0241adab3daba4c90d15e3.jpg"}
+{"name": "Macarr\u00e3o RENATA Integrale Spaguetti 500g", "brand": "Renata ", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-888acf102c954fe391a330b56776754e.jpg"}
+{"name": "Macarr\u00e3o S\u00eamola ADRIA Espaguete 1Kg", "brand": "Adria ", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d4c126be28f24f8781b5a04813d920de.jpg"}
+{"name": "Queijo Ralado BSB ALIMENTOS Parmes\u00e3o 50g", "brand": "Bsb Alimentos", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6f54beba97ab4cc5be92dd0cf6006562.jpg"}
+{"name": "Presunto SEARA Fatiado 200g ", "brand": "Seara ", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5cded689a0024371938c50aca29091bb.jpg"}
+{"name": "Iogurte Grego NESTL\u00c9 Light 540g", "brand": "Nestle", "price": "R$ 9,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-773c97eb5ee84ee5a9a27c7866dd2245.jpg"}
+{"name": "Iogurte Polpa ITAMB\u00c9 Morango e Coco 540g ", "brand": "Itamb\u00e9 ", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f2d470ab870e410a9426d037a276c212.jpeg"}
+{"name": "Queijo Ralado PR\u00c9SIDENT Parmes\u00e3o 50g ", "brand": "Pr\u00e9sident", "price": "R$ 4,78", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-42392971d8014292bd8ac9f2cea788bc.jpg"}
+{"name": "Queijo B\u00daFALO BRANCO Mozzarella Pote 250g", "brand": "Bufalo Branco", "price": "R$ 19,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9e79152224604b0aa98843d8cd9dc0c9.jpeg"}
+{"name": "Lasanha SEARA Calabresa 600g", "brand": "Seara ", "price": "R$ 11,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-70daeda5cc04453ab2d93a00b9e12a0b.jpg"}
+{"name": "Leite ITALAC Desnatado 1L ", "brand": "Italac ", "price": "R$ 3,39", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d9e5528a59c6442bb8d091a93e7dbe8d.jpeg"}
+{"name": "Iogurte Natural ITAMB\u00c9 Integral 170g ", "brand": "Itamb\u00e9 ", "price": "R$ 2,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d269ea3c63ad421b86e06741c282c847.jpeg"}
+{"name": "Iogurte NESTL\u00c9 Vitamina de Frutas 1250g", "brand": "Nestle ", "price": "R$ 10,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-245a64d707944822b3a19c2b0d2a2e17.jpg"}
+{"name": "Salame SADIA Hamburgu\u00eas 100g ", "brand": "Sadia", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d0a882c444e849e78b58852f1796e4f1.jpg"}
+{"name": "Leite ITAMB\u00c9 Desnatado 1L ", "brand": "Itamb\u00e9 ", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0ceee02a7fba4e5ba78546e6667eb637.jpg"}
+{"name": "Sobreme CHANDELLE Leve 8 Pague 7", "brand": "Chandelle ", "price": "R$ 13,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a7cfcd5f3375493f95f09fbd3362f72b.jpeg"}
+{"name": "Manteiga COMPLEITE 200g", "brand": "Compleite ", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f9999376bef8469e8d4320196ad1a1f6.jpg"}
+{"name": "Queijo Espeto PIRACANJUBA Coalho Kg", "brand": "Piracanjuba", "price": "R$ 45,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-07b0777a099b4adf91607401be53362d.jpg"}
+{"name": "Requeij\u00e3o ITAMB\u00c9 NoLac Light 220g", "brand": "Itamb\u00e9", "price": "R$ 7,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-cf22fa51a9bc4188946bba0c01e4325f.jpeg"}
+{"name": "Requeij\u00e3o ITAMB\u00c9 Light 220g", "brand": "Itamb\u00e9", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-64206177ed8d4da19ba0612f0b51ec27.jpeg"}
+{"name": "Waffle FORNO DE MINAS Tradicional 210g ", "brand": "Forno de Minas", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-13a273bd4e2548dfb3dff91ad063e4e3.jpg"}
+{"name": "Queijo Selection Brie POLENGHI Triangular 125g ", "brand": "Polenghi", "price": "R$ 15,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-951a6f8f193c4cb28a86198716d8e0d0.jpg"}
+{"name": "Leite em P\u00f3 ITAMB\u00c9 Instant\u00e2neo 400g ", "brand": "Itamb\u00e9", "price": "R$ 11,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c67b3a8f79fd43a097297067fa8fd26a.jpg"}
+{"name": "Iogurte Natural NESTL\u00c9 Tradicional 170g", "brand": "Nestle", "price": "R$ 2,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a57c39d5d8dd4b2eb6b4c1c0a72e557b.jpeg"}
+{"name": "Leite em P\u00f3 ITALAC Sach\u00ea 400g", "brand": "Italac", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2854790976e9400d8318fb511f315e8f.jpg"}
+{"name": "Queijo Selection Gruy\u00e8re POLENGHI Forma Kg", "brand": "Polenghi", "price": "R$ 99,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-858d88441a434b30954f093f04397794.jpeg"}
+{"name": "Salame SADIA Italiano 100g", "brand": "Sadia", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5b6b56c6f65d4c81831916e4cf75232b.jpeg"}
+{"name": "Leite Condensado PIRACANJUBA Zero Lactose Caixinha 395g ", "brand": "Piracanjuba", "price": "R$ 4,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-db559915a17a4f6eb95b41b48066dcaf.png"}
+{"name": "Azeitonas Verdes CAMPOS BELO 500g", "brand": "Campo Belo", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4ef7259b5d064e2d8ee6f4a445b2398c.jpg"}
+{"name": "Polvilho Doce BSB ALIMENTOS 1Kg", "brand": "Bsb Alimentos", "price": "R$ 5,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f39af3aa0e9e404a88902282de98b1d9.jpg"}
+{"name": "Atum Peda\u00e7os COQUEIRO Natural Light 170g", "brand": "Coqueiro ", "price": "R$ 9,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-17e5061dc1c94e48842efa31f8270897.jpg"}
+{"name": "Tortilha PULLMAN Rap 10 Light 330g", "brand": "Pullman ", "price": "R$ 7,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-60d42c68fd834b6ea29041b7bd3c9840.jpg"}
+{"name": "Milho Verde OL\u00c9 Vidro 200g", "brand": "Ol\u00e9", "price": "R$ 2,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9d080cd1d84a40cfbf169aac4790f868.jpg"}
+{"name": "Gr\u00e3o de Bico NIPPON 500g ", "brand": "Nippon", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-15d8fbac7a35434f961bb49c8d0e8f30.jpg"}
+{"name": "Farinha de Mandioca Torrada AM\u00c9LIA 1Kg", "brand": "Am\u00e9lia", "price": "R$ 13,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-28282551564847a08161e22db88e59c8.jpeg"}
+{"name": "Cogumelo KENKO 100g", "brand": "Kenko", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fb4eecba864b4b0d976c96fc33660b84.jpg"}
+{"name": "Macarr\u00e3o S\u00eamola ADRIA Spaguetti N\u00ba8 500g ", "brand": "Adria ", "price": "R$ 27,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4ed17defbc9047bb991de8cd9847d52e.jpg"}
+{"name": "Farinha de Mandioca NIPPON Torrada 1Kg", "brand": "Nippon ", "price": "R$ 5,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b1b3570991f148c98f97dfa4ae18bf19.jpg"}
+{"name": "Tahine ISTAMBUL 200g", "brand": "Istambul", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-01465c1811854c0ca9b7548bf1f818de.jpg"}
+{"name": "Macarr\u00e3o RENATA Spaguetti N\u00ba 8 500g", "brand": "Renata ", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3f8f50c23a5d42af936d3dc4e5c14c0f.jpg"}
+{"name": "Azeitonas Pretas LA VIOLETERA Fatiada 160g", "brand": "La Violetera ", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-adeaf8593eb8422f9fc8e80a779a6aca.jpeg"}
+{"name": "Milharina QUAKER 500g ", "brand": "Quaker", "price": "R$ 4,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b72a806bcf0645f6a54b1ac9d834d809.jpg"}
+{"name": "Cogumelo IMPERADOR 100g", "brand": "Imperador", "price": "R$ 6,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ed2510d0d2434368bb190c75173eed1c.jpeg"}
+{"name": "Tapioca CROK 200g", "brand": "Crok ", "price": "R$ 10,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6a14e24658b94ed5a6bc7805edc8636a.jpeg"}
+{"name": "Cogumelo IMPERADOR Fatiado 200g", "brand": "Imperador ", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c7d3bedc406a4504b44c765843a0a184.jpg"}
+{"name": "Amido de Milho MAIZENA 500g", "brand": "Maizena", "price": "R$ 6,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-bfa2c6b1bc3d4feba5b0b6066592cb2f.jpg"}
+{"name": "Massa BARILLA Spaghettoni 500g", "brand": "Barilla", "price": "R$ 11,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-965f90432b8f40ccb0b982113168d580.jpg"}
+{"name": "Atum Ralado COQUEIRO \u00d3leo 170g ", "brand": "Coqueiro ", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5a0a44e83bcb4193945c8dce5e073eb4.jpg"}
+{"name": "Massa BARILLA Spaghettini 500g", "brand": "Barilla ", "price": "R$ 11,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2f3d1666dc0e43438f68110400e171fb.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo CUP NOODLES Carne 68g", "brand": "Cup Noodles ", "price": "R$ 3,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-818db1da07f2450db3eb333fbdf8862d.jpg"}
+{"name": "Arroz URBANO 2Kg", "brand": "Urbano", "price": "R$ 6,39", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d7d41043952243cc83f7d9c5a8539153.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Carne 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7cdd71abebd749dc9f54e8e1c186bcdd.jpg"}
+{"name": "Gr\u00e3o de Bico YOKI 500g ", "brand": "Yoki", "price": "R$ 14,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-34d8475c684844238fa5ef9ae3334ba9.jpg"}
+{"name": "Massa Pastel GERMANA Redonda 500g", "brand": "Germana ", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ef746b1bb6a44d6296b2a7360ac912fc.jpeg"}
+{"name": "Polvilho Doce YOKI 1Kg", "brand": "Yoki", "price": "R$ 17,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2b4c5fd307d64716a0af2cee11da60e9.jpg"}
+{"name": "Massa Pastel GERMANA Quadrada 500g", "brand": "Germana ", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8e40b341c911400482fdb64a50313d28.jpeg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo CUP NOODLES Galinha Caipira 68g", "brand": "Cup Noodles", "price": "R$ 3,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8f74e6aa53874e5b8ad3292ebadf0dd0.jpg"}
+{"name": "Lentilha NIPPON 500g", "brand": "Nippon", "price": "R$ 10,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1d10950f569b4ca78db64adb701e22f4.jpeg"}
+{"name": "Semente de Chia FRUTOS DA TERRA 100g", "brand": "Frutos da Terra", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-62481d5cef804941b35ecbaea3acb486.jpg"}
+{"name": "Amido de Milho MAIZENA 200g", "brand": "Maizena ", "price": "R$ 3,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-108373a8e4ec4bfd8851919814959223.jpg"}
+{"name": "Massa BARILLA Espaguete 500g", "brand": "Barilla ", "price": "R$ 11,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-66ae22d8e5da4314ace5d04ed0fda6ae.jpg"}
+{"name": "Tortilha PULLMAN Rap 10 Integral 330g", "brand": "Pullman ", "price": "R$ 7,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0172b94e14a24ab7b52a8255d25102e3.jpg"}
+{"name": "Cogumelos Champignons LA VIOLETERA 200g", "brand": "La Violetera", "price": "R$ 17,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3e7f08cfcc154ed4a6b30a079f2cd823.jpeg"}
+{"name": "Azeitonas Pretas LA VIOLETERA sem Caro\u00e7o 175g", "brand": " La Violetera", "price": "R$ 11,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-969c4459031f4614be72dd0bb001e78f.jpeg"}
+{"name": "Atum S\u00f3lido COQUEIRO \u00d3leo 170g", "brand": "Coqueiro ", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-94896e2526074840b0933a5e3eaae4fb.jpeg"}
+{"name": "Azeitonas Verdes VALE F\u00c9RTIL Fatiada Sach\u00ea 120g", "brand": "Vale F\u00e9rtil", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-657abd3154114aacaf27bc9c9ec515ea.jpg"}
+{"name": "Milho Verde QUERO Lata 200g", "brand": "Quero ", "price": "R$ 1,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-09102012609d4ab3a48bbb3cae22f5af.jpeg"}
+{"name": "Sardinha COQUEIRO \u00d3leo 125g ", "brand": "Coqueiro ", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-be0c49e1f84542eea8c14ed45772c481.jpg"}
+{"name": "Sardinha COQUEIRO Tomate Temperado 125g ", "brand": "Coqueiro ", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4b57896b615b44cb90d13faecca3d0ad.jpg"}
+{"name": "Farinha de Mandioca NIPPON Branca 1Kg ", "brand": "Nippon ", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-eb1b36c7e8af4e07b69ad41433cae1ca.jpeg"}
+{"name": "Lentilha BSB ALIMENTOS 500g", "brand": "Bsb Alimentos", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6efe776c0c0e46578fca768cdc85c3c5.jpg"}
+{"name": "Ovos Caipira LABEL ROUGE com 6 Unidades", "brand": "Label Rouge", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-aa95a625beb44670b09f9cdcf5cd62fc.jpg"}
+{"name": "Arroz TIO JORGE 2Kg", "brand": " Tio Jorge", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c04fc96ddb5840129be98551c3acf28c.jpeg"}
+{"name": "Atum S\u00f3lido COQUEIRO \u00d3leo Light 170g", "brand": "Coqueiro ", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b7b0e9791d424d8f948fb8eb222aef9b.jpeg"}
+{"name": "Figo em Calda OL\u00c9 400g", "brand": "Ole", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-cc780556894148eb98397a835f2601d9.jpg"}
+{"name": "Milho Verde FUGINI ao Vapor 200g ", "brand": "Fugini", "price": "R$ 1,69", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9990e207165845bca98fec4445895670.jpg"}
+{"name": "Feij\u00e3o Carioca DEL\u00cdCIA 1Kg", "brand": "Delicia ", "price": "R$ 4,89", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4657b53ba6d946a4b7e921e00c893bb6.jpg"}
+{"name": "Farofa de Mandioca YOKI Temperada 500g ", "brand": "Yoki", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e10cd657b5b248889e8973e3abd0bb3e.jpg"}
+{"name": "Arroz CRISTAL 5Kg ", "brand": "Cristal", "price": "R$ 16,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-cb94047c0a1e48adb9cabd69727bb2ee.jpg"}
+{"name": "Feij\u00e3o Preto KICALDO 1Kg ", "brand": "Kicaldo", "price": "R$ 4,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-463d7e5e599940d7809bf8cd4c937ebd.jpg"}
+{"name": "Floc\u00e3o de Milho YOKI 500g ", "brand": "Yoki", "price": "R$ 3,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f01980054c7548d3b45d18632e5259ea.jpg"}
+{"name": "Lentilha YOKI 500g ", "brand": "Yoki", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-66497ac0671242a08186b831586ea3ff.jpg"}
+{"name": "Palmito Picado IMPERADOR 300g ", "brand": "Imperador", "price": "R$ 11,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2dfcc644b5984ac2aebb6129153184ab.jpg"}
+{"name": "Arroz Integral TIO JO\u00c3O 1Kg ", "brand": "Tio Jo\u00e3o", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b9eb624bd4144b3cb5feee0a57b10380.jpg"}
+{"name": "Azeitonas Pretas LA VIOLETERA 200g", "brand": "La Violetera", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ec7b9051df0e4226845363c9613438c7.jpeg"}
+{"name": "Abacaxi em Calda TRIANGULO 400g", "brand": "Triangulo", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c7b4babfe8a146b7aed7a464e993b6b9.jpg"}
+{"name": "Arroz TIO JORGE 5Kg ", "brand": "Tio Jorge", "price": "R$ 12,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f1fb9e52335e41c0ab74afc81fa42c68.jpg"}
+{"name": "Farinha de Mandioca AM\u00c9LIA Amarela 1Kg ", "brand": "Amelia", "price": "R$ 13,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d5b1a5d07f3a4b89ab9de125b0eaba7c.jpeg"}
+{"name": "Azeitonas Verdes LA VIOLETERA sem Caro\u00e7o 175g", "brand": "La Violetera", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-23f7168dc9cb452ebb6903c404b4611c.jpeg"}
+{"name": "Farinha L\u00e1ctea NESTL\u00c9 400g", "brand": "Nestle", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-93f935d68df94ecc83247a164cf87de9.jpg"}
+{"name": "Ovos de Codorna JOSIDITH com 30 Unidades", "brand": "Josidith", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1f29f1f39aec43d1a9e6eec09d7975b2.jpeg"}
+{"name": "Farinha de Trigo EMEG\u00ca 1Kg", "brand": "Emege", "price": "R$ 3,89", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9c73b0abe3cc44f1a87f4ea91683b4b7.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Galinha Caipira 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-13e978efb6be4bf6b6d91913028eca45.jpg"}
+{"name": "Palmito IMPERADOR 180g ", "brand": "Imperador", "price": "R$ 13,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-29d6cd5d97e54547b8cf006284b724e5.jpg"}
+{"name": "Azeitonas Verdes LA VIOLETERA Fatiada 175g", "brand": "La Violetera ", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2404b574ed9b4f7bacb7e0acc2ea50bf.jpeg"}
+{"name": "Arroz TIO JO\u00c3O 2Kg", "brand": "Tio Jo\u00e3o", "price": "R$ 8,69", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-889c51326bfa4fa09d0c1e86f35f93ab.jpg"}
+{"name": "Feij\u00e3o Preto COMBRASIL 1Kg", "brand": "Combrasil", "price": "R$ 4,89", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8cbc1c352e9b483c9946a87bc5582f0c.jpg"}
+{"name": "Arroz TIO JO\u00c3O 5Kg", "brand": "Tio Jo\u00e3o", "price": "R$ 19,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a78b09f2e84b4b6f8f6ce6803e1530b4.jpg"}
+{"name": "Feij\u00e3o Carioca KICALDO 1Kg ", "brand": "Kicaldo", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-949e738429d4404990a9d3fa21994cf7.jpg"}
+{"name": "Palmito Inteiro IMPERADOR 300g ", "brand": "Imperador", "price": "R$ 13,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7f688ae26d6047f7a1df16b90e7f9c02.jpg"}
+{"name": "Ovos Brancos JOSIDITH com 12 Unidades", "brand": "Josidith", "price": "R$ 3,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6bc95f2d6e354a82b1a5c4c267847c3a.jpeg"}
+{"name": "Ovos Caipira LABEL ROUGE com 10 Unidades", "brand": "Label Rouge", "price": "R$ 12,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-944ff030e4fa4fb0abbcfcbf0603a854.jpg"}
+{"name": "Risoto Valligiana TIO JO\u00c3O Cozinha&Sabor 175g ", "brand": "Tio Jo\u00e3o", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-216b66918915441cb8b8cb2fba7365cd.jpg"}
+{"name": "Risoto Parmegiana TIO JO\u00c3O Cozinha&Sabor 175g ", "brand": "Tio Jo\u00e3o", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c47dcefc09cb4df9bd831774d0340623.jpg"}
+{"name": "Arroz com Galinha TIO JO\u00c3O Cozinha&Sabor 175g", "brand": "Tio Jo\u00e3o", "price": "R$ 6,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a6a29526eec445e1a76b7e59b221ab0d.jpg"}
+{"name": "Arroz Carreteiro TIO JO\u00c3O Cozinha&Sabor 175g", "brand": "Tio Jo\u00e3o", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b86a9dcddd254fa9a3b9fdbe5b7063d5.jpg"}
+{"name": "Cozinha Japonesa TIO JO\u00c3O 1Kg ", "brand": "Tio Jo\u00e3o", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-067ea6f84d3d445ab023c582056df3be.jpg"}
+{"name": "Cozinha Italiana TIO JO\u00c3O 1Kg ", "brand": "Tio Jo\u00e3o", "price": "R$ 17,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a58f8dfcbd3848d5876e47c892a64694.jpg"}
+{"name": "Cozinha Italiana MEU BIJU 1Kg", "brand": "Biju", "price": "R$ 14,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-cb443342dfd44d0c82de0223c53fc360.jpg"}
+{"name": "Arroz com Funghi TIO JO\u00c3O Cozinha F\u00e1cil 250g", "brand": "Tio Jo\u00e3o", "price": "R$ 5,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f67d6fb6b61f45029ad0df10fef15465.jpg"}
+{"name": "Arroz com Ervas Finas TIO JO\u00c3O Cozinha F\u00e1cil 250g ", "brand": "Tio Jo\u00e3o", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ce7b3464ff0f4fde9bf1fa7a281c6e05.jpg"}
+{"name": "Arroz com Curry TIO JO\u00c3O Cozinha F\u00e1cil 250g ", "brand": "Tio Jo\u00e3o", "price": "R$ 5,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-84bd6cf968a14c2696ba51ceaf815dd0.jpg"}
+{"name": "Cozinha Carnaroli TIO JO\u00c3O 1Kg", "brand": "Tio Jo\u00e3o", "price": "R$ 16,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8622cddd6f3c4648af5061e54e4748a3.jpg"}
+{"name": "Arroz Preto TIO JO\u00c3O 500g", "brand": "Tio Jo\u00e3o", "price": "R$ 15,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-bbe37c407e1e4c86974536a49c33fbba.jpg"}
+{"name": "Arroz Parboilizado TIO JO\u00c3O 5Kg ", "brand": "Tio Jo\u00e3o", "price": "R$ 18,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-77d1bdd903564ac38e114112ff8d7389.jpg"}
+{"name": "Arroz Parboilizado TIO JO\u00c3O 1Kg", "brand": "Tio Jo\u00e3o", "price": "R$ 4,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-27bf1a4e6b054da48030d48869213b94.jpg"}
+{"name": "Arroz Parboilizado TIO JO\u00c3O Saquinhos 1Kg", "brand": "Tio Jo\u00e3o", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fcecdff1fe724c8bb1d92fd218b399d1.jpg"}
+{"name": "Arroz Integral 7 Cereais TIO JO\u00c3O Tradicional 500g ", "brand": "Tio Jo\u00e3o", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1715051e216547a78ca1501afb4f43ca.jpg"}
+{"name": "Arroz Integral 7 Cereais TIO JO\u00c3O Passas de Uva 500g ", "brand": "Tio Jo\u00e3o", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-886e69d964c14bdab7e88c1240a0a932.jpg"}
+{"name": "Arroz Integral 7 Cereais TIO JO\u00c3O com Quinoa 500g", "brand": "Tio Jo\u00e3o", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8c103ed58c7a4d898229d9e2af9717e9.jpg"}
+{"name": "Arroz Integral URBANO 1Kg", "brand": "Urbano", "price": "R$ 3,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5a8b166866f243cabccace40395280b8.jpg"}
+{"name": "Arroz Integral TIO JO\u00c3O Saquinhos 1Kg ", "brand": "Tio Jo\u00e3o", "price": "R$ 6,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7b7caf27c85b41f09285f8c22c29a86f.jpg"}
+{"name": "Arroz Integral TIO JO\u00c3O Org\u00e2nico 1Kg", "brand": "Tio Jo\u00e3o", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fa0319594b8c427b91ef494c541939e6.jpg"}
+{"name": "Arroz Integral MEU BIJU 1Kg", "brand": "Biju", "price": "R$ 4,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e0ab72903ad74695b60c8861b6f2bba2.jpg"}
+{"name": "Arroz Arb\u00f3rio PAGANINI 1Kg", "brand": "Paganini", "price": "R$ 16,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d03a19866b1640d78617a92ec59a7595.jpg"}
+{"name": "Arroz Arb\u00f3rio LA PASTINA 1Kg", "brand": "La Pastina", "price": "R$ 22,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-828e11136b54423aa77e9a64380cc66f.jpg"}
+{"name": "Arroz Agulhinha JASMINE 1Kg ", "brand": "Jasmine", "price": "R$ 10,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8260ed9775924758bd7b4c7ef5c37c29.jpg"}
+{"name": "Quinoa MEU BIJU 8 Gr\u00e3os 500g", "brand": "Biju", "price": "R$ 6,19", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-acbb146cab494b188496d8a53a23b4e4.jpg"}
+{"name": "Feij\u00e3o Vermelho KICALDO 500g ", "brand": "Kicaldo", "price": "R$ 5,39", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d5f6fb537ae94112a5211b3875de52e5.jpg"}
+{"name": "Feij\u00e3o Vermelho MEU BIJU 500g", "brand": "Biju", "price": "R$ 6,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-421c46977dc942a487bd3de5ef9b5d7d.jpg"}
+{"name": "Feij\u00e3o Vermelho COMBRASIL 1Kg", "brand": "Combrasil", "price": "R$ 7,69", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b5c9c08b7678478988ac605aa00e9076.jpg"}
+{"name": "Feij\u00e3o Rajado KICALDO 1Kg", "brand": "Kicaldo", "price": "R$ 7,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ac625fad7afc4e8ab3f5a2d516d45872.jpg"}
+{"name": "Feij\u00e3o Jalo KICALDO 1Kg ", "brand": "Kicaldo", "price": "R$ 7,69", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-48462266852442a7be497876cbef04cb.png"}
+{"name": "Feij\u00e3o Fradinho KICALDO 1Kg", "brand": "Kicaldo", "price": "R$ 3,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9e940a93f4d24b7bacade4da714a34b0.jpg"}
+{"name": "Feij\u00e3o Fradinho AM\u00c9LIA 1Kg", "brand": "Amelia", "price": "R$ 7,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-21123a3f75794764a0badee3c07bad98.jpg"}
+{"name": "Feij\u00e3o de Corda AM\u00c9LIA 1Kg ", "brand": "Amelia", "price": "R$ 8,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4ded879b76c44286badfddd15243c95a.jpeg"}
+{"name": "Feij\u00e3o Branco KICALDO 500g ", "brand": "Kicaldo", "price": "R$ 5,69", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-54a8670eceb04fb49c9a43416e67d5b8.jpg"}
+{"name": "Feij\u00e3o Branco COMBRASIL 500g", "brand": "Combrasil", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-be272b6498b4486292a96eaf61e145d9.jpg"}
+{"name": "Feij\u00e3o Branco MEU BIJU 500g", "brand": "Biju", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7c1685fd6a09485fbba0cbaed74b9608.jpg"}
+{"name": "Arroz TIO JORGE 1Kg ", "brand": "Tio Jorge", "price": "R$ 3,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5d89534769644ab08fd102ce5398b94b.jpg"}
+{"name": "Arroz TIO JO\u00c3O +Vita 1Kg ", "brand": "Tio Jo\u00e3o", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6ddbb9dcbfc04dec837ca2b115682a3b.jpg"}
+{"name": "Arroz TIO JO\u00c3O 1Kg", "brand": "Tio Jo\u00e3o", "price": "R$ 4,69", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-40e174dea5dc49f8bd10539e4be8c1f2.jpg"}
+{"name": "Arroz TIO JO\u00c3O +Vita 5Kg", "brand": "Tio Jo\u00e3o", "price": "R$ 17,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-cbabd208114d43ca92c570286f284ea4.jpeg"}
+{"name": "Arroz Arb\u00f3rio DE CECCO 1Kg ", "brand": "De Cecco", "price": "R$ 22,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1c6d707f866b4e4e92523ebf4e59a1fe.png"}
+{"name": "Seleta de Legumes QUERO Sach\u00ea 200g", "brand": "Quero", "price": "R$ 4,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3a697ba9b01d413397900313514c71d6.jpeg"}
+{"name": "Azeitonas Pretas LA VIOLETERA com Caro\u00e7o 500g", "brand": "La Violetera", "price": "R$ 3,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7713bcd46738439c82c75b4e119e0d40.jpg"}
+{"name": "Azeitonas Pretas LA VIOLETERA Azapa com Caro\u00e7o 200g", "brand": "La Violetera", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c7df2bf805e14f8cbf0a4c217e6e6706.jpeg"}
+{"name": "Azeitonas Pretas CAMPO BELO 200g", "brand": "Campo Belo", "price": "R$ 3,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-39ad75623af745a18e3e3fb7780318f9.jpg"}
+{"name": "Massa de Milho sem Gl\u00faten FIT FOOD com Quinoa Espaguete 250g", "brand": "Fit Food", "price": "R$ 9,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4310d2bfaed345d28bd80f16c0292d35.jpeg"}
+{"name": "Massa de Milho sem Gl\u00faten FIT FOOD com Quinoa Penne 250g", "brand": "Fit Food", "price": "R$ 9,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7ec357e0e1164cf3bc3d3e944b4b527a.jpg"}
+{"name": "Massa de Milho sem Gl\u00faten FIT FOOD com Quinoa Fusilli 250g", "brand": "Fit Food", "price": "R$ 9,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e09260f218ab4ffc988d5a8981ea5cab.jpg"}
+{"name": "Massa MAJORA Fusilli 500g ", "brand": "Majora", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-bae9f6b3ed35423f91d3b238a280b588.jpeg"}
+{"name": "Massa LA MOLISANA Espaguete Quadrato 500g", "brand": "La Molisana", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-095e07a7c96b45e8bb48273812abf0e6.jpeg"}
+{"name": "Massa LA MOLISANA Penne Ziti Rigate 500g", "brand": "La Molisana", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-799c9ef61ffa4204950ecab1cf4280dc.jpg"}
+{"name": "Massa LA MOLISANA Linguine 500g", "brand": "La Molisana", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9f65e4cc6fd9458298a8b8b54f16db3b.jpg"}
+{"name": "Massa LA MOLISANA Fettuccine 500g", "brand": "La Molisana", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-50fb001975364870a9bb3594fd450b7d.jpeg"}
+{"name": "Massa LA MOLISANA Fettuccine 500g", "brand": "La Molisana", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8cc3e8620b904f6f9633bc5e20e08df2.jpeg"}
+{"name": "Massa LA MOLISANA Farfalle 500g", "brand": "La Molisana", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2dfcf960f13d4151901a8c86ea12ebf1.jpeg"}
+{"name": "Massa sem Gl\u00faten BARILLA Penne Rigate 500g", "brand": "Barilla", "price": "R$ 19,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e8786cf916ce4af3be5a7183b3181ac3.jpeg"}
+{"name": "Macarr\u00e3o RENATA Grano Duro Linguini 500g", "brand": "Renata", "price": "R$ 7,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6d187ffaed104748a22a8ee3a853e858.jpg"}
+{"name": "Macarr\u00e3o RENATA Flex Tagliarini 500g", "brand": "Renata", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-081c3b423a1e4b0cb764d1d8892bbc3a.jpeg"}
+{"name": "Macarr\u00e3o PAGANINI Integrale Espaguete 500g", "brand": "Paganini", "price": "R$ 9,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c7b758b355764ce6801c9ff80ace11ce.jpg"}
+{"name": "Macarr\u00e3o PAGANINI Bambini Bichinhos 250g", "brand": "Paganini", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9bee86bf5fa84667ba5c54faa0ec116b.jpeg"}
+{"name": "Macarr\u00e3o Integral M\u00c3E TERRA Penne Org\u00e2nico 200g", "brand": "M\u00e3e Terra ", "price": "R$ 4,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ff59f1cb2434464484335c52c5c4f25c.jpeg"}
+{"name": "Macarr\u00e3o Org\u00e2nico M\u00c3E TERRA Fusilli Integral 200g ", "brand": "M\u00e3e Terra ", "price": "R$ 4,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1e6762fafbc344378a42291500244418.jpeg"}
+{"name": "Macarr\u00e3o Org\u00e2nico Integral M\u00c3E TERRA Ave Maria 200g ", "brand": "M\u00e3e Terra ", "price": "R$ 4,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-86eb260b78114402b640a431e1fe10e1.jpeg"}
+{"name": "Massa Bucatini BARILLA 500g", "brand": "Barilla", "price": "R$ 11,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-96df40453b2941659f1cfc3faed89c07.jpeg"}
+{"name": "Massa Caseira EMEG\u00ca Talharim N\u00ba3 500g", "brand": "Emeg\u00ea", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9625d3c097b240f49f0f70d5bb595c49.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo TALHARIM Parmes\u00e3o 99g", "brand": "Talharim", "price": "R$ 2,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5e39aa3e848b492b941d17059e968cb1.jpeg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo TALHARIM ao Sugo 99g", "brand": "Talharim", "price": "R$ 2,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209154651711907884c91fd220840d497518c02694d4d1d.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo Cremoso NISSIN Frango 88g", "brand": "Nissin", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091546535039312e0afafccee744599927ea42a3f91331.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo CREMOSO Cheddar 88g", "brand": "Cremoso", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-60970c9396d2441a994166c93637a82c.png"}
+{"name": "Macarr\u00e3o Instant\u00e2neo Cremoso NISSIN Carne 88g", "brand": "Nissin", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209154652548191e77a372d8bcd4515a9e642922e664227.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Hot Galinha 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9489ea2fd7914a21bcc489db633d7ec9.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Hot Carne 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-59f2a254060d4c259f79b40055810762.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Galinha e Legumes 85g ", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-df6c6d2c850f442ab9d5b1f42fe2384b.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Frango com Alho 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-309be2d6a84442d6ba9f5023a31520cb.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Frango Assado 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-555b5da6d10e426b9e2e2f4ebf788fd1.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Costela 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-116129e004be48cea9798673ca86a2c9.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Carne e Tomate 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-27b20d25f46d488ea3a8f3c05241be04.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Camar\u00e3o 85g", "brand": "Nissin L\u00e1men", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091546528971666931c50cee7d4c2581f2b8df16e30008.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo TALHARIM Bolonhesa Copo 72g", "brand": "Talharim", "price": "R$ 3,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5fc401aaea35476ab0dfe788423ce993.jpeg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo CUP NOODLES Tomate 68g", "brand": "Cup Noodles", "price": "R$ 3,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-496aa491c331467ba22ac7b639bb7ff8.jpeg"}
+{"name": "Massa S\u00eamola VERONELLI Espaguete 500g", "brand": "Veronelli", "price": "R$ 3,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-cab98531d8c24da4acb063e535d15588.jpeg"}
+{"name": "Massa S\u00eamola VERONELLI Fusilli 500g", "brand": "Veronelli", "price": "R$ 3,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0023271a7442401a941b184fdbe39a15.jpeg"}
+{"name": "Massa S\u00eamola ANKARA Espaguete 500g", "brand": "Ankara", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-debf7f887d934a588c25050decb2d395.jpeg"}
+{"name": "Massa S\u00eamola ANKARA Penne Rigatoni 500g ", "brand": "Ankara", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6f2140f5ae6a4548985a7ae1f8ff125f.jpeg"}
+{"name": "Macarr\u00e3o S\u00eamola EMEG\u00ca Furadinho 500g", "brand": "Emeg\u00ea", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-349e009058cf4ccab1e55452d08733fa.jpg"}
+{"name": "Macarr\u00e3o S\u00eamola EMEG\u00ca Caramujo 500g", "brand": "Emeg\u00ea", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-97346a1db81e467e9a1172896b7df52c.jpeg"}
+{"name": "Macarr\u00e3o S\u00eamola ADRIA Spaguetti N\u00ba 9 500g ", "brand": "Adria", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4a15859a186842d5b08c36ba20c9deef.jpg"}
+{"name": "Macarr\u00e3o ADRIA S\u00eamola Padre Nosso 500g", "brand": "Adria", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-efb7c72797e745dbb10eada74a1ec8a0.jpg"}
+{"name": "Macarr\u00e3o S\u00eamola ADRIA 500g", "brand": "Adria", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c4f6c787ba184c0d8844c80763717942.png"}
+{"name": "Macarr\u00e3o S\u00eamola ADRIA Espaguete N\u00ba8 500g ", "brand": "Adria", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8f8a1d6e34ee4d6db77d9beebe4c4a0b.jpeg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo NISSIN L\u00c1MEN Espaguete 500g", "brand": "Nissin L\u00e1men", "price": "R$ 5,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0852bc8d38804ce68f3e53a87ec75e87.jpeg"}
+{"name": "Macarr\u00e3o GALO Tortiglione 500g", "brand": "Galo", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-de6f5b374c714d8ab4aa5746ce940b51.jpeg"}
+{"name": "Macarr\u00e3o GALO Spaguetti N\u00ba9 500g ", "brand": "Galo", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c38bd2837263445db63e589301d31780.jpg"}
+{"name": "Macarr\u00e3o GALO Rigatone 500g", "brand": "Galo", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-95ad162f732b46cb89e0ed9cec62b16a.jpg"}
+{"name": "Macarr\u00e3o GALO Parafusinho 500g ", "brand": "Galo", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0f11ab9eec6544f5a9678cc40b909ccc.jpeg"}
+{"name": "Macarr\u00e3o GALO Nhoque 500g", "brand": "Galo", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0be90c705dd84f2db34dfe60da4a7f22.jpeg"}
+{"name": "Macarr\u00e3o GALO Caracolino 500g ", "brand": "Galo", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9b951d5fa3f3478d9bc0b1659751ad60.jpeg"}
+{"name": "Macarr\u00e3o GALO Argola 500g", "brand": "Galo", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-caaca523bb45481ca03347c1fbdb3f1d.jpg"}
+{"name": "Macarr\u00e3o EMEG\u00ca com Ovos Penne 500g", "brand": "Emeg\u00ea", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7eff97f448944ca889cba6b38d051504.jpg"}
+{"name": "Macarr\u00e3o EMEG\u00ca com Ovos Padre Nosso 500g", "brand": "Emeg\u00ea", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6cba2a62a8734438a822d210416a7400.jpg"}
+{"name": "Macarr\u00e3o EMEG\u00ca Ninho com Ovos 500g", "brand": "Emeg\u00ea", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-462adb059926473d971ad51145762843.jpeg"}
+{"name": "Macarr\u00e3o EMEG\u00ca com Ovos Furadinho 500g", "brand": "Emeg\u00ea", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7ee19a1dbd4a459d9597db0f59ce9647.jpeg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Tortilhone 500g ", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f2d03d301dda463fbf0c3d524b020706.jpg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Padre Nosso 500g ", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20d0842414cf4767b6586d900e7e1695.jpeg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Nhoque 500g ", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f392e20213a2464baa6a0273e6b2faa0.jpg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Furado 500g", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7b98c031f3214511add4aa92b5c44d7b.jpg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Fidelinho 500g ", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-aefceed9c7d54a2cb26e99208a9e0d1a.jpg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Espiral 500g", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c7889e541d194eab992760b5797eb1cd.jpg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Espaguete N\u00ba9 500g ", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b6c48d1194ac4ac2bb4953fcec1c6e5b.jpg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Conchinha 500g", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-fa27f7086fbd408db44a48dac0fde745.jpeg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Caracol 500g", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-dc16e05213574069bd234c2519a42498.jpeg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Cabelo de Anjo 500g", "brand": "Adria", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5da0a31246f0492a874fca57112c8016.jpeg"}
+{"name": "Macarr\u00e3o com Ovos ADRIA Argola 500g", "brand": "Adria", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6ef91bbd3cc146b0a6336a9b66e77f6f.jpg"}
+{"name": "Macarr\u00e3o RENATA Tricolor com Vegetais 500g", "brand": "Renata", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-21462e4c597e4abc890c6ba1bf3b367a.jpeg"}
+{"name": "Macarr\u00e3o RENATA Spaguetti N\u00ba 9 500g", "brand": "Renata", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-446de7d11d604dff8d36c410f3f555f0.jpg"}
+{"name": "Macarr\u00e3o RENATA Spaguetti N\u00ba 10 500g", "brand": "Renata", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-54e0d742145e4b57a08a1b5db06d4a75.jpg"}
+{"name": "Macarr\u00e3o RENATA Padre Nosso 500g", "brand": "Renata", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091546457104239e4fa31b328b4f6e81c04eecaef20733.jpg"}
+{"name": "Macarr\u00e3o RENATA Nhoque 500g", "brand": "Renata", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8481804420f44440804e4afc00eced7a.jpg"}
+{"name": "Macarr\u00e3o RENATA Linguine 500g", "brand": "Renata", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-39b57901bae84cfb884879b2e5d780f8.jpeg"}
+{"name": "Macarr\u00e3o RENATA Caracolino 500g", "brand": "Renata", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-65490e1236774f3ab64d298d52357997.jpeg"}
+{"name": "Macarr\u00e3o RENATA Pena 500g", "brand": "Renata", "price": "R$ 4,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3447a1fa11e948c196dc14bce030ddb3.jpg"}
+{"name": "Farinha de Trigo TIA NENA 1Kg", "brand": "Tia Nena", "price": "R$ 2,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4dfde2ba98ba4ffa94a4567f71b4d8ae.jpg"}
+{"name": "Tapioca Integral BRAZOKA Original 400g ", "brand": "Brazoka", "price": "R$ 11,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e68bc44d2795416882e62e9ab63e9947.jpg"}
+{"name": "Tapioca Integral BRAZOKA Batata Doce 400g", "brand": "Brazoka", "price": "R$ 11,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-795048ba693849d1a579838ba24ab0d0.jpg"}
+{"name": "Tapioca Integral BRAZOKA Banana Verde  400g ", "brand": "Brazoka", "price": "R$ 11,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e1340f76951849fe96090f26fa054c60.jpg"}
+{"name": "Sagu de Mandioca YOKI 500g", "brand": "Yoki", "price": "R$ 13,89", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b3aab611b67845df9b991af279625f90.jpg"}
+{"name": "Gr\u00e3o de Bico QUERO Caixinha 180g", "brand": "Quero", "price": "R$ 2,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-37fc15a7a38a497a84820f544c5f4256.jpg"}
+{"name": "Ervilha Verde BSB ALIMENTOS 500g", "brand": "Bsb Alimentos", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6e6f5e42438145fbab353304ebfd1e23.jpg"}
+{"name": "Canjica Branca NIPPON 500g ", "brand": "Nippon", "price": "R$ 2,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f5e73db1bec4449db5db43949b2ff6b3.jpg"}
+{"name": "Fub\u00e1 Mimoso YOKI 1Kg", "brand": "Yoki", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-81bd4f46332b4705b3c0bed1a940c7c8.jpg"}
+{"name": "Farofa de Soja YOKI 250g ", "brand": "Yoki", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-20160209155259666227cbc04fddfbf74de3b1971073cea1c7eb.jpg"}
+{"name": "Farofa YOKI com Peda\u00e7os Banana 200g", "brand": "Yoki", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-9a07b97b9cee4ddfb6070944d2c24781.jpg"}
+{"name": "Farinha de Rosca BSB ALIMENTOS 500g", "brand": "Bsb Alimentos", "price": "R$ 4,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d162eb48970348a8b7dc2f55cd73a520.jpg"}
+{"name": "Farinha de Puba DO SITIO 1Kg", "brand": "Sitio", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-013764d88e5f4daf9ed0b052ca8f6a77.jpg"}
+{"name": "Farinha de Mandioca YOKI Biju 500g", "brand": "Yoki", "price": "R$ 8,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091552590318233cc438529a2a44a3bafb715271556000.jpg"}
+{"name": "Farofa Pronta DO SITIO 250g ", "brand": "Sitio", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-33aea92bc61f4ca0aeb28c9ef32f0d6e.jpg"}
+{"name": "Farinha de Mandioca NIPPON Quebradinha 1Kg", "brand": "Nippon", "price": "R$ 5,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7b5a0032fcbe4f0294789283f654b883.jpg"}
+{"name": "Farinha de Mandioca DO SITIO Quebradinha 1Kg ", "brand": "Sitio", "price": "R$ 5,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2100ca3e92e64722853b2915c16dcb29.jpg"}
+{"name": "Farinha de Mandioca DO SITIO Baiana 1Kg ", "brand": "Sitio", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-eaf93f7099a543bf91d32ba36ea28a44.jpg"}
+{"name": "Farinha de Mandioca DO SITIO Amarela 1Kg", "brand": "Sitio", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-00145321b11d4929ac66dff783ff5700.jpg"}
+{"name": "Farinha de Mandioca BSB ALIMENTOS Rio 1Kg ", "brand": "Bsb Alimentos", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-aa84115830cf4c7dbad851ed62009b19.jpg"}
+{"name": "Polenta PAGANINI Instant\u00e2nea 500g", "brand": "Paganini", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-093b314eedca40f595d3e615519c3258.jpg"}
+{"name": "Floc\u00e3o de Milho YOKI Kimilho 500g", "brand": "Yoki", "price": "R$ 2,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-be9ed17f50c24a3f8505fe7b6aa73637.jpeg"}
+{"name": "Flocos de Milho BSB ALIMENTOS 500g", "brand": "Bsb Alimentos", "price": "R$ 1,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c7180b6c6c6543c69452941418330961.jpeg"}
+{"name": "P\u00e1prica Doce SMART 75g ", "brand": "Smart", "price": "R$ 16,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-abcf840c05b14a808d5451e769cfc948.jpeg"}
+{"name": "Alho Granulado AROMA DAS \u00cdNDIAS 60g ", "brand": "Aroma das \u00cdndias", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5965393c286742d2be6f088df321048b.jpg"}
+{"name": "Sardinha COQUEIRO Tomate 250g", "brand": "Coqueiro", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1efdf5b295734660a5def041a4123f98.jpg"}
+{"name": "Sardinha COQUEIRO \u00d3leo 250g", "brand": "COQUEIRO", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2016020915550212777815211f720c50457797563af5c097a7cb.jpg"}
+{"name": "Sardinha GOMES DA COSTA Ervas 125g ", "brand": "GOMES", "price": "R$ 4,39", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b2e57e234bf24e1da3053a1917affb6c.jpg"}
+{"name": "Fil\u00e9 de Sardinha GOMES DA COSTA Pimenta 125g", "brand": "GOMES", "price": "R$ 10,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-784b05049fb64be1a0703adc812cd484.jpg"}
+{"name": "Fil\u00e9 de Sardinha GOMES DA COSTA \u00d3leo 125g ", "brand": "GOMES", "price": "R$ 10,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-12927899604b47988e422a91733e2d45.jpg"}
+{"name": "Fil\u00e9 de Sardinha GOMES DA COSTA 125g ", "brand": "GOMES", "price": "R$ 10,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3bb40105bfe14f5abea36e20cb583ffc.jpg"}
+{"name": "Salsicha ao Molho ANGLO 300g ", "brand": "ANGLO", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-794d577f6253401a825fc7bff788f4b7.jpg"}
+{"name": "Mandioca Aipim VAPZA 500g", "brand": "Vapza", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a317e1eb837e4018817e0e9161cc481e.jpg"}
+{"name": "Carne Seca Desfiada VAPZA 400g ", "brand": "VAPZA", "price": "R$ 36,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-201602091553199654700fae21c7cb0e4949a6289934960bd544.jpg"}
+{"name": "Salada de Salm\u00e3o GOMES DA COSTA Batata e Maionese 170g", "brand": "GOMES", "price": "R$ 10,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-40da175b707e475c8f48861f4c87184b.jpg"}
+{"name": "Salada de Atum GOMES DA COSTA Batata Doce 150g", "brand": "GOMES", "price": "R$ 11,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c74232091dec444cbcaed97818b1d65d.jpg"}
+{"name": "Salada de Atum GOMES DA COSTA Azeite e Salsa 150g ", "brand": "GOMES", "price": "R$ 11,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-78ac65e50df14bfd8f5aacfa7c3bf98d.jpeg"}
+{"name": "Fil\u00e9 de Atum GOMES DA COSTA com Azeite 125g ", "brand": "GOMES", "price": "R$ 15,89", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-476d3ef8fa55424782ef5653dfa91abd.jpg"}
+{"name": "Cavalinha GOMES DA COSTA \u00d3leo 125g", "brand": "GOMES", "price": "R$ 3,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b9c901c7f049466bb817cd5cd08f6df5.jpg"}
+{"name": "Tomate sem Pele MUTTI 400g ", "brand": "Mutti", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ab1b3e74271c4dd1bf89b2434db57618.jpg"}
+{"name": "Tomate sem Pele HEMMER Em Peda\u00e7os 240g", "brand": "Hemmer", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1836c5280dba46d09d066b2bbf881ea9.jpg"}
+{"name": "Tomate em Cubos SELLE ROSSO 240g", "brand": "Selle Rosso", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6871a7f5c9b246f1864ec8b428c664b8.jpeg"}
+{"name": "Tomate Cereja em Cubos SELLE ROSSO 240g ", "brand": "Selle Rosso", "price": "R$ 5,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0c1a8ed99e0c4b2081ee2e54adc05e18.jpg"}
+{"name": "Macarr\u00e3o Integral EMEG\u00ca Parafuso 500g", "brand": "Emeg\u00ea ", "price": "R$ 4,69", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-1bc41bd6ea874558a54cb118384e1b39.jpg"}
+{"name": "Macarr\u00e3o PAGANINI Nidi Tagliatelle 500g", "brand": "Paganini ", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e72efaf0caf74926934788eab65a8c97.jpg"}
+{"name": "Farinha de Mandioca YOKI Torrada 500g ", "brand": "Yoki ", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-05aabb76e8ca49e9a6c851af64edda18.jpg"}
+{"name": "Azeitonas Verdes CAMPO BELO Recheada 180g", "brand": "Campo Belo ", "price": "R$ 6,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c1e8b7f74f2e4485b3d5df38db604c21.jpg"}
+{"name": "P\u00eassegos em Calda SHELBY 450g", "brand": "Shelby", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b59889e843594d0db6f86fec183bfb4b.jpg"}
+{"name": "Milho Verde QUERO Sach\u00ea 200g", "brand": "Quero ", "price": "R$ 1,89", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e47dd04b673c400b98077b1b94028689.jpg"}
+{"name": "Macarr\u00e3o Instant\u00e2neo CUP NOODLES Legumes 68g", "brand": "Cup Noodles", "price": "R$ 3,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-035160fa25ad477bb158d05a164ff14e.jpg"}
+{"name": "Massa LA MOLISANA Penne Rigate 500g", "brand": "La Molisana", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-aa7b4c7a1967433da87814029c2a86c7.jpg"}
+{"name": "Farofa de Milho YOKI Temperada 500g ", "brand": "Yoki ", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6d1ac399e54a42cca9f1e2527e310864.jpg"}
+{"name": "Farinha de Trigo RENATA Integral 1Kg", "brand": "Renata ", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-75203466caf4445088ca7a8a6ef01148.jpg"}
+{"name": "Massa Lasanha GERMANA ao Forno 500g", "brand": "Germana ", "price": "R$ 7,79", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d3728dbcecd24270a115648671a345e2.jpeg"}
+{"name": "Quinoa Real JASMINE Mista 250g", "brand": "Jasmine ", "price": "R$ 27,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-917e4663da9c4dc7bd404e8665cc26a2.jpg"}
+{"name": "Massa LA MOLISANA Espaguete 500g", "brand": "Molisana ", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b078360ad1a142519703246445edd2e2.jpg"}
+{"name": "Atum Peda\u00e7os COQUEIRO Natural Tradicional 170g", "brand": "Coqueiro ", "price": "R$ 9,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8fe2a15045b4403b9315751cabb8e6a0.jpg"}
+{"name": "Farofa de Mandioca YOKI Temperada Suave 250g ", "brand": "Yoki ", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c536a9f9e1624c6388bc24a8aea2a8f6.jpg"}
+{"name": "Macarr\u00e3o ADRIA S\u00eamola Fidelinho 500g", "brand": "Adria ", "price": "R$ 4,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-ef5fd125ac1841e59f1d476a04ddfd0a.jpg"}
+{"name": "Feij\u00e3o Carioca CAMIL 1Kg ", "brand": "Camil", "price": "R$ 4,59", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2c65d3a3724a450cadba66685c48744c.jpg"}
+{"name": "Farinha de Mandioca BSB ALIMENTOS Baiana 1Kg ", "brand": "Bsb Alimentos", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-32efae737bb348f49fb46f7f9b0f7511.jpg"}
+{"name": "Tomate sem Pele MANGIARE 400g", "brand": "Mangiare", "price": "R$ 3,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-861a594f0fe3480c81cfc1123d4acfb4.png"}
+{"name": "Mistura 4 Legumes D'AUCY 300g", "brand": "Daucy ", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-5b635a13b99d498c8552e95ad34951d9.jpg"}
+{"name": "Biov P\u00f3 JASMINE 300g", "brand": "Jasmine ", "price": "R$ 29,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6b0cdceb5914444aa17287bc5263a666.jpg"}
+{"name": "Azeitonas Verdes IMPERADOR Premium 360g", "brand": "Imperador ", "price": "R$ 15,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-37f6716e8618429b98af72dd983306d3.jpg"}
+{"name": "Farinha de Mandioca YOKI 1Kg", "brand": "Yoki", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-dabf17836be642d0916b2258915442c3.jpg"}
+{"name": "Azeitonas Verdes CAMPO BELO sem Caro\u00e7o 160g", "brand": "Campo Belo", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a81993c8d7374ecf90a46046cc214053.jpeg"}
+{"name": "Massa Pastel GERMANA Lanche 200g", "brand": "Germana ", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-b18699807e404fcab585b3148d0da239.jpg"}
+{"name": "Couscus DIVELLA 500g", "brand": "Divella", "price": "R$ 13,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3a92e155ad6c4b1f98ca5ed0da693a2c.jpg"}
+{"name": "Alcaparras QUERO 60g", "brand": "Quero", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d70911942fee48d4bb60160d828efa1e.jpg"}
+{"name": "Morango em Calda ACONC\u00c1GUA 590g", "brand": "Aconcagua", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f9c05fe1b5904c12b37dcfde5977f9a7.jpg"}
+{"name": "Mix de Castanhas AGTAL 390g ", "brand": "Agtal", "price": "R$ 27,90", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-666e55309bcf438daebad5960514beb4.jpg"}
+{"name": "Massa Gnocchi LA MOLISANA 500g", "brand": "La Molisana", "price": "R$ 7,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2ebc7a0a9c524540b0b47fa78e8f97c3.jpg"}
+{"name": "Farinha de Mandioca BSB ALIMENTOS Quebradinha 1Kg", "brand": "Bsb Alimentos", "price": "R$ 7,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0bac837ec6d34b539149a936c762f52e.jpg"}
+{"name": "Azeitonas Verdes LA VIOLETERA com Caro\u00e7o 500g", "brand": "La Violetera", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-71fb47c99dae41a59c47463bfe3d3613.jpeg"}
+{"name": "Cerejas em Conserva LA VIOLETERA sem Talo 125g", "brand": "La Violetera", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-da988bd76a02402aa16f1f71c76392d7.jpg"}
+{"name": "Tapioca NOSSA GOMA 500g", "brand": "Nossa Goma", "price": "R$ 5,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e86a0e1a65b44d9ba96d2337f746696d.jpg"}
+{"name": "Ervilhas  Congeladas D'AUCY 300g", "brand": "Daucy", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-6594b230d0f14305b3778e31990e2d86.jpg"}
+{"name": "P\u00eassego em Calda ACONC\u00c1GUA Metades 230g", "brand": "Aconc\u00e1gua", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-2adc47311eec40e9b8f46fc778799cd5.jpg"}
+{"name": "P\u00eassego em Calda SELLE GIALLO 485g", "brand": "Selle Giallo", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-18acb21d9ecf472c8edd225686eb0529.jpg"}
+{"name": "Farinha de Trigo RENATA Especial 1Kg", "brand": "Renata", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0c8769fed3e849d0a4bfe442a49c3d35.jpg"}
+{"name": "Azeitonas Verdes CAMPO BELO Fatiada 160g", "brand": "Campo Belo", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7c0964d8a59845408fa6b1ec2f247a1d.jpeg"}
+{"name": "P\u00eassego em Calda GB Metades 425g", "brand": "GB", "price": "R$ 8,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c3ec4e3b9e3b474298a0d2d0d43148a6.jpg"}
+{"name": "Tapioca Pronta PRATA Fina 1Kg ", "brand": "Prata", "price": "R$ 6,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-f168fb72c435467abdc6be06aa2f1e13.png"}
+{"name": "Arroz CAMIL Reserva 5Kg", "brand": "Camil", "price": "R$ 15,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0ce3cd5b9395446bb5ecc6b60e008349.jpg"}
+{"name": "Ovos Brancos YABUTA com 12 Unidades", "brand": "Yabuta", "price": "R$ 3,98", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0bc6722f495745669be15ab89910034f.jpeg"}
+{"name": "Risoto Primavera TIO JO\u00c3O Cozinha&Sabor 175g  ", "brand": "Tio Jo\u00e3o", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-77a3511671044bcc825a27b97757b462.jpg"}
+{"name": "Risoto Milan\u00eas TIO JO\u00c3O Cozinha&Sabor 175g ", "brand": "Tio Jo\u00e3o", "price": "R$ 6,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-8001ae3797324c51b2b9ae8da3b79177.jpg"}
+{"name": "Cozinha Francesa TIO JO\u00c3O 500g ", "brand": "Tio Jo\u00e3o", "price": "R$ 11,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c53f415978d24bd094d05a9159a62f84.jpg"}
+{"name": "Arroz com Tomate e Manjeric\u00e3o TIO JO\u00c3O Cozinha F\u00e1cil 250g", "brand": "Tio Jo\u00e3o", "price": "R$ 5,39", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-74bc31db75ea4e1ebf34a48650e96c33.jpg"}
+{"name": "Arroz com Br\u00f3colis TIO JO\u00c3O Cozinha F\u00e1cil 250g", "brand": "Tio Jo\u00e3o", "price": "R$ 5,39", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-a38b97feead94fdab5ab28bff135c991.jpg"}
+{"name": "Arroz Integral com Vegetais TIO JO\u00c3O Cozinha F\u00e1cil 250g ", "brand": "Tio Jo\u00e3o", "price": "R$ 5,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-e6ea22ec5b6f4388bb22b6eef505caef.jpg"}
+{"name": "Arroz Integral com Tomate TIO JO\u00c3O Cozinha F\u00e1cil 250g", "brand": "Tio Jo\u00e3o", "price": "R$ 5,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-af45828752c6483d95c02141cea8a6cc.jpg"}
+{"name": "Arroz \u00e0 Grega TIO JO\u00c3O Cozinha F\u00e1cil 250g", "brand": "Tio Jo\u00e3o", "price": "R$ 5,49", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-859eac5a25df47f594f6718004a31d48.jpg"}
+{"name": "Arroz Parbolizado TIO JORGE 5Kg", "brand": "Tio Jorge", "price": "R$ 15,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-acce5356b88c4b44bdd16b64d8d9ad97.jpg"}
+{"name": "Arroz Parbolizado URBANO Saquinhos 1Kg", "brand": "Urbano", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-c1dbfb7ae0a243af909a0cf85ca15d1c.jpg"}
+{"name": "Arroz Parboilizado CAMIL Saquinhos 1Kg ", "brand": "Camil", "price": "R$ 5,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4997802d362f496c8ca0c8c6e8e1708d.jpg"}
+{"name": "Arroz Oriental MOMIJI 1Kg", "brand": "Momiji ", "price": "R$ 9,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-97da7c38790d48deb9cd6dd9dcc5697a.jpg"}
+{"name": "Arroz Cateto JASMINE 1Kg ", "brand": "Jasmine", "price": "R$ 16,29", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-87721bfeae5049b8830e377b5ade137e.jpg"}
+{"name": "Arroz Carnaroli PAGANINI 1Kg", "brand": "Paganini", "price": "R$ 15,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-0cb1bc9b3e6f4e51a46d2467eeaf1580.jpg"}
+{"name": "Arroz Basmati TIO JO\u00c3O 500g", "brand": "Tio Jo\u00e3o", "price": "R$ 18,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-3da6eb189c5e49f68563a16fc04d5c69.jpg"}
+{"name": "Arroz Arb\u00f3rio URBANO 1Kg", "brand": "Urbano", "price": "R$ 12,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7def1831e12f4e3497936a50c1ae5464.jpeg"}
+{"name": "Feij\u00e3o Rajado MEU BIJU 500g", "brand": "Biju", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-7af31073db43474291cbbbed67e160c0.jpg"}
+{"name": "Arroz Integral CAMIL 1Kg ", "brand": "Camil", "price": "R$ 4,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-4efc239817324bb3a1ea41b1a993b11a.jpg"}
+{"name": "Arroz CAMIL Reserva 1Kg ", "brand": "Camil", "price": "R$ 3,99", "image": "https://s3-sa-east-1.amazonaws.com/ib.item.image.medium/m-d10dea249b0241ac9201d9d84ab36e2e.jpg"}

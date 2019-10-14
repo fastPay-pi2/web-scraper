@@ -2,33 +2,63 @@ import scrapy
 import json
 from scrapy_splash import SplashRequest
 
+all_urls = [
+    'https://www.bigboxdelivery.com.br/cat/Alimentos-Basicos',
+    'https://www.bigboxdelivery.com.br/cat/Mercearia',
+    'https://www.bigboxdelivery.com.br/cat/Bebidas-Nao-Alcoolicas',
+    'https://www.bigboxdelivery.com.br/cat/Bebidas',
+    'https://www.bigboxdelivery.com.br/cat/Condimentos-e-Molhos',
+    'https://www.bigboxdelivery.com.br/cat/Biscoitos-e-Aperitivos',
+    'https://www.bigboxdelivery.com.br/cat/Doces',
+    'https://www.bigboxdelivery.com.br/cat/Higiene-e-Perfumaria',
+    'https://www.bigboxdelivery.com.br/cat/Limpeza'
+]
+
 class QuotesSpider(scrapy.Spider):
     name = 'fast_spider'
 
     def start_requests(self):
-        urls = [
-            'https://www.bigboxdelivery.com.br/cat/Alimentos-Basicos',
-            'https://www.bigboxdelivery.com.br/cat/Frios-e-Laticinios',
-            'https://www.bigboxdelivery.com.br/cat/Mercearia',
-            'https://www.bigboxdelivery.com.br/cat/Carnes-e-Pescados-1'
-        ]
+        urls = [all_urls[0]]
         for url in urls:
             yield SplashRequest(url=url, callback=self.parse)
 
     def parse(self, response):
-        items = response.css('single-item')
+        pages = response.css('div.ib-pagination li')
 
+        next_page = None
+        for i in pages:
+            if i.css('span.next').get():
+                next_page = i.css('a').attrib['href']
+
+        if next_page is not None:
+            next_page = response.urljoin(next_page)
+            yield SplashRequest(url=next_page, callback=self.parse)
+        else:
+            global all_urls
+            all_urls = all_urls[1:]
+            if all_urls:
+                yield SplashRequest(url=all_urls[0], callback=self.parse)
+
+        items = response.css('div.ib-single-item a')
         for i in items:
+            next_page = response.urljoin(i.attrib['href'])
+            yield SplashRequest(url=next_page, callback=self.product_callback)
+
+
+    def product_callback(self, response):
+        category_path = response.css('div.ib-breadcrumb li')
+        category = category_path[1].css('a::text').get()
+        subcategory = category_path[2].css('a::text').get()
+
+        product_info = response.css('div.product-info')
+
+        for info in product_info:
+            image = response.css('div.ib-image-product img').attrib['src']
             yield {
-                'name': i.css('span.title::text').get(),
-                'brand': i.css('span.brand::text').get(),
-                'price': i.css('div.prices span.price::text').get()
+                'brand': info.css('h2.brand::text').get(),
+                'name': info.css('h1.name::text').get(),
+                'price': info.css('p.price span.price::text').get(),
+                'category': category,
+                'subcategory': subcategory,
+                'image': image
             }
-
-        # spans = response.css('span.title::text').getall()
-        # print('spans = ', spans)
-
-        # next_page = response.css('li.next a::attr(href)').get()
-        # if next_page is not None:
-        #     next_page = response.urljoin(next_page)
-        #     yield scrapy.Request(next_page, callback=self.parse)
